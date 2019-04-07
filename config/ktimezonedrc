@@ -1,0 +1,4 @@
+[TimeZones]
+LocalZone=Europe/Warsaw
+ZoneinfoDir=/usr/share/zoneinfo
+Zonetab=/usr/share/zoneinfo/zone.tab

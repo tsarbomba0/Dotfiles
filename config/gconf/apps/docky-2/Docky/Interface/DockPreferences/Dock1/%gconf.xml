@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="ZoomPercent" mtime="1553377104" type="float" value="1.76"/>
+	<entry name="IconSize" mtime="1553377103" type="int" value="37"/>
+	<entry name="ThreeDimensional" mtime="1553377100" type="bool" value="true"/>
+	<entry name="Plugins" mtime="1553380333" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>Trash</stringvalue>
+		</li>
+	</entry>
+	<entry name="Position" mtime="1554237620" type="string">
+		<stringvalue>Left</stringvalue>
+	</entry>
+	<entry name="SortList" mtime="1554237620" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>/usr/share/applications/chromium.desktop</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>TrashCan</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/share/applications/termite.desktop</stringvalue>
+		</li>
+	</entry>
+	<entry name="Launchers" mtime="1554033249" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>file:///usr/share/applications/chromium.desktop</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>file:///usr/share/applications/termite.desktop</stringvalue>
+		</li>
+	</entry>
+	<entry name="WindowManager" mtime="1553377087" type="bool" value="true"/>
+</gconf>

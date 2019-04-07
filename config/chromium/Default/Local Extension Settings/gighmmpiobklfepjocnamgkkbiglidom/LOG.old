@@ -1,0 +1,39 @@
+2019/04/06-21:48:11.462 f18 Reusing MANIFEST /home/comfy/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2019/04/06-21:48:11.463 f18 Recovering log #262
+2019/04/06-21:48:13.393 f18 Level-0 table #265: started
+2019/04/06-21:48:13.745 f18 Level-0 table #265: 4059688 bytes OK
+2019/04/06-21:48:13.968 f18 Delete type=0 #262
+2019/04/06-21:48:13.971 1085 Compacting 4@0 + 2@1 files
+2019/04/06-21:48:15.290 1085 Generated table #267@0: 2 keys, 4059579 bytes
+2019/04/06-21:48:15.426 1085 Generated table #268@0: 4 keys, 395 bytes
+2019/04/06-21:48:15.426 1085 Compacted 4@0 + 2@1 files => 4059974 bytes
+2019/04/06-21:48:15.547 1085 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/04/06-21:48:15.548 1085 Delete type=2 #256
+2019/04/06-21:48:15.551 1085 Delete type=2 #257
+2019/04/06-21:48:15.551 1085 Delete type=2 #259
+2019/04/06-21:48:15.554 1085 Delete type=2 #261
+2019/04/06-21:48:15.557 1085 Delete type=2 #263
+2019/04/06-21:48:15.558 1085 Delete type=2 #265
+2019/04/06-21:49:14.157 1085 Level-0 table #270: started
+2019/04/06-21:49:14.369 1085 Level-0 table #270: 4059491 bytes OK
+2019/04/06-21:49:14.395 1085 Delete type=0 #266
+2019/04/06-21:50:08.834 1085 Level-0 table #272: started
+2019/04/06-21:50:09.169 1085 Level-0 table #272: 4059672 bytes OK
+2019/04/06-21:50:09.216 1085 Delete type=0 #269
+2019/04/06-22:49:14.466 1085 Level-0 table #274: started
+2019/04/06-22:49:14.678 1085 Level-0 table #274: 4059886 bytes OK
+2019/04/06-22:49:14.701 1085 Delete type=0 #271
+2019/04/06-22:49:54.523 1085 Level-0 table #276: started
+2019/04/06-22:49:54.917 1085 Level-0 table #276: 4059767 bytes OK
+2019/04/06-22:49:54.939 1085 Delete type=0 #273
+2019/04/06-22:49:54.943 1085 Compacting 4@0 + 2@1 files
+2019/04/06-22:49:55.382 1085 Generated table #277@0: 2 keys, 4059369 bytes
+2019/04/06-22:49:55.416 1085 Generated table #278@0: 4 keys, 395 bytes
+2019/04/06-22:49:55.416 1085 Compacted 4@0 + 2@1 files => 4059764 bytes
+2019/04/06-22:49:55.437 1085 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/04/06-22:49:55.438 1085 Delete type=2 #267
+2019/04/06-22:49:55.439 1085 Delete type=2 #268
+2019/04/06-22:49:55.439 1085 Delete type=2 #270
+2019/04/06-22:49:55.440 1085 Delete type=2 #272
+2019/04/06-22:49:55.442 1085 Delete type=2 #274
+2019/04/06-22:49:55.443 1085 Delete type=2 #276

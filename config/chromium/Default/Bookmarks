@@ -1,0 +1,108 @@
+{
+   "checksum": "3996fbdf0bbf2e9f1f9184606fa838ca",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13158261617186120",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13198693453446380"
+            },
+            "name": "Witryna ucznia i rodzica – Plan lekcji",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "https://uonetplus-opiekun.vulcan.net.pl/rudaslaska/009715"
+         }, {
+            "date_added": "13162938642105506",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13198441574081378"
+            },
+            "name": "WallpapersWide.com ",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "http://wallpaperswide.com/"
+         }, {
+            "date_added": "13183841757153203",
+            "id": "9",
+            "name": "0 cookies - Cookie Clicker",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "javascript:(function(){var script=document.createElement('script');script.setAttribute('src','\u003Csource link>');document.body.appendChild(script);}());"
+         }, {
+            "date_added": "13193620513996669",
+            "id": "10",
+            "name": "PENDRIVE 32GB arch",
+            "sync_transaction_version": "8",
+            "type": "url",
+            "url": "https://mediamarkt.pl/komputery-i-tablety/pamiec-kingston-datatraveler-se9-32gb"
+         }, {
+            "date_added": "13193620533005613",
+            "id": "11",
+            "name": "SSD 512GB",
+            "sync_transaction_version": "9",
+            "type": "url",
+            "url": "https://www.euro.com.pl/dyski-wewnetrzne-ssd/silicon-power-ace-a55-512gb.bhtml"
+         }, {
+            "date_added": "13199009886319737",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13199009896743392"
+            },
+            "name": "wallpappers",
+            "sync_transaction_version": "20",
+            "type": "url",
+            "url": "http://www.wallpapersite.com/"
+         } ],
+         "date_added": "13197845326225499",
+         "date_modified": "13199009886319737",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13198968133606278",
+                  "id": "13",
+                  "meta_info": {
+                     "last_visited_desktop": "13198968133607419"
+                  },
+                  "name": "Customization · dylanaraps/pywal Wiki",
+                  "sync_transaction_version": "16",
+                  "type": "url",
+                  "url": "https://github.com/dylanaraps/pywal/wiki/Customization#bspwm"
+               } ],
+               "date_added": "13197845332927631",
+               "date_modified": "13198968133606278",
+               "id": "6",
+               "name": "Nowy folder",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            } ],
+            "date_added": "13197845332927038",
+            "date_modified": "13197845332927039",
+            "id": "5",
+            "name": "Monety",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13197845326225509",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "20",
+      "synced": {
+         "children": [  ],
+         "date_added": "13197845326225514",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

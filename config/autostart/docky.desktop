@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Docky
+Type=Application
+Exec=docky
+Terminal=false
+Icon=docky
+Comment=The finest dock no money can buy.
+Comment[pl]=Najlepszy dock, jakiego nie kupisz za żadne pieniądze.
+NoDisplay=false
+Categories=Utility;
+Hidden=true
