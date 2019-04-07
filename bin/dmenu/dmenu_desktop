@@ -1,0 +1,6 @@
+#!/bin/bash
+dmenu=$(ls /usr/share/applications | dmenu -l 17 -p desktop )
+
+dmenu_text=$( cat /usr/share/applications/$dmenu | grep Exec= )
+dmenu_exec=$( echo $dmenu_text | cut -c 6- )
+exec $dmenu_exec

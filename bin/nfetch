@@ -1,0 +1,7 @@
+#!/bin/bash
+
+ROSE=~/_config/neofetch/rose
+
+neofetch #--ascii "$(cat $ROSE)"
+
+unset ROSE

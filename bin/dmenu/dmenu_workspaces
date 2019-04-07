@@ -1,0 +1,17 @@
+#!/bin/bash
+
+DMENU_TEXT="I\nII\nIII\nIV\nV\nVI\nVII\nVIII\nIX\nX"
+DMENU_OUTPUT=$( echo -e $DMENU_TEXT | dmenu -l 10 -p workspaces )
+
+case "$DMENU_OUTPUT" in
+	I)i3-msg workspace I     ;;
+	II)i3-msg workspace II   ;;
+	III)i3-msg workspace III ;;
+	IV)i3-msg workspace IV   ;;
+	V)i3-msg workspace V     ;;
+	VI)i3-msg workspace VI   ;;
+	VII)i3-msg workspace VII ;;
+	VIII)i3-msg workspace VIII ;;
+	IX)i3-msg workspace IX   ;;
+	X)i3-msg workspace X     ;;
+esac
