@@ -1,0 +1,43 @@
+#!/bin/sh
+
+#Simple X Hotkey daemon
+sxhkd &
+
+#workspaces
+bspc monitor -d I II III IV V VI VII
+
+#config
+bspc config border_width             0
+bspc config window_gap               8
+bspc config split_ratio           0.50
+bspc config borderless_monocle    true
+bspc config gapless_monocle       true
+bspc config borderless_tiling     true
+bspc config focus_follows_pointer true
+
+
+#Rules
+bspc rule -a Emacs desktop=^5 state=floating
+bspc rule -a Feh desktop=^4
+bspc rule -a Chromium desktop=^2
+bspc rule -a Oblogout state=floating
+bspc rule -a WhatsApp desktop=^7
+
+#compositor
+compton &
+
+#rxvt-unicode daemon + conky
+conky &
+urxvtd &
+
+#wallpaper and bar
+nitrogen --restore &
+bash ~/bin/start_polybar
+
+#Dunst
+bash ~/bin/dunst_pywal
+
+while true; do
+	~/bin/uptime-dunst
+	sleep 1000
+done

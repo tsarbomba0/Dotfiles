@@ -1,0 +1,12 @@
+sleep 1; manjaro-compositor --start &
+sleep 1; feh --bg-scale /home/comfy/wal/17.jpg &
+sleep 1; polybar -c /home/comfy/.config/polybar/white/config.white -r openbox-bar &
+sleep 1; docky &
+sleep 1; ob-autostart -d &
+sleep 1; notify-send -u critical "$(neofetch --config /home/comfy/.config/neofetch/config --stdout)"
+sleep 1; volumeicon &
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+xdg-user-dirs-gtk-update &
+sleep 1; thunar --daemon &
+urxvtd &
+

@@ -1,0 +1,51 @@
+00:00:00.049739 main     VirtualBox XPCOM Server 6.0.4 r128164 linux.amd64 (Mar  5 2019 19:56:31) release log
+00:00:00.049745 main     Log opened 2019-04-07T20:00:15.772367000Z
+00:00:00.049746 main     Build Type: release
+00:00:00.049754 main     OS Product: Linux
+00:00:00.049756 main     OS Release: 5.0.5-1-MANJARO
+00:00:00.049758 main     OS Version: #1 SMP PREEMPT Wed Mar 27 19:15:04 UTC 2019
+00:00:00.049829 main     DMI Product Name: Aspire ES1-531
+00:00:00.049850 main     DMI Product Version: V1.22
+00:00:00.049927 main     Host RAM: 3779MB (3.6GB) total, 2562MB (2.5GB) available
+00:00:00.049932 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.049933 main     Process ID: 9165
+00:00:00.049934 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.053983 main     IPC socket path: /tmp/.vbox-comfy-ipc/ipcd
+00:00:00.246342 nspr-2   VirtualBox: object creation starts
+00:00:00.255739 nspr-2   Home directory: '/home/comfy/.config/VirtualBox'
+00:00:00.267297 nspr-2   Loading settings file "/home/comfy/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.323878 nspr-2   Failed to retrive disk info: getDiskName(/dev/mapper/cryptroot) --> cryptroot
+00:00:00.374909 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.396675 nspr-2   NAT: resolv.conf: nameserver 31.11.202.254
+00:00:00.396740 nspr-2   NAT: resolv.conf: nameserver 37.8.214.2
+00:00:00.396784 nspr-2   HostDnsMonitor::updateInfo
+00:00:00.396841 nspr-2   HostDnsMonitor: old information
+00:00:00.396856 nspr-2     no server entries
+00:00:00.396868 nspr-2     no domain set
+00:00:00.396876 nspr-2     no search string entries
+00:00:00.396886 nspr-2   HostDnsMonitor: new information
+00:00:00.396895 nspr-2     server 1: 31.11.202.254
+00:00:00.396908 nspr-2     server 2: 37.8.214.2
+00:00:00.396918 nspr-2     domain: NAT.rudaslaska_kontener.vectranet.pl
+00:00:00.396928 nspr-2     search string 1: NAT.rudaslaska_kontener.vectranet.pl
+00:00:00.459987 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.479792 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d55176e5-6730-4e9e-fc1f-a59b1f44f78f} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.545418 nspr-2   Loading settings file "/home/comfy/VirtualBox VMs/Parabola GNU_Linux-libre/Parabola GNU_Linux-libre.vbox" with version "1.16-linux"
+00:00:00.563959 nspr-2   Loading settings file "/home/comfy/VirtualBox VMs/Solus/Solus.vbox" with version "1.16-linux"
+00:00:00.569631 nspr-2   Loading settings file "/home/comfy/VirtualBox VMs/OpenBSD/OpenBSD.vbox" with version "1.15-linux"
+00:00:00.588589 nspr-2   VirtualBox: object created
+00:00:04.568563 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:04.976194 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:04.979945 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:06.019364 nspr-2   Saving settings file "/home/comfy/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:06.088535 nspr-5   Saving settings file "/home/comfy/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.995099 nspr-5   Saving settings file "/home/comfy/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.086983 nspr-5   Saving settings file "/home/comfy/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.146221 nspr-2   Saving settings file "/home/comfy/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:13.745107 main     VirtualBox: object deletion starts
+00:00:13.745249 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/comfy/VirtualBox VMs/Parabola GNU_Linux-libre/Parabola GNU_Linux-libre.vhd' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:13.759411 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/comfy/VirtualBox VMs/Solus/Solus.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:13.759733 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/comfy/VirtualBox VMs/OpenBSD/OpenBSD.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:14.096060 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:18.760879 main     {00007f26b0021720} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:18.762593 main     VirtualBox: object deleted

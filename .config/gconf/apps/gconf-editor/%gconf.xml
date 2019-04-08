@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="recents" mtime="1554669193" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>/apps/docky-2/Docky/Items/DockyItem/ShowQuit</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/apps/docky-2/Docky/Items/DockyItem/ShowSettings</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/apps/docky-2/Docky/Items/DockyItem/ShowDockyItem</stringvalue>
+		</li>
+	</entry>
+</gconf>
