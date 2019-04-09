@@ -1,8 +1,0 @@
-2019/04/08-22:17:30.931 45e5 Reusing MANIFEST /home/comfy/.config/chromium/Default/Session Storage/MANIFEST-000001
-2019/04/08-22:17:30.932 45e5 Recovering log #117
-2019/04/08-22:17:30.932 45e5 Level-0 table #120: started
-2019/04/08-22:17:30.956 45e5 Level-0 table #120: 20962 bytes OK
-2019/04/08-22:17:30.956 45e5 Recovering log #120
-2019/04/08-22:17:30.956 45e5 Reusing old log /home/comfy/.config/chromium/Default/Session Storage/000120.log 
-2019/04/08-22:17:30.979 45e5 Delete type=0 #117
-2019/04/08-22:17:30.979 45e5 Delete type=2 #121
