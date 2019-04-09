@@ -1,9 +1,0 @@
-2019/04/06-21:48:13.427 e8a Reusing MANIFEST leveldb/MANIFEST-000001
-2019/04/06-21:48:13.620 e8a Recovering log #268
-2019/04/06-21:48:14.119 e8a Level-0 table #271: started
-2019/04/06-21:48:14.322 e8a Level-0 table #271: 509414 bytes OK
-2019/04/06-21:48:14.325 e8a Recovering log #270
-2019/04/06-21:48:14.735 e8a Level-0 table #272: started
-2019/04/06-21:48:14.912 e8a Level-0 table #272: 509414 bytes OK
-2019/04/06-21:48:15.039 e8a Delete type=0 #268
-2019/04/06-21:48:15.043 e8a Delete type=0 #270

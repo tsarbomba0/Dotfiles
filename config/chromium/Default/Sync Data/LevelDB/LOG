@@ -1,6 +1,0 @@
-2019/04/07-10:35:05.618 2981 Reusing MANIFEST /home/comfy/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/04/07-10:35:05.618 2981 Recovering log #135
-2019/04/07-10:35:05.919 2981 Reusing old log /home/comfy/.config/chromium/Default/Sync Data/LevelDB/000135.log 
-2019/04/07-11:03:11.217 2caf Level-0 table #139: started
-2019/04/07-11:03:11.279 2caf Level-0 table #139: 103078 bytes OK
-2019/04/07-11:03:11.335 2caf Delete type=0 #135
