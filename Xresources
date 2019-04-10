@@ -1,0 +1,48 @@
+
+!! Fonts !!
+
+URxvt.font: xft:Fira Code:style=Regular:pixelsize=12;2:antialias=true:weight=200,\xft:Source Code Pro:pixelsize=12;2:antialias=true:style=Regular,\            xft:DejaVu Sans Mono:pixelsize=12;2:antialias=true:style=Book,\xft:Hack:style=Regular:pixelsize=12;2:antialias=true,\ xft:Iosevka Nerd Font:style=Regular:pixelsize=12;2:antialias=true:weight=200
+URxvt.scrollBar:        false
+URxvt.saveLines:        65535
+Xft*dpi:                96
+
+!! Internal Border !!
+URxvt.internalBorder:   30
+
+!! Perl extensions !!
+URxvt.perl-ext-common: keyboard-select,url-select,clipboard
+
+!! Keysyms !! 
+URxvt.keysym.M-Escape: perl:keyboard-select:activate
+URxvt.keysym.M-s: perl:keyboard-select:search
+URxvt.keysym.M-u: perl:url-select:select_next
+URxvt.keysym.M-c:   perl:clipboard:copy
+URxvt.keysym.M-v:   perl:clipboard:paste
+URxvt.keysym.M-C-v: perl:clipboard:paste_escaped
+URxvt.keysym.KP_Add:    +
+URxvt.keysym.KP_Subtract: -
+URxvt.keysym.KP_Multiply: *
+URxvt.keysym.KP_Divide  : /
+URxvt.keysym.KP_Decimal : .
+URxvt.keysym.KP_Separator : ,
+URxvt.keysym.KP_1:      1
+URxvt.keysym.KP_2:      2
+URxvt.keysym.KP_3:      3
+URxvt.keysym.KP_4:      4
+URxvt.keysym.KP_5:      5
+URxvt.keysym.KP_6:      6
+URxvt.keysym.KP_7:      7
+URxvt.keysym.KP_8:      8
+URxvt.keysym.KP_9:      9
+URxvt.keysym.KP_0:      0
+
+!! Blur !!
+!! URxvt*transparent: true
+!! URxvt*shading: 30
+!! URxvt*tintColor: #ffffff
+!! URxvt*blurRadius: 20
+
+!Includes
+#include </home/comfy/.cache/wal/colors.Xresources>
+!#include </home/comfy/_config/urxvt/1>
+
