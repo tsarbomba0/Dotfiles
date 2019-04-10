@@ -1,0 +1,5 @@
+#!/bin/sh
+
+
+polybar -r openbox-bar &
+polybar -c /home/comfy/.config/polybar/config-hdmi -r 1openbox-bar &
