@@ -1,0 +1,18 @@
+#!/bin/bash
+DMENU_TEXT="atom\nnonsensopedia\nscrot\nkill\ndrun\nweb\nst\nurxvt\nlogout\nlock-pixel\npolybar\ndunst\nweather"
+DMENU_CMD='dmenu -p shortcut -l 13'
+DMENU_ANSWER=$( echo -e $DMENU_TEXT | $DMENU_CMD)
+case "$DMENU_ANSWER" in
+	drun) rofi -show drun &          ;;
+	nonsensopedia) chromium nonsa.pl ;;
+	atom) atom            &          ;;
+	web) chromium         &          ;;
+	st) st                &          ;;
+	urxvt) urxvt          &          ;;
+	logout) oblogout      &          ;;
+	lock-pixel) i3lock-script &      ;;
+	polybar) killall polybar && polybar -r openbox-bar &     ;;
+	dunst) killall dunst && bash ~/bin/dunst_pywal &         ;;
+	weather) st -name weather -e /usr/bin/python2.7 -c 'import os A=range(1000) for i in A: os.system("clear && curl wttr.in && sleep 5")' & ;; 
+	kill) xkill
+esac

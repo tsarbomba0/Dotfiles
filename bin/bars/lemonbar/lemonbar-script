@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+numbers='1,2,3,4,5,6,7,8,9,0,1,34,2,34,234,234,2,4,324,23,423,4,234,234,23,423,4,324,23,432,423,4,234,23,423,423,432,423,4,324,324,32,4,324,2'
+
+Clock(){
+	DATE=$(date)
+        echo -n "$DATE"
+}
+
+Battery(){
+	BAT=$(acpi --battery | cut -d, -f2)
+	echo "$BAT"
+}
+
+
+while true; do
+	echo "$(Clock) :: $(Battery)"
+	sleep 1
+done
+
+

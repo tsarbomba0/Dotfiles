@@ -1,0 +1,7 @@
+#!/bin/bash
+
+CONFIG="/home/comfy/.config/neofetch/config.conf"
+ASCII="/home/comfy/.config/neofetch/config.conf.d/rose"
+neofetch --config $CONFIG #--ascii "$( cat $ASCII)"
+unset CONFIG
+unset ASCII

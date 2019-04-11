@@ -1,0 +1,3 @@
+DMENU="dmenu -l 0 -p terminal"
+DMENU_EXEC_TEXT=$($DMENU)
+exec $DMENU_EXEC_TEXT
