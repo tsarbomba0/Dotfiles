@@ -1,6 +1,0 @@
-#!/bin/sh
-
-compton &
-spacefm --desktop &
-docky &
-tint2 &

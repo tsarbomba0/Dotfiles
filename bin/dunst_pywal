@@ -1,9 +1,0 @@
-#!/bin/bash
-
-source /home/comfy/.cache/wal/colors.sh
-
-#killall dunst
-
-dunst -lb $color5 -lf $color7 -lfr $color5 -nb $color6 -nf $color8 -nfr $color6 -cb $color7 -cf $color9 -cfr $color7 &
-
-notify-send -u low "dunst has launched."

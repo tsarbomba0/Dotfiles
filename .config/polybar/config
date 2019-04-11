@@ -25,5 +25,5 @@ monitor-fallback =
 
 modules-left   = workspaces
 modules-center = xwindow
-modules-right  = pulseaudio memory temperature coreuse pkg 
+modules-right  = pulseaudio memory temperature coreuse date 
 

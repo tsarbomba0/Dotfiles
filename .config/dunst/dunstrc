@@ -9,7 +9,7 @@
     show_age_threshold = 60
     word_wrap = yes
     ignore_newline = no
-    geometry = "400x10-20+40"
+    geometry = "400x10-80+40"
     shrink = yes
     transparency = 0
     idle_threshold = 0
@@ -29,22 +29,24 @@
     dmenu = /usr/bin/dmenu -p dunst:
     browser = /usr/bin/chromium
     icon_position = left
-    icon_path = /usr/share/icons/ePapirus/16x16/status/:/usr/share/icons/ePapirus/16x16/devices/
+    icon_path = /home/comfy/.icons/black-red/status/22/:/home/comfy/.icons/blac-red/devices/22/
 
 [shortcuts]
 
 [urgency_low]
-    background = "#29353B"
-    foreground = "#c0c5ce"
+    background  = "#29353B"
+    foreground  = "#c0c5ce"
+    frame_color = "#29353B"
     timeout = 3
 
 [urgency_normal]
-    background = "#29353B"
-    foreground = "#c0c5ce"
+    background  = "#29353B"
+    foreground  = "#c0c5ce"
+    frame_color = "#29353B"
     timeout = 3
 
 [urgency_critical]
-    background = "#29353B"
-    foreground = "#bf616a"
+    background  = "#29353B"
+    foreground  = "#bf616a"
     frame_color = "#bf616a"
     timeout = 5

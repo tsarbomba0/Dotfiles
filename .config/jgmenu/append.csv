@@ -1,4 +1,5 @@
+Screenshot,scrot,system-file-manager
 ^sep()
-log out,openbox --exit,system-log-out
-restart,systemctl -i reboot,system-restart
-poweroff,systemctl -i poweroff,system-shutdown
+Logout,openbox --exit,system-log-out
+Reboot,systemctl reboot -i,system-reboot
+Shutdown,poweroff,system-shutdown

@@ -3,9 +3,9 @@
 stay_alive           = 1
 #hide_on_startup     = 0
 csv_cmd              = pmenu
-tint2_look           = 1
+tint2_look           = 0
 at_pointer           = 0
-terminal_exec        = termite
+terminal_exec        = urxvt
 terminal_args        = -e
 #monitor             = 0
 
@@ -42,32 +42,33 @@ font                 = Iosevka Nerd Font 12px
 #font_fallback       = xtg
 icon_size            = 24
 #icon_text_spacing   = 10
-#icon_theme_fallback = xtg
+icon_theme_fallback = Papirus-Dark
 
-#arrow_string        = ▸
-#arrow_width         = 15
+arrow_string        = ▸
+arrow_width         = 50
 
 ## -------------------------------
 ## colors
 ## adapta-maia
-icon_theme           = Papirus-Adapta-Maia
+icon_theme           = Papirus-Dark
 
-color_menu_bg        = #e0e2e3 100
+color_menu_bg        = #e0e2e3 50
 color_menu_fg        = #2b303b 100
 
 color_menu_border    = #e0e2e3 0
 
-color_norm_bg        = #e0e2e3 100 
+color_norm_bg        = #e0e2e3 1000 
 color_norm_fg        = #2b303b 100
 
-color_sel_bg         = #8fa1b3 100
+color_sel_bg         = #8fa1b3 0
 color_sel_fg         = #2b303b 100
-#color_sel_border     = #e0e2e3 0
+color_sel_border     = #e0e2e3 50
 
 color_sep_fg         = #e0e2e3 0
 
 ## adapta-nokto-maia
-icon_theme           = Papirus-Adapta-Nokto-Maia
+icon_theme           = Papirus-Maia 
+##Papirus-Adapta-Nokto-Maia
 
 #color_menu_bg        = #222d32 100
 #color_menu_fg        = #5198BA 100

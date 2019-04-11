@@ -1,1 +1,0 @@
-polybar -c /home/comfy/.config/polybar/white/config.white  -r openbox-bar

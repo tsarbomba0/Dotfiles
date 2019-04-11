@@ -3,7 +3,7 @@
 ;=====================================================
 
 [section/base]
-include-file = $HOME/.config/polybar/white/master.white
+include-file = $HOME/.config/polybar/master.conf
 include-file = $HOME/.config/polybar/modules.conf
 
 
@@ -14,8 +14,8 @@ include-file = $HOME/.config/polybar/modules.conf
 [bar/openbox-bar]
 inherit = bar/master
 
-; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
-monitor = 
+; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1 
+ 
 monitor-fallback = 
 
 ;tray-position = center
@@ -23,7 +23,7 @@ monitor-fallback =
 ;tray-transparent = true
 ;tray-background = #0063ff
 
-modules-left   = manjaro xwindow
-modules-center = obworkspaces
-modules-right  = pulseaudio memory temperature coreuse pkg
+modules-left   = obworkspaces
+modules-center = xwindow
+modules-right  = pulseaudio memory temperature coreuse date pkg 
 

@@ -34,9 +34,12 @@ verydarkgreen = #104D50
 
 [colors]
 active = ${theme.brightmaia}
-background = ${theme.white}
-foreground = #373B41
-border = ${xrdb:color4}
+foreground = ${theme.white}
+;background = #1C2023
+;background = ${xrdb:color3}
+;background = #373B41
+background = #16060B
+border = ${xrdb:color5}
 moderate = ${theme.lightyellow}
 occupied = ${theme.brightyellow}
 urgent = ${theme.lightorange}
@@ -67,28 +70,30 @@ format-background = ${colors.background}
 ;=====================================================
 
 [bar/master]
-;wm-restack = bspwm
-width = 99%
+monitor = eDP1
+wm-restack = bspwm
+width = 100%
 ;width = 98.5%
-height = 35
-border-size = 0
+height = 28
+right = true
+border-size = 
 border-top-size = 0
-border-bottom-size = 0 
+border-bottom-size = 2 
 ;radius-top = 15
-radius = 8
+radius = 0
 ;bottom = true
 line-size = 3
 tray-maxsize = 2
 ;font-0 = "DejaVu Sans Mono:size=12:antialias=false;2"
-font-0 = "Hack:size=12:antialias=true;2"
+font-0 = "Iosevka Nerd Font:pixelsize=12;2:antialias=true;2"
 font-1 = "font\-logos:size=16:antialias=true;1"
 font-2 = "MaterialIcons:size=12:antialias=false;2"
 font-3 = "icomoon:size=12:antialias=false;2"
 font-4 = "Ubuntu Nerd Font:size=12:antialias=false;2"
-offset-x = 6
-offset-y = 6
-;offset-x = 10
-;offset-y = 10
+;offset-x = 0
+;offset-y = 0
+offset-x = 10
+offset-y = 0
 fixed-center = true
 border-color = ${colors.border}
 background = ${colors.background}

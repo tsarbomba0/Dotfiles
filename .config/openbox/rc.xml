@@ -19,8 +19,8 @@
     <primaryMonitor>Mouse</primaryMonitor>
   </placement>
   <theme>
-    <cornerRadius>8</cornerRadius>
-    <name>Clair-Crimson</name>
+    <cornerRadius>0</cornerRadius>
+    <name>Vermello</name>
     <titleLayout>IMC</titleLayout>
     <keepBorder>no</keepBorder>
     <animateIconify>no</animateIconify>
@@ -445,7 +445,7 @@
     </keybind>
     <keybind key="W-f">
       <action name="Execute">
-        <command>exo-open --launch FileManager</command>
+        <command>bash ~/bin/dmenu/dmenu_screen</command>
       </action>
     </keybind>
     <keybind key="W-t">
