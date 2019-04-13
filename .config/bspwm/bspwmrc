@@ -43,7 +43,7 @@ bash ~/bin/bar/polybar/start_polybar
 redshift >/dev/null 2>&1 &
 
 # !! Pywal !! ##
-wal -R
+#wal -R
 
 # !! Check the system !! # 
 pgrep -x polybar  || set errorlevel 1
