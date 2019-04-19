@@ -1,556 +1,523 @@
-pacman -Qe
-pacman -Qqe
-sudo pacman -R $(sudo pacman -Qdtg)
-sudo pacman -R $(sudo pacman -Qdt)
-pacman -qqq
-pacman -
-pacman -Q
-echo '-Q' | pacman --
-echo '-Q' | pacman -
-echo '-Q' | pacman -$(dev/stdin -h\
-)
-pacman -RssnQ
-pacman -Rssnq
-pacman -Rssnh
-pacman -Ru
-sudo pacman -Rsu
-sudo pacman -Rsudcnps
-sudo pacman -Rsssssssssssssssssssssssssssssssssssssssssssssssssssssssssn
-sudo pacman -Qdg
-sudo pacman -Qd
-sudo pacman -Qdtg
-sudo pacman -Qdt
-sudo pacman -Qdtq
-sudo pacman -R $(sudo pacman -Qdtq)
-df
-neofetch
-unlink .zshrc .bashrc 
-unlink .zshrc 
-unlink .bashrc 
-mv wak wallpaper
-mv zshrc .zshrc
-mv bashrc .bashrc
-mv _config conf.d
-ls conf.d/
-rm '\'
-rm -rf dwm package-lock.json 
-git commit -m "cleaned repo"
-vim ~/.themes/Vermello/themerc
-vim ~/.themes/Vermello/openbox-3/themerc
-obconf
-thunar
-fc-list | grep terminjus
-fc-list | grep terminus
-urx
-fc-list | grep xos
-urxvt -fn "xos4 Terminus:style=Bold"
-urxvt
-vim ~/st/config.h
-rebuild.st
-gotop
-getopts
-getopts -h
-getopts --help
-man getopts
-getopts -myhaz getopt
-echo $getopt
-chmod +x bin/rofi-extended
-rofi-extended -m
-rofi-extended -s
-rofi-extended -h
-vim ~/bin/rofi-extended
-eit
-urxvt -h
-urxvt -debug
-urxvt 
-killall openbox
-bspc config border_width 8
-bspc config border_width 1
-bspc config border_width 3
-cd ~/.config/polybar/
-vim master.conf
-fc-list | grep uni
-yay -S ttf-unifont
-fc-list | grep Uni
-fc-list
-fc-list | grep Fantom
-vim ~/.config/polybar/modules/workspaces.conf
-vim ~/.config/polybar/modules.conf
-cat /tmp/error.polybar
-cmatrix
-rofi -h
-sidebar.sh\\
-
-vim ~/.config/sxhkd/sxhkdrc
-cat ~/bin/rofi.sh
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 10" 
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 12" 
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" 
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset 60
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -100\
-
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -100
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -1000
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -700
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -500
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300  -1
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 -width 100
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 -width 20
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 -width 50
-rofi -show drun -columns 2 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 -width 30
-rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 -width 30
-rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 -width 30 -lines 60
-rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 -width 30 -lines 50
-rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 -width 30 -lines 40
-rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 -width 30 -lines 30
-rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -300 -width 30 -lines 25
-rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -400 -width 30 -lines 25
-rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -430 -width 30 -lines 25
-rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -460 -width 30 -lines 25
-rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -480 -width 30 -lines 25
-echo 'rofi -show drun -columns 1 -show-icons -sidebar-mode -font "Hack 14" -xoffset -480 -width 30 -lines 25' >> bin/sidebar.sh
-chmod +x bin/sidebar.sh
-vim bin/sidebar.sh
-bspc node -t floating
-killall docky
-docky
-rm -rf chromium whats-app-nativefier-d52542
-git add .
-git commit -m "unleaked repo" && git push origin master
-cd config
-cd ..
-rm -rf config
-cd .config
-cd ~/.config/chromium
-cat InterventionPolicyDatabase
-cat InterventionPolicyDatabase/2018.9.6.0
-cat InterventionPolicyDatabase/2018.9.6.0/intervention_policy_database.pb
-cd ~/git/dotfiles
-chmod +x bin/tui
-vim ~/bin/tui
-figlet -f block "Solaris"
-figlet -f block "Manjaro" | lolcat
-figlet -f block ">" | lolcat
-figlet -f block "> ShIt" | lolcat
-figlet -f block "> Shit SHIT SHIT SHIT" | lolcat
-figlet -f slant "SHIT\nSHIT\nSHIT"
-figlet -f slant "SHIT SHIT SHIT"
-figlet -f slant "SHIT"
-figlet -f slant "SHIT" | lolcat -t
-figlet -f slant "SHIT" | lolcat -p 0.1
-for i in 1,2,3,4 do; figlet -f slant "SHIT" | lolcat -p 0.1 done
-while true; do figlet -f slant "SHIT" | lolcat -p 0.1 done\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-;\
-exit
-figlet -f block "Solaris" | lolcat
-figlet -f block "Solaris" | lolcat -p 0.1
-figlet -f block "Solaris" | lolcat -p 0.1 | lolcat 
-figlet -f big "Solaris" | lolcat -p 0.1 | lolcat 
-figlet  "Solaris" | lolcat -p 0.1 | lolcat 
-figlet  "Sh|t" | lolcat -p 0.1 | lolcat 
-figlet  "Sh*t" | lolcat -p 0.1 | lolcat 
-figlet  "Sh***t" | lolcat -p 0.1 | lolcat 
-figlet  ">*" | lolcat -p 0.1 | lolcat 
-figlet  ">*>> " | lolcat -p 0.1 | lolcat 
-figlet  "<<*>> " | lolcat -p 0.1 | lolcat 
-figlet  "<<#>> " | lolcat -p 0.1 | lolcat 
-figlet  "<*<#>*> " | lolcat -p 0.1 | lolcat 
->>*>>
-figlet  ">>>>" | lolcat -p 0.1 | lolcat 
-figlet  ">>>>>/" | lolcat -p 0.1 | lolcat 
-figlet  ">>>>>/\" | lolcat -p 0.1 | lolcat \
-\
-figlet  ">>>>>*" | lolcat -p 0.1 | lolcat 
-figlet  ">>>>>*<<<<<" | lolcat -p 0.1 | lolcat 
-figlet  "* * * * *" | lolcat -p 0.1 | lolcat 
-figlet  "<<*>>" | lolcat -p 0.1 | lolcat 
-figlet  ">>!" | lolcat -p 0.1 | lolcat 
-figlet  "()" | lolcat -p 0.1 | lolcat 
-figlet  "(*)" | lolcat -p 0.1 | lolcat 
-figlet  ">(*)<" | lolcat -p 0.1 | lolcat 
-figlet  "|>(*)<|" | lolcat -p 0.1 | lolcat 
-figlet  "</>|>(*)<|</>" | lolcat -p 0.1 | lolcat 
-figlet  "</> olaris" | lolcat -p 0.1 | lolcat 
-figlet  "0pen</> olaris" | lolcat -p 0.1 | lolcat 
-figlet  "GNU/0pen </> olaris" | lolcat -p 0.1 | lolcat 
-figlet  "GNU/</>olaris" | lolcat -p 0.1 | lolcat 
-figlet  "GNU Mach | Haskell" | lolcat -p 0.1 | lolcat 
-figlet  "GNU Hack " | lolcat -p 0.1 | lolcat 
-figlet  "<GNU/>" | lolcat -p 0.1 | lolcat 
-figlet  "</GNU>" | lolcat -p 0.1 | lolcat 
-figlet  "<GNU>true</gnu>" | lolcat -p 0.1 | lolcat 
-figlet  "<gnu>true</gnu>" | lolcat -p 0.1 | lolcat 
-figlet  "<gnu>true</gnu BSD=true>" | lolcat -p 0.1 | lolcat 
-figlet  "BSDd" | lolcat -p 0.1 | lolcat 
-figlet  " | lolcat -p 0.1 | lolcat \
-\!\
-figlet  "BSDd" | lolcat -p 0.1 | lolcat 
-figlet  "HashBSD" | lolcat -p 0.1 | lolcat 
-figlet  "Ha</>hBSD" | lolcat -p 0.1 | lolcat 
-figlet  "(/_" | lolcat -p 0.1 | lolcat 
-figlet  "(/)" | lolcat -p 0.1 | lolcat 
-figlet  "</>" | lolcat -p 0.1 | lolcat 
-figlet  "</>0" | lolcat -p 0.1 | lolcat 
-figlet  "</>0LARIS" | lolcat -p 0.1 | lolcat 
-figlet  "</>0LARIS     PARABOLA?" | lolcat -p 0.1 | lolcat 
-vim /tmp/solaris
-cc solaris
-cc /tmp/solaris
-ld /tmp/solaris
-tload
-time time
-time uptime
-time & 
-time>
-time>/dev/{null,zero}
-killbspwm
-v
-vim ~/.config/polybar/white/master.conf
-vim ~/.config/polybar/white/master.white
-vim ~/.config/polybar/modules/manjaro.conf
-vim ~/.config/polybar/white/config.white
-cat ~/.config/polybar/master.conf
-termite
-figlet "</>azam"
-figlet "</>hazam"
-figlet "#! </>hazam"
-figlet -f slant "#\
-
-figlet -f slant "figlet -f slant "#\
-"\
-
-figlet -f slant "#\
-e
-figlet -f slant "Anarhi"
-cd ~/wal
-feh
-feh --bg-scale ~/wal/10.png &
-vim ~/.config/termite/config
-cd ~/.cache/wal
-cat colors.yml
-geany colors.yml
-vim ~/.config/jgmenu/jgmenurc
-pacman -Ss calendar
-sudo pacman -S gsimplecal
-gsimplecal
-gsimplecal -h
-cd ~/.config/polybar
-mv white .white
-mkdir white
-cp master.conf config white/
-cd white
-mv config config.white
-mv master.conf master.white
-vim master.white
-vim config.white
-networkmanager-dmenu
-networkmanager_dmenu
-echo 'd | dmenu\
-'
-cat /proc/partitions | dmenu
-cat /proc/partitions | rofi -p
-cat /proc/partitions | rofi -d
-cat /proc/partitions | rofi -e
-cat /proc/partitions | rofi -h
-cat /proc/partitions | rofi -e -
-cat /proc/partitions | rofi -e 
-cat /proc/partitions | rofi -e $(cat /proc/partitions)
-cat /proc/partitions | dmenu -p proc -l 100
-cat /proc/partitions | dmenu -p proc -l 20
-cd /proc
-cat 12
-cd 1
-l
-cat cgroup
-cat exe
-cat io
-io
-ioctl
-attr
-aatr 0Ls
-vim /tmp/soes
-mv soes update.css
-mv /tmp/soes /tmp/update.css
-cd /tmp
-vim update.css
-mv update.css update.4th
-vim update.css update.4th
-vim update.4th
-lsipc
-stty
-stty -h
-stty --help
-stty siz
-stty size
-ls ~/wal
-killall bspwm
-feh --bg-scale 25.jpg
-vim ~/.config/openbox/autostart
-poweroff
-$SHELL --version
-$SHELL --version | awk '/zsh/ {print $1;}'
-$SHELL --version | awk '/zsh/ {print $1 "$2;}'
-$SHELL --version | awk '/zsh/ {print $1 \n $2;}'
-$SHELL --version | awk '/zsh/ {print P=" " $1 $P $2;}'
-$SHELL --version | awk '/zsh/ {print P=" " $1 $2;}'
-$SHELL --version | awk '/zsh/ {print  "$1 $2";}'
-$SHELL --version | awk '/zsh/ {print  $1 $2;}'
-$SHELL --version | awk '/^zsh/ {print  $1 $2;}' 
-$SHELL --version | awk '/^zsh/ {print  $1 $2 3; }' 
-$SHELL --version | awk '/^zsh/ {print  $1 $2 $3; }' 
-$SHELL --version | awk '/^zsh/ {print  $1 $2 ; }' 
-echo $OSTYPE
-echo $OSTYPE | awk '/linux/ {print $1'
-echo $OSTYPE | awk '/linux/ {print $1;}'
-echo $OSTYPE | awk '/^linux/ {print $1;}'
-echo $OSTYPE | awk '/^linux/ {print $1;-1}'
-echo $OSTYPE | awk '/^linux/ {print /*/$1;}'
-echo $OSTYPE | awk '/^*linux/ {print $1;}'
-echo $OSTYPE | awk '/^linux*/ {print $1;}'
-*&
-*
-O&
-\: &
-\:
-\::
-%
-$
-@
-!
-sudo gparted /dev/sda
-xfce4-terminal
+cp ~/.icons/oomox-colors-oomox-colors oomox-colors-oomox-icons -r
+rm packages
+pacman -Qqe | grep ttf
+pacman -Qqe | grep ttf > fonts-pkg
+git add . && git commit -m "Update" && git push origin master 
+sudo dd if=/home/comfy/Pobrane/void-live-x86_64-musl-20181111-xfce.iso of=/dev/sdb bs=4M status=progress
+vim reboot
 ls /boot/efi
 ls /boot/
-suuo mount /dev/sda3 /mnt
-sudo mount /dev/sda3 /mnt
-sudo mount /dev/sda2 /mnt
+sudo vim /boot/efi/EFI/refind.conf
 ls /mnt
-blkid -o PARTUUID /dev/sda2
-blkid /dev/sda2
-sudo blkid /dev/sda2
-sudo modprobe ufs
-lsblk
-sudo mount /dev/sda8 /mnt -t=ufs2
-sudo mount /dev/sda8 /mnt -t ufs2
-sudo mount /dev/sda8 /mnt -t ufs
-sudo mount /dev/sda8 /mnt 
-sudo mount -r -t ufs -o ufstype=ufs2 /dev/sda8 /mnt 
-cd /mnt
-vim etc/fstab
-sudo vim etc/fstab
+ls /mnt/boot
+ls /boot/efi/EFI/refind/themes/rEFInd-sunset/icons 
+ls /boot/efi/EFI/refind/icons
+grubup
+sudo mount /dev/sda8 /mnt
+vbve 
+lsof
+pkg i
+mkfifo
+mkfifo --help
+/tmp/fifo
+mkfifo /tmp/fifo
+echo '' > /tmp/fifo
+cat /tmp/fifo
+arch-chroot
+manjaro-chroot
+sudo pacman -S arch-install-scripts
+sudo mount /dev/sda8 /mnt ;sudo mount /dev/sda9 /mnt/boot/efi
+arch-chroot /mnt
+sudo arch-chroot /mnt
+cp /usr/share/zsh/plugins/zsh-history-substring-search /mnt/usr/share/zsh/plugins/ -r
+sudo cp /usr/share/zsh/plugins/zsh-history-substring-search /mnt/usr/share/zsh/plugins/ -r
+sudo arch-chroot /mnt /bin/zsh
+sudo cp /home/comfy/.cache/wal /mnt/home/comfy/.cache/wal
+sudo cp /home/comfy/.cache/wal /mnt/home/comfy/.cache/wal -0r
+sudo cp /home/comfy/.cache/wal /mnt/home/comfy/.cache/wal -r
+sudo mkdir /mnt/home/comfy/.cache ; sudo cp /home/comfy/.cache/wal /mnt/home/comfy/.cache/wal -r
+pacman -Qqe | grep zsh
+pacman -Qq | grep zsh
 sudo vim /boot/efi/EFI/refind/refind.conf
-cp ~/.Xresources ~/git/Dotfiles/
-cp ~/.Xresources ~/git/Dotfiles/.Xresources
-cd git/dotfiles
-cp ~/.Xresources Xresources
-vim freebsd
-cd git/Dotfiles
-git push origin master
-git push origin master -ff
-cd git
-cd dotfiles
-rm -rf bin 
-cp ~/bin bin
-cp ~/bin bin -r
-git add . && git commit -m "1" && git push origin master 
-git push origin master 
-bin
-./rofi.sh
-cd ~/bin/
-ls | grep rofi
-rofi-extended
-sidebar.sh
-vim ~/.config/polybar/modules/date.conf
-vim ~/.config/polybar/modules/coreuse.conf
-vim ~/.config/polybar/modules/temperature.conf
-vim ~/.config/polybar/modules/memory.conf
-vim ~/.config/polybar/modules/pulseaudio.conf
-vim ~/.config/polybar/config
-wal --theme base16-dracula
-vim ~/.config/polybar/master.conf
-wal -i ~/wal/5.jpg
-wal -i ~/wal/6.jpg
-wal -i ~/wal/7.jpg
-wal -i ~/wal/8.jpg
-wal -i ~/wal/9.jpg
-wal -i ~/wal/10.jpg
-wal -i ~/wal/11.jpg
-wal -i ~/wal/12.jpg
-wal -i ~/wal/12.png
-wal -i ~/wal/13.png
-wal -i ~/wal/1.png
-wal -i ~/wal/10.png
-wal -i ~/wal/9.png
-wal -i ~/wal/8.png
-ls wal
-wal -i 20.jpg
-wal -i ~/wa/20.jpg
-wal -i ~/wal/20.jpg
-wal -i ~/wal/21.jpg
-wal -i ~/wal/22.jpg --backend color
-wal -i ~/wal/22.jpg --backend colorz
-wal -i ~/wal/22.jpg
-wal -i ~/wal/23.jpg
-wal -i ~/wal/24.jpg
-wal -i ~/wal/25.jpg
-wal -i ~/wal/28.jpg
-cd wal
-wal -i 4.jpg
-wal -i 1.jpg
-wal -i 13.jpg
-wal -i 14.jpg
-wal -i 15.jpg
-wal -i 16.jpg
-yay -S oomox
-sudo pacman -Syu
-sudo pacman -Syuu
-sudo pacman -Syyuu
-cd /tmp/
-git clone https://github.com/themix-project/oomox.git --recursive
-cd oomox
-./gui.sh
-vim ~/bin/dunst_pywal
-vim ~/.config/bspwm/bspwmrc
-killall dunst
-dunst_pywal
-notify-send "test"
-start_bar
-clear && nfetch
-nitrogen
-wal -i ~/wal/27.jpg
+sudo gparted /dev/sdad
+ls bin/
+exi\t\\
+
 wal -i ~/wal/26.jpg
-reboot
-systemctl reboot -i
-bspc window_gap 10
-bspc config window_gap 10
-bspc config window_gap 40
-vim ~/conf.d/neofetch/neofetch/ascii
-vim ~/conf.d/neofetch/ascii
+wal -i ~/wal/22.jpg
+wal -i ~/wal/2.jpg
+wal -i ~/wal/27.jpg
+wal -i ~/wal/7.jpg
+\:x
+exit\\
+exot
+vim ~/.config/polybar/modules/temperature.conf
 vis
-mkdir ~/.Xresources.d/urxvt
-mkdir schemes
-mv 1.Xresources schemes/1
-vim blur
-vim fonts
-vim config
-vim keysyms
-geany keysyms & geany ~/.Xresources
-vim main
-mv ~/.Xresources Xresources-Backup
-ls bin
-darthvader
-uptime.sh
-monster
-mkdir ~/.config/neofetch/config.conf.d
-cp ~/conf.d/neofetch/ ~/.config/neofetch/config.conf.d/
-cp ~/conf.d/neofetch/* ~/.config/neofetch/config.conf.d/ 
-vim ~/bin/nfetch
-ls -ghfs ~
-ls ~/.Xresources
-ls ~/.Xresources.d
-mkdir .Xresources.d
-mkdir ~/.Xresources.d
-rm -rf .Xresources.d
-cp ~/conf.d/urxvt/1  ~/.Xresources.d/1.Xresources
-vim ~/.Xresources
-xrdb ~/.Xresources
-ex
+feh ~/wal/
+neofetch --w3m ~/wal/2.png
+neofetch --w3m ~/wal/27.jpg
+neofetch --w3m ~/wal/15.jpg
+neofetch --jp2a ~/wal/15.jpg
+nitrogen
+-see anarchy
+see
+say
+oomox
+oomox-gui
+cd git/oomox\\
+
+wal -i ~/wal/11.png
+wal -i ~/wal/15.png
+cd ~/wal
+wal -i ~/wal/26.jpg 
+wal -i ~/wal/15.jpg 
+feh
+wal -i ~/wal/16.jpg 
+cd ~/git/oomox\\
+
+cat gui.sh
+./gui.sh
+urxvt -name anachist
+urxvt -name \u@\h
+urxvt -name comfy@anarchist
+vim ~/.config/polybar/config
+wal -i ~/wal/28.jpg 
+wal -i ~/wal/29.jpg 
+wal -i ~/wal/29.jpg --backend colorz
+wal --backend colorz -i ~/wal/30.png 
+vim ~/.co m,
+sudo docker search alpine
+cat /tmp/error.polybar
+start_bar\\
+
+start_bar\\
+\\
+
+start_bar\\
+\\
+\\
+
+start_bar\\
+\\
+\\
+\\
+
+start_bar\\
+\\
+\\
+\\
+\\
+
+start_bar\
+
+vim ~/.config/polybar/master.conf ; start_bar
+rofi -show drun -theme ~/sidebar.rasi
+vim ~/.config/polybar/modules/memory.conf
+vim ~/.config/polybar/modules/coreuse.conf
+vim ~/.config/polybar/modules/date.conf
+vim ~/.config/polybar/master
+vim ~/.config/polybar/modules/pulseaudio.conf
 cd ~/.Xresources.d
-cd urxvt
-rm main
-mv Xresources-Backup .xresources
-rm -rf nohup.out 
+;s
+cd schemes
+rm 1
+vim nord
+geany nord
+cd /usr/share/themes
+cd ../rofi
+cd themes
+rofi -show run -theme onedark
+rofi -show run -theme dmenu
+rofi -show run -theme sidebar
+rofi -show drun -show-icons -theme sidebar
+cp sidebar ~/sidebar.rasi
+cp sidebar.rasi ~/sidebar.rasi
+vim sidebar.rasi
+cat ~/.Xresources.d/schemes/nord
+rofi.sh
+rofi -show drun -h
+rofi -show drun -fullscreen
+rofi -show drun -fullscreen -lines 2
+rofi -show drun -fullscreen -show-icons -display-drun bspwm
+rofi -show drun -fullscreen -show-icons -display-drun rofi
+rofi -show drun -fullscreen -lines 2 -seperator-style dash
+rebuild.st
+st
+yay -Ss compiz
+yay -Ss compiz-fusion-plugins-main compiz-fusion-plugins-extra fusion-icon ccsm menumaker-compiz compiz-boxmenu compiz-core emerald
+sudo pacman -Syu
+yay -S compiz-fusion-plugins-main compiz-fusion-plugins-extra fusion-icon ccsm menumaker-compiz compiz-boxmenu compiz-core emerald
+perl -h
+perl -m "bcop"
+pacman -Ss bcopp
+pacman -Ss bcop
+yay -S fusion-icon ccsm menumaker-compiz compiz-boxmenu compiz-core emerald
+yay -S fusion-icon ccsm menumaker-compiz compiz-boxmenu emerald
+vim /tmp/ess
+ls\\ 
+ls / / 
+cat /rootfs-pkgs.txt 
+elinks www.google.com
+lynx www.google.com
+neofetch --config none
+neofetch --config none --stdout
+tty-clock
+vim ~/.config/bspwm/bspwmrc
+init 6
+telinit 6
+. git/oomox/gui.sh
+bspc window -e left -10
+bspc
+bspc -h
+bspc node 
+bspc node -e
+bspc node -p
+bspc node -p left -10
+bspc node -p 1
+bspc node -p true
+bspc window 
+vim ~/.config/sxhkd/sxhkdrc
+bspc node -t floating
+rm Lx
+rm 'Lx\'
+wscr 12
+herbstluftwm
+bspwm -h
+bspwm -v
+acpi
+acpi --battery
+acpi 
+acpi  | lemonbar 
+acpi  | lemonbar  -p
+bspc wm -g
+bspc wm -g 
+bspc wm -g | grep -B3 f
+bspc wm -g | grep -B3 f -f
+bspc wm -g | grep -B3 f -e fI -e FX
+cat /etc/*release
+sudo nano /etc/*release
+cd /var/db/
+mkdir pkg
+sudo mkdir pkg
+cd pkg
+sudo mkdir {a,b,c,d,e,f,g}
+sudo nano /etc/os-release
+screenfetch
+tdrop
+pacman -Ss tdrop
+yay -Ss tdrop
+yay -S tdrop-git
+tdrop urxvt
+tdrop -h
+tdrop i3
+killall bspwm
+vim ~/bin/screen/i3lock-script
+cd c++
+vim 3.cpp
+vim 2.cpp
+cd ~/.config/compton.conf
+vim ~/.config/compton.conf
+vim ~/bin/bars/lemonbar/lemonbar-s
+vim ~/bin/bars/lemonbar/lemonbar-script
+vim ~/bin/rofi/rofi.sh
+vim ~/bin/misc/mon-to-fry
+vim ~/bin/misc/manage-sys
+pacman -Qu
+pacman -Quq
+pacman -Quq 
+pacman -Quq | pacman -S -
+pacman -Quq | sudo pacman -S -
+lynx www.reddit.com/r/unixporn
+ssh
+ssh localhost
+systemctl status sshd.service
+systemctl enable --now  sshd.service
+lemonbar-staty
+vim ~/bin/bars/lemonbar/lemonbar-start
+lemonbar-start
+eval lemonbar-start
+eval
+eval -h
+man eval
+$0
+init
+ls bin/colors
+brew updates
+brew help
+busybox
+sudo pacman -Sw busybox
+cmatrix
+cmatrix | lolcat
+cmatrix | lolcat -t
+cmatrix | lolcat -p 90
+v ~/.config/polybar/master.conf
+DejaVu Sans Mono
+vim ~/.Xresources.d/urxvt/blur
+exit\\
+
+vim ~/.config/polybar/modules/workspaces.conf
+crunchbang
+crunchbang-mini
+awk 'BEGIN { FS=":"; } { print $1; }' /etc/passwd
+nologin
+bin
+cd /bin
+mail
+sudo pacman -S mutt
+sudo pacman -S ncdu
+lsl
+findmnt -R /mnt
+umount /mnt/{dev,sys,proc}
+sudo umount /mnt/{dev,sys,proc}
+sudo umount /mnt/{dev/*,sys/*,proc/*}
+ranger
+clear && source .zshrc
+wscr 13
+sudo gparted /dev/sda
+rm -rf .config .urxvt .Xresources
+pacman -Qqe
+cp ~/.config .config
+cp ~/.config .config -r
+dd if=alpine-standard-3.9.3-x86_64.iso of=/dev/sdb bs=4M status=progress iflag=fullblock
+sudo dd if=alpine-standard-3.9.3-x86_64.iso of=/dev/sdb bs=4M status=progress iflag=fullblock
+sudo dd if=Pobrane/artix-lxqt-openrc-gremlins-20190222-x86_64.iso of=/dev/sdb bs=4M status=progress iflag=fullblock
+unset POWERLEVEL9K_LEFT_PROMPT_ELEMENTS
+pacman -Ss zsh
+pacman -S command-not-found zsh-theme-powerlevel9k powerline2
+sudo pacman -S command-not-found zsh-theme-powerlevel9k powerline2
+wrqr
+ls /usr/share
+ls /usr/share/vim/
+ls /usr/share/vim/vimfiles
+pip install git+git://github.com/Lokaltog/powerline
+pip install git+git://github.com/Lokaltog/powerline --user
+pip show powerline-status
+. ~/.local/lib/python3.7/site-packages
+. ~/.local/lib/python3.7/site-packages/powerline/bindings/zsh/powerline.zsh
+is this a hoke
+vim
+vim ~/.vimrc
+POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+. /usr/share/zsh-theme-powerlevel9k/powerlevel9k.zsh-theme
+cd git/dotfiles
+vim ~/.zsh\rc
+geany ~/.zshrc
+. /usr/share/zsh-th*/powe*
+xrandr-hdmi
+sudo arch-chroot /mnt bash
+sudo arch-chroot /mnt useradd -m -G audio,wheel comfy && passwd comfy && passwd root
+sudo arch-chroot /mnt useradd -m -G audio,wheel comfy && passwd comfy <bartolo10 <bartolo10 && passwd root <bartolo10 <bartolo10
+sudo arch-chroot /mnt passwd comfy <bartolo10 <bartolo10 && passwd root <bartolo10 <bartolo10
+sudo arch-chroot /mnt passwd comfy <$( echo bartolo10 ) <$(echo bartolo10) && passwd root <$(echo bartolo10) <$(echo bartolo10)
+dd if=/dev/zero of=e.img bs=4M count=4 
+i3lock-script
+cd /mnt
+sudo systemd-nspawn
+cp ~/.bashrc /mnt/home/comfy/.bashrc
+sudo cp ~/.bashrc /mnt/home/comfy/.bashrc
+env HOME=/root TERM=$TERM -i /usr/bin/arch-chroot /mnt TERM=rxvt-256color bash
+env HOME=/root TERM=$TERM  /usr/bin/arch-chroot /mnt TERM=rxvt-256color bash
+env HOME=/root TERM=$TERM  /usr/bin/sudo /usr/bin/arch-chroot /mnt TERM=rxvt-256color bash
+env HOME=/root TERM=$TERM  /usr/bin/sudo /usr/bin/arch-chroot /mnt export TERM=rxvt-256color && bash
+env HOME=/root TERM=$TERM  /usr/bin/sudo /usr/bin/arch-chroot /mnt bash
+fdisk e.img
+fdisk ~/e.img
+mkdir /tmp/test && sudo mount ~/e.img /tmp/test
+mkfs.fat -F32 ~/e.img
+mkfs.fat -F16 ~/e.img
+sudo mount ~/e.img /tmp/test
+bootctl install --path=/tmp/test
+sudo bootctl install --path=/tmp/test
+ls /tmp/test
+sudo bootctl install --path=/tmp/test/
+sudo bootctl install --path=/tmp/
+sudo bootctl install --path=/boot/efi
+cd /boot/efi
+cd EFi
+sudo mv systemd /mnt/boot/systemd
+cd /mnt/boot
+sudo mv systemd boot
+mkdir EFI
+genfstab -h
+genfstab -U -p /mnt >> /mnt/etc/fstab
+sudo genfstab -U -p /mnt >> /mnt/etc/fstab
+why u anarchist
+genfstab
+pacstrap
+sudo gparted /dev/sdb
+sudo -i
+blkid
+fzf
+fzf readme
+fzf =h
+overd
+lsblk
+sudo cryptsetup open /dev/sdb3 ; sudo mount /dev/portable/root /mnt ; sudo mount /dev/sdb2 /mnt/boot
+sudo cryptsetup open /dev/sdb3 cryptlvm ; sudo mount /dev/portable/root /mnt ; sudo mount /dev/sdb2 /mnt/boot
+ls /dev/
+ls /dev/mapper
+sudo mount /dev/mapper/portable-root /mnt ; sudo mount /dev/sdb2 /mnt/boot
+sudo vim /mnt/etc/mkinitcpio.conf
+sudo arch-chroot /mnt mkinitcpio -p linux
+sudo arch-chroot /mnt mkinitcpio -p linux-zen
+sudo vim /mnt/boot/loader/entries/arch.conf
+sudo vim /mnt/etc/fstab
+sudo cp /mnt/boot/EFI/boot/systemd-bootx64.efi /mnt/boot/EFI/boot/bootx64.efi
+reboot
+vim ~/.Xresources
+vim ~/.Xresources\\
+
+xrdb ~/.Xresources
+vim ~/.config/polybar/master.conf
+cd 
+cd ~/.config/polybar/modules
+cp date.conf date-noicon
+vim date-noicon; mv date-noicon date-noicon.conf
+vim ../modules.conf
+vim ../config
+vim ../master.conf
+start_bar
+$color7
+crunch
+abcdef
+alpha
+gcal
+xdotool
+sudo pacman -S xdo
+xdo
+xdo -j
+xdo -h
+man xdo
+sudo pacman -S qutebrowser
+qutebrowser
+gdialog
+gdialog --checklist "choose:" 15 40 5 \ 
+sudo pacman -S dialog
+dialog --title "DockerAPI Runtime" --msgbox "\n Initialized IPC Socket on unix://tmp/dockerd.sockd" 6 50
+dialog --title "DockerAPI Runtime" --msgbox "\n Initialized IPC Socket on host1:ssh" 6 50
+dialog --title "DockerAPI Runtime" --msgbox "\n Initialized IPC Socket on host1:ssh" 6 500
+dialog --title "DockerAPI Runtime" --msgbox "\n Initialized IPC Socket on host1:ssh" 60 500
+dialog --title "DockerAPI Runtime" --msgbox "\n $(neofetch --stdout)" 60 500
+dialog --title "DockerAPI Runtime" --msgbox "\n $()" 60 500
+dialog --infobox "$(cal)"
+dialog --infobox "$(cal)" 3 4
+cal
+dialog --infobox "$(cat /tmp/error.polybar)" 3 4
+dialog --title "Date" --msgbox "$(cal)" 6 50
+dialog --title "Date" --msgbox "$(cal)" 20
+dialog --title "Date" --msgbox "$(cal)" 20 40
+dialog --title "Date" --msgbox "$(cal)" 20 100
+dialog --title "Date" --msgbox "$(cal)" 20 10
+dialog --title "Date" --msgbox "$(cal)" 20 20
+dialog --title "Date" --msgbox "$(cal)" 20 30
+dialog --title "Date" --msgbox "$(cal)" 20 33
+mutt
+ \mail
+\start_bar
+vim ~/c++/1.cpp
+cd ~/c++
+cd 1
+rm '\'
+source ~/.zshrc
+ls /usr/share/
+ls /usr/share/include
+ls /usr/share/includes
+ls /usr/include/
+ls /usr/include/ | gre[ ;
+ls /usr/include/ | grep li
+ls /usr/include/ | grep linux
+ls /usr/include/ | grep linux | ls -
+ls /usr/include/ | grep linux | ls 
+ls /usr/include/ | grep linux 
+ls /usr/include/linux
+ls /usr/include/linux | grep lin
+ls /usr/include/linux | grep sys
+vim include.h
+vim loop.cpp
+cc loop loop.cpp
+./loop
+pacman2
+mkdir conf.d/ascii
 ls conf.d
 rm -rf conf.d
-unlink wallpaper
-cat ~/.Xresources.d/urxvt/main
-crunch
-crunchbang
-cd bin
-hex
-rails
-illumina
-clock
-weather
-tui
-jangofett
-tiefighter2
-colorview
-crowns
-chfn-live
-chfn-live xft:monospace
-i3lock-script
-mon-to-fry
-mouseface
-c;ear
+rm e.img
+cd Scripts
+mkdir ascii
+cd ascii
+pacman2>pacman
+vim pacman
+geany pacman
+cat pacman
+cat "\
+\n pacman"
+echo
+echo -ne " "| cat pacman
+echo -e " "| cat pacman
+vim ~/.zshrc
+pacman -V
+pacman -V | awk '/-/ {print $1;}'
+pacman -V | awk '/-/ {print $1 $2;}'
+pacman -V | awk '/-/ {print $1 $2 $3;}'
+pacman -V | awk '/^-/ {print $1 $2 $3;}' 
+cd .. 
+cd bash
+vim arg0
+chmod +x arg0
+./arg0
+ln -s arg0 dev0
+./dev0
+cd /tmp/
 clear
-pukeskull
-diamond
-diamond 3
-diamond 4
-diamond 100
-diamond '7+u\
-''\
-'
-diamond '7+u'
-diamond '7++'
-diamond '7+u+i'
-diamond '7+i'
-raily--x
-raily-x
-rally-x
-rupees
-space-invaders
+mkdir dev
+mknod 6 7 87 
+mknod --hep
+mknod --help
+mknod null 3 6 0
+mknod null 3 6 null
+mknod null b 3 6 0
+mknod null b 3 6 
+mknod $(pwd)/null b 3 6 
+sudo mknod $(pwd)/null b 3 6 
+chmod a+r+w null
+sudo chmod a+r+w null
+cat null
+null
+ln -s /dev/null null
+ln -s /dev/random random
+ln -s /dev/urandom urandom
+ln -s /dev/mapper mapper
+cd mapper
+cd ..
+chmod 000 dev
+cd devc
+sudo chmod a+r+w dev
+cd dev
+cat bspwm_0_0-socket
+=socket
+=docker
+socker
+_socket
+_
+_t,[
+[]
+[for i in dev]
+vim main.cpp
+cc login main.cpp
+./login
+cd ~/c++/1
 cd ~
-cd node_modules
-./fs-extra
-ls
-rm
-docker search void
-sudo -i
-ping 8.8.8.8
-ip link
-exit
-bspc config window_gap 30
-clear && nfetch && sleep 34823904802384
-bspc config window_gap 10
-nfetch
-wscr 11
-bspc config window_gap 20
-cd git
-cd dotfiles
-bash
 cd bin
+cd dmenu
 ls
-figlet -f slant "bspwm"
-vis
-vim ~/.Xresources
-vim c++/2.cpp
-ls
-pacman2
-ls bin
+neofetch
 clock
-l
-ls
-dhcp
-dhcpcp
-dhcpcd
-dhcpcd -h
-dhcpcd enp2s0
-sudo dhcpcd enp2s0
-sudo dhcpcd enp1s0
+poweroff
+ls /usr/share/zsh/plugins
+vim ~/.zsh/aliases
+ls \\
+
+vim ~/.zsh/zshrc.d/aliases
+ls /usr/share/zsh/plugins/zsh-history-substring-search
+dialog --title "Date" --msgbox "$(cal)" 10 33
+meofetch --st
+exit

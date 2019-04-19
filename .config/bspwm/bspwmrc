@@ -2,16 +2,16 @@
 
 source /home/comfy/.cache/wal/colors.sh
 
-# !! Simple X Hotkey daemon !! #
 sxhkd &
 
-# !! Workspaces !! #
-bspc monitor -d I II III IV V VI VII
+bspc monitor -d I II III IV V VI VII VIII IX X
 
-# !! Config !! #
-bspc config normal_border_color       "$color1"
-bspc config active_border_color       "$color2"
-bspc config focused_border_color      "$color6"
+#################################################
+#              bspc/config                      #
+#################################################
+bspc config normal_border_color       "#AA000000"
+bspc config active_border_color       "#AA000000"
+bspc config focused_border_color        "#2f343f"
 bspc config border_width                      4
 bspc config window_gap                        8
 bspc config split_ratio                    0.50
@@ -21,37 +21,34 @@ bspc config borderless_tiling              true
 bspc config focus_follows_pointer          true
 bspc config border_radius                     8
 
-
-# !! Rules !! #
+###################################
+#           bspc/Rules            #
+###################################
 bspc rule -a Emacs    desktop=^5 state=floating
 bspc rule -a Feh      desktop=^4
 bspc rule -a Chromium desktop=^2
 bspc rule -a Oblogout desktop=^2 state=floating
 bspc rule -a WhatsApp desktop=^7
 
-# !! compositor !! #
+##############################
+#         autostart          #
+##############################
+sxhkd &
 compton &
-
-# !! rxvt-unicode daemon !! #
 urxvtd &
-
-# !! wallpaper and bar !! #
+urxvtc &
 nitrogen --restore &
-bash ~/bin/bar/polybar/start_polybar
-
-# !! Redshift !! #
+bash ~/bin/bars/polybar/start_polybar
 redshift >/dev/null 2>&1 &
+numlockx on &
 
-# !! Pywal !! ##
-#wal -R
+##################################################
+#                Double Monitors                 #
+##################################################
+xrandr | grep "HDMI1 connected" || export ONE_MONITOR="YES"
 
-# !! Check the system !! # 
-pgrep -x polybar  || set errorlevel 1
-pgrep -x compton  || set errorlevel 2
-pgrep -x urxvtd   || set errorlevel 3
-pgrep -x nitrogen || set errorlevel 4
-
-echo "Errorlevel: $errorlevel $(date)" >> /home/comfy/.errorlevel
-
-# !! Dunst !! #
-bash ~/bin/dunst/dunst_pywal
+if [ "$ONE_MONITOR" == "YES" ]; then
+	echo ''
+else
+	bash /home/comfy/bin/screen/xrandr-hdmi
+fi

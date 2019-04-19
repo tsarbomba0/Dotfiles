@@ -1,3 +1,3 @@
-2019/04/09-15:57:03.435 17328 Reusing MANIFEST /home/comfy/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2019/04/09-15:57:03.436 17328 Recovering log #3
-2019/04/09-15:57:03.535 17328 Reusing old log /home/comfy/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2019/04/13-16:00:45.938 3923 Reusing MANIFEST /home/comfy/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2019/04/13-16:00:45.939 3923 Recovering log #3
+2019/04/13-16:00:45.965 3923 Reusing old log /home/comfy/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000003.log 

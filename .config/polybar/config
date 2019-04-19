@@ -23,7 +23,7 @@ monitor-fallback =
 ;tray-transparent = true
 ;tray-background = #0063ff
 
-modules-left   = workspaces
-modules-center = xwindow
-modules-right  = pulseaudio memory temperature coreuse date 
+modules-left   = date-noicon xwindow 
+modules-center = memory coreuse
+modules-right  = pulseaudio workspaces
 

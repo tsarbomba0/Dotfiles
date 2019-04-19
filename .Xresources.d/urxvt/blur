@@ -1,0 +1,4 @@
+URxvt*transparent:      true
+URxvt*shading:            30
+! URxvt*tintColor:     #ffffff
+! URxvt*blurRadius:         60

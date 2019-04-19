@@ -1,1 +1,0 @@
-polybar -c ~/.config/polybar/white/config.white  -r openbox-bar

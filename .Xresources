@@ -1,8 +1,9 @@
-#include </home/comfy/.cache/wal/colors.Xresources>
+! #include </home/comfy/.cache/wal/colors.Xresources>
+#include </home/comfy/.Xresources.d/schemes/nord>
 #include </home/comfy/.Xresources.d/urxvt/config>
 #include </home/comfy/.Xresources.d/urxvt/keysyms>
 #include </home/comfy/.Xresources.d/urxvt/fonts>
 
 !! If i shared some dotfiles, im warning you, for me blur is extremely CPU draining. However if your computer/laptop is strong enough, uncomment the line.
 
-! #include </home/comfy/.Xresources.d/urxvt/blur>
+#include </home/comfy/.Xresources.d/urxvt/blur>

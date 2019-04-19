@@ -1,0 +1,56 @@
+backup()
+{
+    echo "1: Backup /home/comfy (.tar.xz)"
+    echo "2: Backup /(.tar.xz)"
+
+    read opt
+    case "$opt" in
+	1)tar cvpJf /home/comfy ;;
+        2)tar cvpJf /           ;;
+    esac
+}
+cdl()
+{
+    cd "$@"
+    ls -la --color=auto
+    echo ""
+    echo "Working dir: $PWD"
+}
+mcd()
+{
+	mkdir "$@"
+	cd "$@"
+}
+
+cdbin()
+{
+	cdl /home/comfy/bin
+}
+
+
+
+
+ctl()
+{
+	echo '1: Logout'
+	echo '2: Shutdown'
+	echo '3: Lock'
+	echo '4: Reboot'
+	echo '5: Oblogout'
+	echo ''
+	
+	read opt
+
+	case "$opt" in
+		"1")killall i3 bspwm openbox   ;;
+		"2")poweroff      ;;
+		"3")i3lock-script ;;
+		"4")reboot        ;;
+		"5")oblogout      ;;
+	esac
+}
+
+akill()
+{
+ killall -SIGUSR1 $1	
+}
