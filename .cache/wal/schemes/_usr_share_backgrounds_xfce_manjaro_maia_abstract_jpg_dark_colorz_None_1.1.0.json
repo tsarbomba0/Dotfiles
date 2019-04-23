@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/xfce/manjaro_maia_abstract.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04211b",
+        "foreground": "#c0c7c6",
+        "cursor": "#c0c7c6"
+    },
+    "colors": {
+        "color0": "#04211b",
+        "color1": "#17aa88",
+        "color2": "#13aa8a",
+        "color3": "#1aaa8c",
+        "color4": "#16aa8c",
+        "color5": "#14aa8e",
+        "color6": "#18aa90",
+        "color7": "#c0c7c6",
+        "color8": "#425854",
+        "color9": "#17aa88",
+        "color10": "#13aa8a",
+        "color11": "#1aaa8c",
+        "color12": "#16aa8c",
+        "color13": "#14aa8e",
+        "color14": "#18aa90",
+        "color15": "#c0c7c6"
+    }
+}

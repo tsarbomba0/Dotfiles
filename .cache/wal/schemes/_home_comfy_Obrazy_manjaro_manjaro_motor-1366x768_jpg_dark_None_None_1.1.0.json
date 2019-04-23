@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/comfy/Obrazy/manjaro/manjaro_motor-1366x768.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080808",
+        "foreground": "#dddede",
+        "cursor": "#dddede"
+    },
+    "colors": {
+        "color0": "#080808",
+        "color1": "#6C6E6F",
+        "color2": "#7B7F80",
+        "color3": "#7A8383",
+        "color4": "#8C8F8F",
+        "color5": "#AAADAD",
+        "color6": "#BDC2C3",
+        "color7": "#dddede",
+        "color8": "#9a9b9b",
+        "color9": "#6C6E6F",
+        "color10": "#7B7F80",
+        "color11": "#7A8383",
+        "color12": "#8C8F8F",
+        "color13": "#AAADAD",
+        "color14": "#BDC2C3",
+        "color15": "#dddede"
+    }
+}

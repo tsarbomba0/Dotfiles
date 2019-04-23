@@ -1,4 +1,4 @@
-colo wal
+" colo wal
 syntax on
 
 let mapleader = ','
@@ -14,7 +14,7 @@ call plug#end()
 
 Plug 'tomtom/tcomment_vim'
 Plug 'ctrlpvim/ctrlp.vim'
-" Plug 'itchyny/lightline.vim'
+Plug 'itchyny/lightline.vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'vim-syntastic/syntastic'
 
@@ -23,6 +23,6 @@ Plug 'vim-syntastic/syntastic'
 "set laststatus=2
 set noshowmode
 
-set  rtp+=/home/comfy/.local/lib/python3.7/site-packages/powerline/bindings/vim/
-set laststatus=2
-set t_Co=256
+"set  rtp+=/home/comfy/.local/lib/python3.7/site-packages/powerline/bindings/vim/
+"set laststatus=2
+"set t_Co=256

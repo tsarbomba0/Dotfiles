@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+xrandr | grep "HDMI1 connected" || export ONE_MONITOR="YES"
+
+if [ "$ONE_MONITOR" == "YES" ]; then
+	echo '' 
+else
+        bash /home/comfy/bin/screen/xrandr-hdmi
+fi

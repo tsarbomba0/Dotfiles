@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/lunix/manjaro/manjaro-moon01.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#002117",
+        "foreground": "#bfc7c5",
+        "cursor": "#bfc7c5"
+    },
+    "colors": {
+        "color0": "#002117",
+        "color1": "#05aa78",
+        "color2": "#0baa94",
+        "color3": "#1ac7b7",
+        "color4": "#1aa9a1",
+        "color5": "#2ca7a6",
+        "color6": "#3da8a7",
+        "color7": "#bfc7c5",
+        "color8": "#3f5851",
+        "color9": "#05aa78",
+        "color10": "#0baa94",
+        "color11": "#1ac7b7",
+        "color12": "#1aa9a1",
+        "color13": "#2ca7a6",
+        "color14": "#3da8a7",
+        "color15": "#bfc7c5"
+    }
+}

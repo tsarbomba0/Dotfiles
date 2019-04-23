@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/comfy/Obrazy/illyria-default-openbox.png",
+    "alpha": "100",
+    "special": {
+        "background": "#251103",
+        "foreground": "#c8c3c0",
+        "cursor": "#c8c3c0"
+    },
+    "colors": {
+        "color0": "#251103",
+        "color1": "#bc5814",
+        "color2": "#bd9e0e",
+        "color3": "#97a25b",
+        "color4": "#21b399",
+        "color5": "#049db2",
+        "color6": "#789ba9",
+        "color7": "#c8c3c0",
+        "color8": "#5b4c42",
+        "color9": "#bc5814",
+        "color10": "#bd9e0e",
+        "color11": "#97a25b",
+        "color12": "#21b399",
+        "color13": "#049db2",
+        "color14": "#789ba9",
+        "color15": "#c8c3c0"
+    }
+}

@@ -1,0 +1,32 @@
+##
+## Manjaro Linux default mirrorlist
+## Generated on 2019-04-11 12:51
+##
+## Please use 'pacman-mirrors -f [NUMBER] [NUMBER]' to modify mirrorlist
+## (Use 0 for all mirrors)
+##
+
+## Country : United_Kingdom
+Server = http://manjaro.mirrors.uk2.net/testing/$repo/$arch
+
+## Country : Germany
+Server = https://manjaro.moson.eu/testing/$repo/$arch
+
+## Country : Germany
+Server = https://mirror.netcologne.de/manjaro/testing/$repo/$arch
+
+## Country : Germany
+Server = http://mirror.ragenetwork.de/manjaro/testing/$repo/$arch
+
+## Country : South_Africa
+Server = http://mirror.is.co.za/mirrors/manjaro.org/testing/$repo/$arch
+
+## Country : Brazil
+Server = http://linorg.usp.br/manjaro/testing/$repo/$arch
+
+## Country : Chile
+Server = http://manjaro.dcc.uchile.cl/testing/$repo/$arch
+
+## Country : Brazil
+Server = http://pet.inf.ufsc.br/mirrors/manjarolinux/testing/$repo/$arch
+

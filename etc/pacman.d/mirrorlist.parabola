@@ -1,0 +1,69 @@
+# Parabola GNU/Linux-libre - Last Updated: Thu Nov 27 19:44:08 GMT 2018
+
+####################################
+# Maintained by the Parabola project
+####################################
+
+# Location: London, UK
+# Note: Not really a mirror. Automatically redirects you to an Arch
+#       mirror when possible. Works best specifying it a few times in a
+#       row (404s workaround).
+# Server = http://redirector.parabola.nu/$repo/os/$arch
+  Server = https://redirector.parabola.nu/$repo/os/$arch
+
+# Location: Reykjavík, Iceland
+# Responsible: Parabola Project
+# Note: Not really a mirror. Automatically redirects you to a Parabola
+#       mirror that has the file you are looking for.
+# Server = http://repomirror.parabola.nu/$repo/os/$arch
+  Server = https://repomirror.parabola.nu/$repo/os/$arch
+
+# Location: Reykjavík, Iceland
+# Responsible: Parabola Project
+# Note: Currently pointing to repomirror.parabola.nu
+# Server = http://repo.parabola.nu/$repo/os/$arch
+# Server = https://repo.parabola.nu/$repo/os/$arch
+
+####################################
+# Maintained by third-parties
+####################################
+
+# Denmark, Aalborg
+# Server = http://mirrors.dotsrc.org/parabola/$repo/os/$arch
+# Server = https://mirrors.dotsrc.org/parabola/$repo/os/$arch
+
+# France, Roubaix
+# Server = http://mirror.cyberbits.eu/parabola/$repo/os/$arch
+# Server = https://mirror.cyberbits.eu/parabola/$repo/os/$arch
+
+# Germany, Falkenstein
+# Server = http://mirror.grapentin.org/parabola/$repo/os/$arch
+# Server = https://mirror.grapentin.org/parabola/$repo/os/$arch
+
+# Netherlands, Amsterdam
+# Note: Not really a mirror, but a high-speed 10GiB cache of
+#       mirror.yandex.ru/mirrors/parabola
+# Server = http://parabola.isacdaavid.info/$repo/os/$arch
+# Server = https://parabola.isacdaavid.info/$repo/os/$arch
+
+# Netherlands, Volendam
+# Server = https://jeweet.net/repo/parabola/$repo/os/$arch
+
+# Russian Federation, Moscow
+# Server = http://mirror.yandex.ru/mirrors/parabola/$repo/os/$arch
+# Server = https://mirror.yandex.ru/mirrors/parabola/$repo/os/$arch
+
+# Sweden, Umeå
+# Server = http://ftp.acc.umu.se/mirror/parabola.nu/$repo/os/$arch
+# Server = https://ftp.acc.umu.se/mirror/parabola.nu/$repo/os/$arch
+
+# USA, MA, Boston
+# Server = http://mirror.fsf.org/parabola/$repo/os/$arch
+
+# USA, TX, Austin
+# Server = http://parabola.serverpit.com/
+# Server = https://parabola.serverpit.com/
+
+# Vietnam, Ho Chi Minh City
+# Server = http://mirror.freedif.org/Parabola/$repo/os/$arch
+# Server = https://mirror.freedif.org/Parabola/$repo/os/$arch

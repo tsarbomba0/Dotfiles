@@ -1,1 +1,0 @@
-{"net":{"http_server_properties":{"servers":[{"https://slackin-nteract.now.sh":{"supports_spdy":true}},{"https://cdn.rawgit.com":{"supports_spdy":true}},{"https://img.shields.io":{"supports_spdy":true}},{"https://central.github.com":{"supports_spdy":true}}],"version":5}}}

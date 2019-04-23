@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/comfy/Obrazy/glassfieldManjaro_perspective_center_dark.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1113",
+        "foreground": "#82c6b9",
+        "cursor": "#82c6b9"
+    },
+    "colors": {
+        "color0": "#0d1113",
+        "color1": "#3B4448",
+        "color2": "#15685A",
+        "color3": "#344E66",
+        "color4": "#434C50",
+        "color5": "#465662",
+        "color6": "#178D76",
+        "color7": "#82c6b9",
+        "color8": "#5b8a81",
+        "color9": "#3B4448",
+        "color10": "#15685A",
+        "color11": "#344E66",
+        "color12": "#434C50",
+        "color13": "#465662",
+        "color14": "#178D76",
+        "color15": "#82c6b9"
+    }
+}

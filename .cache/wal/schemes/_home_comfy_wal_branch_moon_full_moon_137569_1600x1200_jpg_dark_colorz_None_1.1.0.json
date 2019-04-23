@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/comfy/wal/branch_moon_full_moon_137569_1600x1200.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#212121",
+        "foreground": "#c7c7c7",
+        "cursor": "#c7c7c7"
+    },
+    "colors": {
+        "color0": "#212121",
+        "color1": "#aaa9a9",
+        "color2": "#ab9a79",
+        "color3": "#aaa594",
+        "color4": "#c8c09c",
+        "color5": "#a99aa2",
+        "color6": "#aa8994",
+        "color7": "#c7c7c7",
+        "color8": "#585858",
+        "color9": "#aaa9a9",
+        "color10": "#ab9a79",
+        "color11": "#aaa594",
+        "color12": "#c8c09c",
+        "color13": "#a99aa2",
+        "color14": "#aa8994",
+        "color15": "#c7c7c7"
+    }
+}

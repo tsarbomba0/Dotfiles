@@ -1,1 +1,0 @@
-{"Profiles":{"alsa_card.pci-0000_00_1b.0":"output:analog-stereo+input:analog-stereo"},"Sink":"alsa_output.pci-0000_00_1b.0.analog-stereo","Source":"alsa_input.pci-0000_00_1b.0.analog-stereo","SinkPort":"analog-output-speaker","SourcePort":"analog-input-mic","SinkVolume":0.682586669921875,"SourceVolume":0.1525115966796875}

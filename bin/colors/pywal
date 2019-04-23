@@ -1,0 +1,9 @@
+#!/bin/bash
+
+URXVT=~/_config/urxvt_Xresources
+WRAPPER_NAME="pywal"
+WALLPAPER=$1
+WAL_XRES=~/.cache/wal/colors.Xresources
+wal --backend colorz -i $WALLPAPER
+cat $URXVT >> $WAL_XRES
+xrdb -merge ~/.Xresources

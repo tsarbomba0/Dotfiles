@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/comfy/Obrazy/manjaro/manjaro-tux.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f2120",
+        "foreground": "#c7c7c7",
+        "cursor": "#c7c7c7"
+    },
+    "colors": {
+        "color0": "#1f2120",
+        "color1": "#9da6a4",
+        "color2": "#76aa9b",
+        "color3": "#51aa94",
+        "color4": "#35aa8d",
+        "color5": "#1caa89",
+        "color6": "#07aa86",
+        "color7": "#c7c7c7",
+        "color8": "#575857",
+        "color9": "#9da6a4",
+        "color10": "#76aa9b",
+        "color11": "#51aa94",
+        "color12": "#35aa8d",
+        "color13": "#1caa89",
+        "color14": "#07aa86",
+        "color15": "#c7c7c7"
+    }
+}

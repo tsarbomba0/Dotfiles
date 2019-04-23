@@ -1,0 +1,15 @@
+accounts-daemon.service
+avahi-daemon.service
+bluetooth.service
+cronie.service
+dbus.service
+docker.service
+geoclue.service
+lightdm.service
+lvm2-lvmetad.service
+NetworkManager.service
+polkit.service
+rtkit-daemon.service
+upower.service
+user@1000.service
+wpa_supplicant.service

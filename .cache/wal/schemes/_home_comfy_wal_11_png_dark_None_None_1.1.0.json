@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/comfy/wal/11.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b1215",
+        "foreground": "#cdd4c5",
+        "cursor": "#cdd4c5"
+    },
+    "colors": {
+        "color0": "#0b1215",
+        "color1": "#625455",
+        "color2": "#85483E",
+        "color3": "#887163",
+        "color4": "#999273",
+        "color5": "#C4AE6A",
+        "color6": "#6C9F8C",
+        "color7": "#cdd4c5",
+        "color8": "#8f9489",
+        "color9": "#625455",
+        "color10": "#85483E",
+        "color11": "#887163",
+        "color12": "#999273",
+        "color13": "#C4AE6A",
+        "color14": "#6C9F8C",
+        "color15": "#cdd4c5"
+    }
+}

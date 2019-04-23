@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/manjaro-wallpapers-18.0/manjaro_grid_maia.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#09211c",
+        "foreground": "#c1c7c6",
+        "cursor": "#c1c7c6"
+    },
+    "colors": {
+        "color0": "#09211c",
+        "color1": "#2faa91",
+        "color2": "#1caa8d",
+        "color3": "#3baa94",
+        "color4": "#4daa99",
+        "color5": "#69a9a0",
+        "color6": "#94a3a1",
+        "color7": "#c1c7c6",
+        "color8": "#465854",
+        "color9": "#2faa91",
+        "color10": "#1caa8d",
+        "color11": "#3baa94",
+        "color12": "#4daa99",
+        "color13": "#69a9a0",
+        "color14": "#94a3a1",
+        "color15": "#c1c7c6"
+    }
+}

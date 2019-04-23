@@ -1,0 +1,6 @@
+
+#!/bin/bash
+
+FONT="Hack:pixelsize=10;2:style=Regular"
+
+~/bin/bars/lemonbar/lemonbar-script | lemonbar -fn "$FONT"

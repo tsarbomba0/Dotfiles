@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/comfy/Obrazy/manjaro-wallpapers-18.0/illyria-adapta-dark-maia.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04211c",
+        "foreground": "#c0c7c6",
+        "cursor": "#c0c7c6"
+    },
+    "colors": {
+        "color0": "#04211c",
+        "color1": "#18aa8e",
+        "color2": "#2aaa95",
+        "color3": "#51a7a6",
+        "color4": "#749baa",
+        "color5": "#7099aa",
+        "color6": "#7495aa",
+        "color7": "#c0c7c6",
+        "color8": "#425854",
+        "color9": "#18aa8e",
+        "color10": "#2aaa95",
+        "color11": "#51a7a6",
+        "color12": "#749baa",
+        "color13": "#7099aa",
+        "color14": "#7495aa",
+        "color15": "#c0c7c6"
+    }
+}

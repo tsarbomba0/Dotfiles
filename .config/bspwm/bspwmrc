@@ -9,10 +9,10 @@ bspc monitor -d I II III IV V VI VII VIII IX X
 #################################################
 #              bspc/config                      #
 #################################################
-bspc config normal_border_color       "#AA000000"
-bspc config active_border_color       "#AA000000"
-bspc config focused_border_color        "#2f343f"
-bspc config border_width                      4
+#bspc config normal_border_color       "#AA000000"
+#bspc config active_border_color       "#AA000000"
+#bspc config focused_border_color        "#2f343f"
+bspc config border_width                      0
 bspc config window_gap                        8
 bspc config split_ratio                    0.50
 bspc config borderless_monocle             true
@@ -37,6 +37,7 @@ sxhkd &
 compton &
 urxvtd &
 urxvtc &
+conky &
 nitrogen --restore &
 bash ~/bin/bars/polybar/start_polybar
 redshift >/dev/null 2>&1 &

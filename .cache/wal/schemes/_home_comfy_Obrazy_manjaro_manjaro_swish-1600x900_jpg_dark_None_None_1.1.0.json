@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/comfy/Obrazy/manjaro/manjaro_swish-1600x900.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121013",
+        "foreground": "#a0cec9",
+        "cursor": "#a0cec9"
+    },
+    "colors": {
+        "color0": "#121013",
+        "color1": "#35605E",
+        "color2": "#3B706C",
+        "color3": "#407E79",
+        "color4": "#41817C",
+        "color5": "#48938C",
+        "color6": "#4EA59C",
+        "color7": "#a0cec9",
+        "color8": "#70908c",
+        "color9": "#35605E",
+        "color10": "#3B706C",
+        "color11": "#407E79",
+        "color12": "#41817C",
+        "color13": "#48938C",
+        "color14": "#4EA59C",
+        "color15": "#a0cec9"
+    }
+}

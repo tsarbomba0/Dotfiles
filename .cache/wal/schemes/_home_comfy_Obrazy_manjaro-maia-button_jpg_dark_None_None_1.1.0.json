@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/comfy/Obrazy/manjaro-maia-button.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f0f",
+        "foreground": "#dfdfdf",
+        "cursor": "#dfdfdf"
+    },
+    "colors": {
+        "color0": "#0f0f0f",
+        "color1": "#6B6F6E",
+        "color2": "#82787A",
+        "color3": "#228874",
+        "color4": "#53857B",
+        "color5": "#649188",
+        "color6": "#A5A5A5",
+        "color7": "#dfdfdf",
+        "color8": "#9c9c9c",
+        "color9": "#6B6F6E",
+        "color10": "#82787A",
+        "color11": "#228874",
+        "color12": "#53857B",
+        "color13": "#649188",
+        "color14": "#A5A5A5",
+        "color15": "#dfdfdf"
+    }
+}
