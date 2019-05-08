@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+if [ $1=="-b" ]; then
+	wal --theme $2 $3
+else
+	wal --backend colorz -i ~/wal/$1.*
+fi
+
+

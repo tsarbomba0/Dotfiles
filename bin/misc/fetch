@@ -1,0 +1,65 @@
+#!/usr/bin/env bash
+
+## scfetch/Getting OS
+
+BASENAME=`cat /etc/*release | grep PRETTY_NAME`
+eval "$BASENAME"
+## scfetch/Variables
+OS=$PRETTY_NAME
+USERNAME=$USER
+WM=""
+INIT=""
+
+## scfetch/Desktop
+if [ "${XDG_CURRENT_DESKTOP}" ]; then
+	desktop_type='DE'
+	WM="${XDG_CURRENT_DESKTOP}"
+	if [ "$WM"=="*wm" ]; then
+		desktop_type="WM"
+	fi
+
+elif [ "${DESKTOP_SESSION}" ]; then
+	desktop_type='DE'
+	WM="$DESKTOP_SESSION"
+	if [ "$WM"==*wm ]; then
+		desktop_type="WM"
+	fi
+else
+        desktop_type='WM'
+	WM=$(tail -n 1 "${HOME}/.xinitrc" | cut -d ' ' -f 2)
+fi
+
+## scfetch/Packages
+
+case "$OS" in
+	"Void Linux")                                             PACKAGE_COUNT="$( xbps-query -l | wc -l )"  ;;
+       	Manjaro*|Arch*|Arco*|Artix*|Namib*|Parabola*|Black*)      PACKAGE_COUNT="$( pacman -Qq | wc -l )"  ;;
+	*ntoo|*bayon|Gentoo*)                                     PACKAGE_COUNT="$( ls -d /var/db/pkg/*/* | wc -l )" ;;
+	*buntu|*ebian|*Ali|*Mint)	               		  PACKAGE_COUNT="$( dpkg -l | wc -l )" ;;
+	NixOS|nixos|nix*)                                         PACKAGE_COUNT="$( ls -d -1 /nix/store | wc -l)" ;;
+        *)                                                        PACKAGE_COUNT="Not supported"
+esac
+## scfetch/Colors
+
+bold="$(tput bold)"
+black="$(tput setaf 0)"
+red="$(tput setaf 1)"
+green="$(tput setaf 2)"
+yellow="$(tput setaf 3)"
+blue="$(tput setaf 4)"
+magenta="$(tput setaf 5)"
+cyan="$(tput setaf 6)"
+white="$(tput setaf 7)"
+reset="$(tput sgr0)"
+
+## scfetch/Output
+
+echo -e ${green}${bold} ; cat ~/bin/misc/fetch.d/1 ; echo -e $reset
+cat <<EOF
+[@] ${red}OS: $OS
+[@] USER: $USERNAME${blue}
+[@] SHELL: $SHELL
+[@] $desktop_type: $WM ${cyan}
+[@] PACKAGES: ${PACKAGE_COUNT}
+[@] HOSTNAME: $(cat /etc/hostname)${reset}
+EOF

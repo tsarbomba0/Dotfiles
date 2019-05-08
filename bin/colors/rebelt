@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+MSG=$1
+
+toilet -f rebel "$MSG" | lolcat -t

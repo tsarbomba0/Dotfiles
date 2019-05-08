@@ -1,7 +1,7 @@
 URxvt.scrollBar:       false
 URxvt.saveLines:       65535
 Xft*dpi:                  96
-URxvt.internalBorder:     30
+URxvt.internalBorder:     20
 URxvt.perl-ext-common:    keyboard-select,url-select,clipboard
 
 

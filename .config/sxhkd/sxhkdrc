@@ -1,6 +1,4 @@
 #
-# wm independent hotkeys
-#
 # resize mode
 #super + r : {h,l}
  # INC={-10,+10}; bspc node @east -r $INC || bspc node @west -r $INC
@@ -8,18 +6,23 @@
 #super + r : {j,k}
  # INC={+10,-10}; bspc node @north -r $INC || bspc node @south -r $INC
 
+#skippy-xd
+super + x
+        skippy-xd
+
+
 # shortcuts
 super + s 
        bash ~/bin/dmenu/dmenu_screen
 
 # terminal emulator
 alt + Return
-	urxvt
+	urxvtc
 
 # program launcher
-alt + d 
-	bash ~/bin/rofi/rofi.sh 
-
+alt + d
+      bash ~/bin/rofi/rofia
+ 
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
@@ -67,6 +70,8 @@ super + ctrl + {m,x,y,z}
 	bspc node -g {marked,locked,sticky,private}
 
 #
+#
+# wm independent hotkeys
 # focus/swap
 #
 
@@ -143,5 +148,5 @@ alt + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
 # change workspaces
-alt + {1,2,3,4,5,6,7,}
-        bspc desktop --focus {I,II,III,IV,V,VI,VII}
+alt + {1,2,3,4,5,6,7,8,9,0,}
+        bspc desktop --focus {I,II,III,IV,V,VI,VII,VIII,IX,X,}

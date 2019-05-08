@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="menus_have_icons" mtime="1553377090" type="bool" value="false"/>
+</gconf>

@@ -1,0 +1,254 @@
+{
+   "checksum": "faef34fe3185ca586b26892694dabb69",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13201214640447121",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [  ],
+               "date_added": "13201214640780100",
+               "date_modified": "13201214640984910",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "1d4b7e44-914e-4e6a-8d24-837eb5495845"
+               },
+               "name": "anarchist",
+               "type": "folder"
+            } ],
+            "date_added": "13201214640779878",
+            "date_modified": "0",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [ {
+               "date_added": "13201214640948712",
+               "id": "14",
+               "meta_info": {
+                  "imageData": "https://sd-images.operacdn.com/api/v1/images/a3412c068bd0a369534907ebcca4ee118095826f.png",
+                  "imageDataType": "2",
+                  "imageID": "B21AD13FC1394F63B1F408E40FC2DD1B53B7FFD936EFD33EBFC1262B8667DA6B",
+                  "imageType": "2",
+                  "partner_id": "tripadvisor_us",
+                  "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/a3412c068bd0a369534907ebcca4ee118095826f.png",
+                  "partner_url": "http://www.tkqlhce.com/click-8384705-12525324",
+                  "ping_url": "https://speeddials.opera.com/api/v2/ping/tripadvisor_us",
+                  "revision": "20171003",
+                  "server_position": "6",
+                  "undoTrashParentId": "8",
+                  "undoTrashParentIndex": "0"
+               },
+               "name": "TripAdvisor",
+               "type": "url",
+               "url": "https://www.tripadvisor.com/"
+            }, {
+               "date_added": "13201214640948379",
+               "id": "13",
+               "meta_info": {
+                  "imageData": "https://sd-images.operacdn.com/api/v1/images/d3930bf47ebcffc69f8266ddacbe3fcd7c9445dc.png",
+                  "imageDataType": "2",
+                  "imageID": "8CBD1C8B1AAC865139B117E964C4C60A4A50857331F802CFFAF57A51D1726749",
+                  "imageType": "2",
+                  "partner_id": "wallmart_com_us",
+                  "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/d3930bf47ebcffc69f8266ddacbe3fcd7c9445dc.png",
+                  "partner_url": "http://redirect.viglink.com/?key=b9bf69492c0a0690a93d32ea73668e85&u=http%3A%2F%2Fwww.walmart.com",
+                  "ping_url": "https://speeddials.opera.com/api/v2/ping/wallmart_com_us",
+                  "revision": "20171003",
+                  "server_position": "5",
+                  "undoTrashParentId": "8",
+                  "undoTrashParentIndex": "0"
+               },
+               "name": "Walmart",
+               "type": "url",
+               "url": "http://www.walmart.com/"
+            }, {
+               "date_added": "13201214640948079",
+               "id": "12",
+               "meta_info": {
+                  "imageData": "https://sd-images.operacdn.com/api/v1/images/baf46901cd94c248197d5511d704897014775bce.png",
+                  "imageDataType": "2",
+                  "imageID": "82909B926406328D2284882A01F1B0C7B86BE1724BDEE92E92B80490E683F7EE",
+                  "imageType": "2",
+                  "partner_id": "aliexpress_com_us",
+                  "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/baf46901cd94c248197d5511d704897014775bce.png",
+                  "partner_url": "https://redir.opera.com/speeddials/partner/aliexpress_com_us",
+                  "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_com_us",
+                  "revision": "20171003",
+                  "server_position": "4",
+                  "undoTrashParentId": "8",
+                  "undoTrashParentIndex": "0"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "http://aliexpress.com/"
+            }, {
+               "date_added": "13201214640947805",
+               "id": "11",
+               "meta_info": {
+                  "imageData": "https://sd-images.operacdn.com/api/v1/images/8912fbc741edbb52b41e0795e6fbbe865884a819.png",
+                  "imageDataType": "2",
+                  "imageID": "6B8CFBDAD89F8B366C2E3D30EFB812E42BA470D0576A8C2982AD13C263B1957C",
+                  "imageType": "2",
+                  "partner_id": "booking_com_us",
+                  "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/8912fbc741edbb52b41e0795e6fbbe865884a819.png",
+                  "partner_url": "http://www.booking.com/index.html?aid=348192&label=operasoft-sdg015-348192&utm_source=Opera&utm_medium=web&utm_campaign=sdg015",
+                  "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_us",
+                  "revision": "20190426",
+                  "server_position": "3",
+                  "undoTrashParentId": "8",
+                  "undoTrashParentIndex": "0"
+               },
+               "name": "Booking.com: Cheap Hotels",
+               "type": "url",
+               "url": "http://www.booking.com/"
+            }, {
+               "date_added": "13201214640947572",
+               "id": "10",
+               "meta_info": {
+                  "imageData": "https://sd-images.operacdn.com/api/v1/images/e2653358daac1327db358b2baff1ec56c8700ec3.png",
+                  "imageDataType": "2",
+                  "imageID": "5856580431A344785082CAC829A71C16B9512D415DF24B7F393D146CE0C12844",
+                  "imageType": "2",
+                  "partner_id": "ebay_us",
+                  "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/e2653358daac1327db358b2baff1ec56c8700ec3.png",
+                  "partner_url": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=1&pub=5574672411&toolid=10001&campid=5337314645&customid=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg",
+                  "ping_url": "https://speeddials.opera.com/api/v2/ping/ebay_us",
+                  "revision": "20171003",
+                  "server_position": "2",
+                  "undoTrashParentId": "8",
+                  "undoTrashParentIndex": "0"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "http://www.ebay.com/"
+            }, {
+               "date_added": "13201214640947139",
+               "id": "9",
+               "meta_info": {
+                  "imageData": "https://sd-images.operacdn.com/api/v1/images/9c71425368eb92a8da3223db67553d0c865b83c4.png",
+                  "imageDataType": "2",
+                  "imageID": "EF2C9F7CEE1885578697DE640325E16BFDA0A35D79805CFCC1ED5DFA88C8813E",
+                  "imageType": "2",
+                  "partner_id": "amazon_us",
+                  "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/9c71425368eb92a8da3223db67553d0c865b83c4.png",
+                  "partner_url": "http://www.amazon.com/?tag=operadesktop14-sd-us-20",
+                  "ping_url": "https://speeddials.opera.com/api/v2/ping/amazon_us",
+                  "revision": "20181109",
+                  "server_position": "1",
+                  "undoTrashParentId": "8",
+                  "undoTrashParentIndex": "0"
+               },
+               "name": "Amazon.com",
+               "type": "url",
+               "url": "http://www.amazon.com/"
+            }, {
+               "date_added": "13201214640949088",
+               "id": "15",
+               "meta_info": {
+                  "imageData": "https://sd-images.operacdn.com/api/v1/images/2cf89d674ad16db79bc25dd1e8a58971e7c93fbc.png",
+                  "imageDataType": "2",
+                  "imageID": "031D34A12646E0D16C33CAB8EE2E042EFFB6F03B8346B67EF5DD8B9EC6D00529",
+                  "imageType": "2",
+                  "partner_id": "groupon_us",
+                  "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/2cf89d674ad16db79bc25dd1e8a58971e7c93fbc.png",
+                  "partner_url": "https://click.linksynergy.com/fs-bin/click?id=pn03KovvEWI&offerid=503840.562&type=3&subid=0",
+                  "ping_url": "https://speeddials.opera.com/api/v2/ping/groupon_us",
+                  "revision": "20180822",
+                  "server_position": "7",
+                  "undoTrashParentId": "8",
+                  "undoTrashParentIndex": "6"
+               },
+               "name": "Groupon",
+               "type": "url",
+               "url": "https://www.groupon.com/"
+            }, {
+               "date_added": "13201214640984910",
+               "id": "17",
+               "meta_info": {
+                  "imageData": "https://sd-images.operacdn.com/api/v1/images/a93575d0c5d22b4e69542dd05faf54dcda250fa2.png",
+                  "imageDataType": "2",
+                  "imageID": "C1C07A73D7D2728762D89EB389FB3FE8F8CB8461B74F6568F1488B5AF606219D",
+                  "imageType": "2",
+                  "partner_id": "worldofwarships_us",
+                  "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/a93575d0c5d22b4e69542dd05faf54dcda250fa2.png",
+                  "partner_url": "https://redir.wargaming.net/uobtzh4i/?pub_id=SD_US",
+                  "ping_url": "https://speeddials.opera.com/api/v2/ping/worldofwarships_us",
+                  "revision": "20181130",
+                  "server_position": "9",
+                  "undoTrashParentId": "8",
+                  "undoTrashParentIndex": "7"
+               },
+               "name": "World of Warships",
+               "type": "url",
+               "url": "https://worldofwarships.com/"
+            }, {
+               "date_added": "13201214640984379",
+               "id": "16",
+               "meta_info": {
+                  "imageData": "https://sd-images.operacdn.com/api/v1/images/032e2e2fc5e826deb1fb3b9500ab4cf9f1eb3438.png",
+                  "imageDataType": "2",
+                  "imageID": "98D0CCEE2820E8EA8F4CB6BB765CC700FBC743EA0CCF968A7F221FEE056516E0",
+                  "imageType": "2",
+                  "partner_id": "overstock_us",
+                  "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/032e2e2fc5e826deb1fb3b9500ab4cf9f1eb3438.png",
+                  "partner_url": "http://redirect.viglink.com/?key=b9bf69492c0a0690a93d32ea73668e85&u=http%3A%2F%2Fwww.overstock.com",
+                  "ping_url": "https://speeddials.opera.com/api/v2/ping/overstock_us",
+                  "revision": "20181108",
+                  "server_position": "8",
+                  "undoTrashParentId": "8",
+                  "undoTrashParentIndex": "7"
+               },
+               "name": "Overstock",
+               "type": "url",
+               "url": "https://www.overstock.com/"
+            } ],
+            "date_added": "13201214640779879",
+            "date_modified": "13201214671137080",
+            "id": "7",
+            "name": "Trash",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13201214640779870",
+            "date_modified": "0",
+            "id": "4",
+            "name": "Unsorted bookmarks",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13201214640779873",
+            "date_modified": "0",
+            "id": "5",
+            "name": "Other bookmarks",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13201214640447138",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Imported bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13201214640447140",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

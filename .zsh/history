@@ -1,523 +1,652 @@
-cp ~/.icons/oomox-colors-oomox-colors oomox-colors-oomox-icons -r
-rm packages
-pacman -Qqe | grep ttf
-pacman -Qqe | grep ttf > fonts-pkg
-git add . && git commit -m "Update" && git push origin master 
-sudo dd if=/home/comfy/Pobrane/void-live-x86_64-musl-20181111-xfce.iso of=/dev/sdb bs=4M status=progress
-vim reboot
-ls /boot/efi
-ls /boot/
-sudo vim /boot/efi/EFI/refind.conf
-ls /mnt
-ls /mnt/boot
-ls /boot/efi/EFI/refind/themes/rEFInd-sunset/icons 
-ls /boot/efi/EFI/refind/icons
-grubup
-sudo mount /dev/sda8 /mnt
-vbve 
-lsof
-pkg i
-mkfifo
-mkfifo --help
-/tmp/fifo
-mkfifo /tmp/fifo
-echo '' > /tmp/fifo
-cat /tmp/fifo
-arch-chroot
-manjaro-chroot
-sudo pacman -S arch-install-scripts
-sudo mount /dev/sda8 /mnt ;sudo mount /dev/sda9 /mnt/boot/efi
-arch-chroot /mnt
-sudo arch-chroot /mnt
-cp /usr/share/zsh/plugins/zsh-history-substring-search /mnt/usr/share/zsh/plugins/ -r
-sudo cp /usr/share/zsh/plugins/zsh-history-substring-search /mnt/usr/share/zsh/plugins/ -r
-sudo arch-chroot /mnt /bin/zsh
-sudo cp /home/comfy/.cache/wal /mnt/home/comfy/.cache/wal
-sudo cp /home/comfy/.cache/wal /mnt/home/comfy/.cache/wal -0r
-sudo cp /home/comfy/.cache/wal /mnt/home/comfy/.cache/wal -r
-sudo mkdir /mnt/home/comfy/.cache ; sudo cp /home/comfy/.cache/wal /mnt/home/comfy/.cache/wal -r
-pacman -Qqe | grep zsh
-pacman -Qq | grep zsh
-sudo vim /boot/efi/EFI/refind/refind.conf
-sudo gparted /dev/sdad
-ls bin/
-exi\t\\
+: 1556983449:0;sudo pacman -R linux50 linux50-virtualbox-host-modules linux50-r8168
+: 1556983449:0;sudo pacman -R linux50 linux50-virtualbox-host-modules linux50-r8168 virtualbox
+: 1556983449:0;sudo vim /usr/share/xsessions/bspwm.desktop 
+: 1556983449:0;cd c++/
+: 1556983449:0;mkdir kernel-joke
+: 1556983449:0;cd kernel-joke
+: 1556983449:0;echo '' > main.cpp ; vim main.cpp
+: 1556983449:0;cc main main.cpp 
+: 1556983449:0;./main
+: 1556983449:0;cat ~/.cache/wal/colors.Xresources
+: 1556983449:0;cat ~/.Xresources.d/schemes/nord
+: 1556983449:0;sudo pacman -S mpv
+: 1556983449:0;sudo pacman -Syy mpv
+: 1556983449:0;mpv
+: 1556983449:0;0
+: 1556983449:0;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++63
+: 1556983449:0;6666666
+: 1556983449:0;wal --theme base16-one
+: 1556983449:0;wal --theme base16-one -l
+: 1556983449:0;wal --theme base16-isotope
+: 1556983449:0;wal --theme base16-materia
+: 1556983449:0;wal --theme base16-material
+: 1556983449:0;wal --theme random_darl
+: 1556983449:0;yay -S gohufont
+: 1556983449:0;fc-list | grep gohu
+: 1556983449:0;urxvt -fn "xft:Gohu GohuFont:style=Regular:size=10"
+: 1556983449:0;urxvt -fn "xft:Gohu GohuFont:style=Regular:size=14"
+: 1556983449:0;urxvt -fn "xft:Gohu GohuFont:style=Regular:size=14:antialias=true"
+: 1556983449:0;mpc
+: 1556983449:0;screenfetch
+: 1556983449:0;screenfetch -c 14.01
+: 1556983449:0;screenfetch -c 14.07
+: 1556983449:0;screenfetch -wA Cygwin
+: 1556983449:0;sudovim ~/.Xresources/urxvt/config
+: 1556983449:0;sudo vim ~/.Xresources/urxvt/config
+: 1556983449:0;sudo vim ~/.Xresources.d/urxvt/config
+: 1556983449:0;killall
+: 1556983449:0;clear && neofetch --ascii_distro ArcoLinux
+: 1556983449:0;clear && neofetch --source $(cat ~/.config/neofetch/config.conf.d/rose)
+: 1556983449:0;clear && neofetch --ascii $(cat ~/.config/neofetch/config.conf.d/rose)
+: 1556983449:0;cat ~/.config/neofetch/config.conf.d
+: 1556983449:0;cat ~/.config/neofetch/config.conf.d/rose
+: 1556983449:0;cat ~/.config/neofetch/config.conf.d/rose | neofetch --ascii 
+: 1556983449:0;cat ~/.config/neofetch/config.conf.d/rose | neofetch --source
+: 1556983449:0;clear && pacman2
+: 1556983449:0;clear && arch
+: 1556983449:0;clock
+: 1556983449:0;ls\\
 
-wal -i ~/wal/26.jpg
-wal -i ~/wal/22.jpg
-wal -i ~/wal/2.jpg
-wal -i ~/wal/27.jpg
-wal -i ~/wal/7.jpg
-\:x
-exit\\
-exot
-vim ~/.config/polybar/modules/temperature.conf
-vis
-feh ~/wal/
-neofetch --w3m ~/wal/2.png
-neofetch --w3m ~/wal/27.jpg
-neofetch --w3m ~/wal/15.jpg
-neofetch --jp2a ~/wal/15.jpg
-nitrogen
--see anarchy
-see
-say
-oomox
-oomox-gui
-cd git/oomox\\
+: 1556983449:0;clear && alpha
+: 1556983449:0;feh ~/wal//
+: 1556983449:0;feh ~/wal/36.jpg
+: 1556983449:0;feh ~/wal/35.jpg
+: 1556983449:0;feh ~/wal/34.jpg
+: 1556983449:0;feh ~/wal/33.jpg
+: 1556983449:0;feh ~/wal/33.png
+: 1556983449:0;cd ~/Pobrane/escheresque_ste/escheresque_ste
+: 1556983449:0;feh escheresque_ste.png
+: 1556983449:0;feh escheresque_ste_@2X.png
+: 1556983449:0;cd ~/wsal
+: 1556983449:0;feh 4.jpg
+: 1556983449:0;lolban f]
+: 1556983449:0;lolban f
+: 1556983449:0;w3m ~/wal/1.jpg
+: 1556983449:0;cd c++
+: 1556983449:0;vim 1.cpp
+: 1556983449:0;cd algorithm
+: 1556983449:0;vim main.cpp
+: 1556983449:0;scrot bspwm.jpg
+: 1556983449:0;wal --theme random_dark
+: 1556983449:0;wal --theme 
+: 1556983449:0;wal --theme base16-mexico
+: 1556983449:0;wal --theme base16-paraiso
+: 1556983449:0;wal --theme base16-macintos
+: 1556983449:0;wal --theme base16-macintosh
+: 1556983449:0;wal --theme base16-pop
+: 1556983449:0;wal --theme | les
+: 1556983449:0;wal --theme | less
+: 1556983449:0;wal --theme base16-eighties
+: 1556983449:0;wal --theme base16-icy
+: 1556983449:0;wal --theme base16-irblack
+: 1556983449:0;wal --theme base16-bespin
+: 1556983449:0;wal --theme base16-harmonic
+: 1556983449:0;wal --theme base16-seti
+: 1556983449:0;wal --theme base16-monoka
+: 1556983449:0;wal --theme base16-monokai
+: 1556983449:0;wal --theme base16-materialer
+: 1556983449:0;wal --theme base16-spacemacs
+: 1556983449:0;wal --theme base16-zenburn
+: 1556983449:0;wal --theme base16-xcode-dusk
+: 1556983449:0;wal --theme base16-porpe
+: 1556983449:0;wal --theme base16-porple
+: 1556983449:0;cp ~/Pobrane/wave_strokes_paint_139597_1600x1200.jpg ~/wal/38.jpg
+: 1556983449:0;wal -i ~/wal/38.jpg
+: 1556983449:0;vim ~/.config/bspwm/bspwmrc
+: 1556983449:0;cat ~/.cache/wal/colors.sh
+: 1556983449:0;. ~/.config/bspwm/bspwmrc
+: 1556983449:0;notify-send test
+: 1556983449:0;notify-send test -u critical
+: 1556983449:0;cd ~/.confg
+: 1556983449:0;cd ~/c++
+: 1556983449:0;vim /tmp/ess
+: 1556983449:0;cc 4 4.cpp
+: 1556983449:0;cc ~/c++/4 4.cpp
+: 1556983449:0;vim ~/c++/4cpp_text
+: 1556983449:0;vim ~/c++/4.cpp
+: 1556983449:0;cc ~/c++/4 ~/c++/4.cpp
+: 1556983449:0;cat ~/.config/polybar/modules/pulseaudio.conf
+: 1556983449:0;colortest
+: 1556983449:0;clear && colortest && lolban bspwm
+: 1556983449:0;blocks2
+: 1556983449:0;blocks1
+: 1556983449:0;cat > /dev/null<<EOF \
+as\
+as\
+as\
+EOF
+: 1556983449:0;clear && ghosts && monster
+: 1556983449:0;clear && ghosts && \
+echo ''
+: 1556983449:0;clear && ne
+: 1556983449:0;clear && neofetch
+: 1556983449:0;blkid
+: 1556983449:0;c--
+: 1556983449:0;vim /tmp/strop
+: 1556983449:0;java
+: 1556983449:0;javac
+: 1556983449:0;vim ~/.config/polybar/config
+: 1556983449:0;vim ~/.Xresources/urxvt/config
+: 1556983449:0;bspc config border_radius 0
+: 1556983449:0;vim ~/.Xresources.d/urxvt/config
+: 1556983449:0;sudo cp ~/wal/38.jpg /usr/share/backgrounds/2.jpg
+: 1556983449:0;sudo lightdm-settings
+: 1556983449:0;oomox
+: 1556983449:0;vim ~/.config/polybar/modules/coreuse.conf
+: 1556983449:0;sudo vim /usr/share/applications/polybar.desktop
+: 1556983449:0;ltrue d
+: 1556983449:0;clear && ltrue st
+: 1556983449:0;rebelt d
+: 1556983449:0;clear && rebelt st
+: 1556983449:0;clear && rebelt ST
+: 1556983449:0;clear && rebelt START
+: 1556983449:0;cat /tmp/a
+: 1556983449:0;clear && rebelt START > /tmp/a
+: 1556983449:0;clear && rebelt START 
+: 1556983449:0;geany ~/git/st/patch-clipboaard.diff
+: 1556983449:0;cp x.c x.c.old
+: 1556983449:0;patch -p1 < patch-clipboaard.diff
+: 1556983449:0;geany ~/git/st/patch-font2.diff
+: 1556983449:0;patch -p1 < patch.font2.diff
+: 1556983449:0;patch -p1 < patch-font2.diff
+: 1556983449:0;fc-list | grep fira
+: 1556983449:0;fc-list | grep Fira
+: 1556983449:0;fc-list | grep Source
+: 1556983449:0;vim config.h
+: 1556983449:0;hs
+: 1556983449:0;sh
+: 1556983449:0;cd /boot/grub/themes
+: 1556983449:0;cd Vimix
+: 1556983449:0;mv background.jpeg background.jpg
+: 1556983449:0;sudo mv background.jpeg background.jpg
+: 1556983449:0;feh background.jpg
+: 1556983449:0;sudo mv background.jpg background.jpg.old
+: 1556983449:0;sudo cp /usr/share/backgrounds/2.jpg background.jpeg
+: 1556983449:0;feh background.jpeg
+: 1556983449:0;sudo grub-customizer
+: 1556983449:0;reboot
+: 1556983449:0;rebel Test
+: 1556983449:0;lolban Test
+: 1556983449:0;rebelt Test
+: 1556983449:0;ltrue Test
+: 1556983449:0;elfman
+: 1556983449:0;ghosts
+: 1556983449:0;cd bin/colors
+: 1556983449:0;alpha
+: 1556983449:0;dna
+: 1556983449:0;tanks
+: 1556983449:0;cd ~/wal
+: 1556983449:0;wal -i 12.png
+: 1556983449:0;ls ~/wal/
+: 1556983449:0;feh
+: 1556983449:0;feh ~/wal/
+: 1556983449:0;wal -i ~/wal/16.jpg 
+: 1556983449:0;qemu-system-x86_64 ~/Pobrane/artix-lxqt-openrc-gremlins-20190222-x86_64.iso -m 1000000
+: 1556983449:0;qemu-system-x86_64 ~/Pobrane/artix-lxqt-openrc-gremlins-20190222-x86_64.iso -m 2048m
+: 1556983449:0;geany ~/.config/polybar/modules/workspaces.conf &
+: 1556983449:0;screenfetch -h
+: 1556983449:0;screenfetch -E
+: 1556983449:0;screenfetch -E -L -A CrunchBang
+: 1556983449:0;clear && screenfetch -E -L -A CrunchBang
+: 1556983449:0;wal -i ~/wal/39.jpg 
+: 1556983449:0;pacman
+: 1556983449:0;pacman2
+: 1556983449:0;ls ~/bin/colors
+: 1556983449:0;crunch
+: 1556983449:0;gotop
+: 1556983449:0;cmatrix
+: 1556983449:0;pacman -Ss opera
+: 1556983449:0;sudo pacman -Ss opera | grep web
+: 1556983449:0;sudo pacman -Ss opera
+: 1556983449:0;sudo pacman -S opera-betaffmpeg-codecs
+: 1556983449:0;sudo pacman -S opera-beta-ffmpeg-codecs
+: 1556983449:0;opera
+: 1556983449:0;sudo pacman -S opera-beta
+: 1556983449:0;sudo pacman -R opera-beta opera-beta-ffmpeg-codecs
+: 1556983449:0;bspc config window_gap 10
+: 1556983449:0;bspc config window_gap 30
+: 1556983449:0;shopt
+: 1556983449:0;shOpt
+: 1556983449:0;bash
+: 1556983449:0;mkdir ~/bin/themer
+: 1556983449:0;vim ~/bin/themer/themer
+: 1556983449:0;chmod +x ~/bin/themer/themer
+: 1556983449:0;wal --theme | grep solar
+: 1556983449:0;wal --theme base16-solarflare
+: 1556983449:0;wal --theme base16-solarized
+: 1556983449:0;ip link
+: 1556983449:0;sudo pacman -Rssn docker 
+: 1556983449:0;sudo systemctl disable cups.service
+: 1556983449:0;ls /etc/systemd/system
+: 1556983449:0;sudo systemctl disable printer.service
+: 1556983449:0;ls /usr/lib/systemd
+: 1556983449:0;curl raw.githubusercontent.com/addy-dclxvi/almighty-dotfiles/master/.utility/rofia > ~/bin/rofi/rofia
+: 1556983449:0;chmod +x ~/bin/rofi/rofia
+: 1556983449:0;geany ~/bin/rofi/rofia
+: 1556983449:0;rofia
+: 1556983449:0;themer
+: 1556983449:0;cd ~/bin/
+: 1556983449:0;mv themer/themer ~/bin/colors/themer
+: 1556983449:0;themer 20
+: 1556983449:0;themer 35
+: 1556983449:0;themer 3
+: 1556983449:0;themer 34
+: 1556983449:0;themer 10
+: 1556983449:0;wal --theme base16-nord
+: 1556983449:0;vim ~/.config/sxhkd/sxhkdrc 
+: 1556983449:0;rm h
+: 1556983449:0;rm archhurd.img
+: 1556983449:0;cd wal
+: 1556983449:0;l
+: 1556983449:0;mv 39.jp 40.jpg
+: 1556983449:0;wal --theme base16-onedark
+: 1556983449:0;themer 40
+: 1556983449:0;themer 40 --backend 01
+: 1556983449:0;wal -i ~/wal/40.jpg
+: 1556983449:0;sudo vim /usr/share/applications/oomox.desktop
+: 1556983449:0;cat /usr/share/applications/xed.desktop
+: 1556983449:0;systemctl list-units
+: 1556983449:0;systemctl disable geoclue.service
+: 1556983449:0;cd ~/git/st
+: 1556983449:0;sudo make clean install
+: 1556983449:0;ltrue Suckless
+: 1556983449:0;ltrue <>
+: 1556983449:0;ltrue OpenBSD
+: 1556983449:0;clear && rebelt OpenBSD
+: 1556983449:0;clear && ltrue OpenBSD
+: 1556983449:0;tmux 0
+: 1556983449:0;tmux attach
+: 1556983449:0;htop
+: 1556983449:0;vim ~/git/st/config.h
+: 1556983449:0;dmenu
+: 1556983449:0;yay -Ss rofi_dmenu
+: 1556983449:0;yay -Ss rofi-dmenu
+: 1556983449:0;dmenu -h
+: 1556983449:0;dmenu -ip
+: 1556983449:0;dmenu -ip 12
+: 1556983449:0;dmenu -ip "DSA"
+: 1556983449:0;dmenu -i -p "$1"
+: 1556983449:0;dmenu -i -p "$\
+\
+\
+\!
+: 1556983449:0;dmenu -i -p "Sda"
+: 1556983449:0;echo -e "No\nYes" dmenu -i -p "test"
+: 1556983449:0;echo -e "No\nYes" | dmenu -i -p "test"
+: 1556983449:0;echo -e "No\nYes" | dmenu -i -p "test" | cat /dev/stdin
+: 1556983449:0;echo -e "No\nYes" | dmenu -i -p "test" | grep Yes /dev/stdin
+: 1556983449:0;echo -e "No\nYes" | dmenu -i -p "test" | grep Yes /dev/stdin || echo No
+: 1556983449:0;fc-list | grep Noto Sans
+: 1556983449:0;fc-list | grep "Noto Sans"
+: 1556983449:0;fc-list
+: 1556983449:0;fortune
+: 1556983449:0;fortune -h
+: 1556983449:0;fortune --help
+: 1556983449:0;man fortune
+: 1556983449:0;fortune -o
+: 1556983449:0;fortune -m
+: 1556983449:0;fortune -m short
+: 1556983449:0;fortune -l
+: 1556983449:0;fortune -s
+: 1556983449:0;pips
+: 1556983449:0;eval "( + 1 0 2)"
+: 1556983449:0;eval "(+ 1 0 2)"
+: 1556983449:0;eval ""
+: 1556983449:0;eval eval
+: 1556983449:0;eval urxvt
+: 1556983449:0;eval -h
+: 1556983449:0;man eval
+: 1556983449:0;echo 'urxvt' | eval $(cat /dev/stdin)
+: 1556983449:0;$(cat /dev/sdtdout)
+: 1556983449:0;cat > /tmp/cpp <<EOF && cc /tmp/cpp.bin /tmp/cpp && . /tmp/cpp.bin\
+#include <iostream>\
+using namespace std;\
+int main(){ cout << "test" << endl; }\
+EOF
+: 1556983449:0;cat > /tmp/cpp.cpp <<EOF && cc /tmp/cpp.bin /tmp/cpp.cpp && . /tmp/cpp.bin\
+#include <iostream>\
+using namespace std;\
+int main(){ cout << "test" << endl; }\
+EOF
+: 1556983449:0;cat /tmp/cpp.bin
+: 1556983449:0;alias 2c1='ls'
+: 1556983449:0;alias 1='ls'
+: 1556983449:0;1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;
+: 1556983449:0;1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1; | lolcat
+: 1556983449:0;1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1 | lolcat
+: 1556983449:0;ls -al | lolcat -p 0.1
+: 1556983449:0;ls -al | lolcat -p 0.1 -t
+: 1556983449:0;compton-trans
+: 1556983449:0;HA HA HA>
+: 1556983449:0;>>
+: 1556983449:0;H>A
+: 1556983449:0;cat A
+: 1556983449:0;rm A
+: 1556983449:0;H>/dev/null
+: 1556983449:0;if [ H>/dev/null ]; do echo 'd' fi\
+: 1556966469:0;neofetch --config none
+: 1556983449:0;</>
+: 1556983449:0;<>?>
+: 1556983449:0;?>d
+: 1556983449:0;?(.bz2|.zip)
+: 1556983449:0;cat /dev/null > tst
+: 1556983449:0;cat tst
+: 1556983449:0;cat tst>tst
+: 1556983449:0;cat tst>tst>tst
+: 1556983449:0;cat <<< cat | cat | cat | cat | cat | cat | cat | cat 
+: 1556983449:0;cp /dev/null test
+: 1556983449:0;</>test
+: 1556983449:0;test </> test
+: 1556983449:0;cat test
+: 1556983449:0;cp /dev/null t.bz2 t.zip
+: 1556983449:0;cp /dev/null t.bz2 
+: 1556983449:0;cp /dev/null t.zip
+: 1556983449:0;echo *?(.bz2|.zip)
+: 1556983449:0;ln -s /dev/null  *?(.bz2|.zip)
+: 1556983449:0;ln -s /dev/null  {*?(.bz2|.zip)}
+: 1556983449:0;ln -s /dev/null  *?(.bz2)
+: 1556983449:0;ln -s /dev/null  testd
+: 1556983449:0;cat testd
+: 1556983449:0;ln -s /dev/zero /dev/d
+: 1556983449:0;ln -s /dev/zero /run/1000/gvfs
+: 1556983449:0;ln -s /dev/zero /run/1000/
+: 1556983449:0;ln -s /dev/zero /run
+: 1556983449:0;ln -s /dev/zero /home/zero
+: 1556983449:0;userad
+: 1556983449:0;useradd
+: 1556983449:0;useradd -b /tmp -c NULL -g 10 -G nobody -l -u 1021 -N -m -s /usr/bin/git-shell
+: 1556983449:0;useradd -b /tmp -c NULL -G nobody -l -u 1021 -N -m -s /usr/bin/git-shell
+: 1556983449:0;git-shell
+: 1556983449:0;git-shell-commands
+: 1556983449:0;ln -s /dev/zero t.*
+: 1556983449:0;ln -s /dev/zero I
+: 1556983449:0;ln -s /dev/zero *
+: 1556983449:0;ls -a
+: 1556983449:0;ln -s /dev/zero .XO-lock
+: 1556983449:0;eix
+: 1556983449:0;X
+: 1556983449:0;tmux -h
+: 1556983449:0;tmux -c X
+: 1556983449:0;tmux -c /usr/share/X
+: 1556983449:0;tmux -c git-shell
+: 1556983449:0;tmux -c pytho
+: 1556983449:0;tmux -c python
+: 1556983449:0;unset $TMUX
+: 1556983449:0;tmux -f
+: 1556983449:0;bash --noediting
+: 1556983449:0;bash --noediting --posix
+: 1556983449:0;bash --noediting --posix -v --restricte
+: 1556983449:0;bash --noediting --posix -v --restricted
+: 1556983449:0;bash --noediting --posix -v 
+: 1556983449:0;bash -O extdebug -v --norc
+: 1556983449:0;bash -O extdebug --verbose
+: 1556983449:0;bash -O extdebug 
+: 1556983449:0;vim ~/bin/rofi/blur
+: 1556983449:0;i3lock -h
+: 1556983449:0;cat ~/bin/screen/i3lock-script
+: 1556983449:0;exi
+: 1556983449:0;feh -F
+: 1556983449:0;feh --randomize
+: 1556983449:0;urxvt -fn "xft:xos4 Terminus:style=Regular:size=12"
+: 1556983449:0;lsblk -h
+: 1556983449:0;lsblk VENDOR
+: 1556983449:0;lsblk -o VENDOR
+: 1556983449:0;man lsblk
+: 1556983449:0;lsblk -J
+: 1556983449:0;pacman -Ss json
+: 1556983449:0;pacman -Ss jso
+: 1556983449:0;iniparser
+: 1556983449:0;ini
+: 1556983449:0;inxi
+: 1556983449:0;inxi -rxxvt
+: 1556983449:0;fUn
+: 1556983449:0;inxi -rxxvt | lolcat
+: 1556983449:0;vim ~/.Xresources.d/urxvt/fonts
+: 1556983449:0;rofi -show drun -font "xos4 Terminus 10"
+: 1556983449:0;rofi -show drun -font "xos4 Terminus 10" -show-icons -display-drun >>=
+: 1556983449:0;rofi -show drun -font "xos4 Terminus 10" -show-icons -display-drun ">>="
+: 1556983449:0;haskell
+: 1556983449:0;pacman -Ss haskell
+: 1556983449:0;rofi -show drun -font "xos4 Terminus 10" -show-icons -display-drun "Run It"
+: 1556983449:0;rofi -show drun -font "xos4 Terminus 10" -show-icons -display-drun "I like"
+: 1556983449:0;yay -Ss numix
+: 1556983449:0;yay -S numix-icon-theme-git numix-circle-icon-theme-git
+: 1556983449:0;lxappearance
+: 1556983449:0;sudo pacman -S kde
+: 1556983449:0;sudo pacman -Ss kde
+: 1556983449:0;sudo pacman -S plasma
+: 1556983449:0;rm =
+: 1556983449:0;rofi -padding 2
+: 1556983449:0;rofi -padding 2 -show drun
+: 1556983449:0;rofi -padding 2 -show drun -fullscreen
+: 1556983449:0;rofi -padding 20 -show drun -fullscreen
+: 1556983449:0;rofi -padding 100 -show drun -fullscreen
+: 1556983449:0;rofi -dump-theme
+: 1556983449:0;rofi -dump-theme > test.rasi
+: 1556983449:0;rofi -show run -theme test
+: 1556983449:0;rofi -show run -theme test -fullscreen
+: 1556983449:0;vim test.rasi
+: 1556983449:0;vim ~/.Xresources.d/rofi
+: 1556983449:0;xrdb ~/.Xresoures.d/rofi
+: 1556983449:0;xrdb ~/.Xresources.d/rofi
+: 1556983449:0;vim ~/.cache/wal/colors-rofi-dark.rasi
+: 1556983449:0;xrdb ~/.Xresources
+: 1556983449:0;mkdir ~/.rofi && cp ~/.cache/wal/colors-rofi-dark.rasi ~/.rofi/wal-rofi.rasi
+: 1556983449:0;vim ~/bin/rofi/rofia
+: 1556983449:0;dmenu -i
+: 1556983449:0;rofi -show run
+: 1556983449:0;rofi -dmenu
+: 1556983449:0;rofi -show run -theme ~/.rofi/wal-rofi.rasi
+: 1556983449:0;sudo vim /etc/rofi.conf
+: 1556983449:0;dmenu -i "Shutdown" "echo 0"
+: 1556983449:0;dmenu | exec -
+: 1556983449:0;dmenu | exec 
+: 1556983449:0;exec <(dmenu)
+: 1556983449:0;eval (dmenu)
+: 1556983449:0;eval "$(dmenu)"
+: 1556983449:0;eval "$(dmenu -p run)"
+: 1556983449:0;eval "$(ls /{home/comfy/bin/*/,sbin,bin}dmenu -p run)"
+: 1556983449:0;eval "$(ls /{sbin,bin}dmenu -p run)"
+: 1556983449:0;eval "$(ls /{sbin,bin} | dmenu -p run)"
+: 1556983449:0;eval "$(ls /{home/comfy/bin/*,sbin,bin} | dmenu -p run)"
+: 1556983449:0;eval "$(ls /{home/comfy/bin/*,sbin,bin} | dmenu -p run)" -theme ~/.rofi/wal*
+: 1556983449:0;eval "$(ls /{home/comfy/bin/*,sbin,bin} | dmenu -p run)" -theme ~/.rofi/wal* -show-icons 
+: 1556983449:0;arandr
+: 1556983449:0;xrandr
+: 1556983449:0;pipes2
+: 1556983449:0;tmux
+: 1556983449:0;systemctl disable docker.service
+: 1556983449:0;vim ~/.config/conky/conky.conf
+: 1556983449:0;networkmanager_dmenu
+: 1556983449:0;themer 42
+: 1556983449:0;themer 41
+: 1556983449:0;nitrogen
+: 1556983449:0;cat ~/.cache/wal/colors-rofi-dark.rasi
+: 1556983449:0;vim ~/.config/polybar/modules/pulseaudio.conf
+: 1556983449:0;start_bar
+: 1556983449:0;bloks
+: 1556983449:0;curl https://raw.githubusercontent.com/addy-dclxvi/paintmybox/master/.scripts/colorblocks
+: 1556983449:0;curl https://raw.githubusercontent.com/addy-dclxvi/paintmybox/master/.scripts/colorblocks > ~/bin/colors/colorblocks
+: 1556983449:0;chmod +x ~/bin/colors/colorblocks
+: 1556983449:0;colorblocks
+: 1556983449:0;curl https://raw.githubusercontent.com/addy-dclxvi/paintmybox/master/.scripts/colorbar > ~/bin/colors/colorbar && chmod +x ~/bin/colors/colorbar
+: 1556983449:0;vim ~/bin/colors/colorbar
+: 1556983449:0;curl https://raw.githubusercontent.com/jschx/ufetch/master/ufetch-arch > ~/bin/misc/ufetch
+: 1556983449:0;chmod +x ~/bin/misc/ufetch
+: 1556983449:0;pgrep -x systemd
+: 1556983449:0;vim ~/bin/misc/ufetch
+: 1556983449:0;ufetch
+: 1556983449:0;figlet >>=
+: 1556983449:0;figlet ">>="
+: 1556983449:0;figlet ">>=" -f big
+: 1556983449:0;mkdir ~/.zsh/plugins && cp /usr/share/zsh/plugins/zsh-*/zsh-* ~/.zsh/plugins
+: 1556983449:0;rm *.plugin.zsh
+: 1556983449:0;cd zshrc.d
+: 1556983449:0;rm color-man-pages
+: 1556983449:0;cd ..
+: 1556983449:0;mv oh-my-zsh plugins/OMZ_framework
+: 1556983449:0;vim .zshrc
+: 1556983449:0;eit
+: 1556983449:0;cp /usr/share/zsh/plugins/zsh-syntax-highlighting/* ~/.zsh/plugins/
+: 1556983449:0;cd ~/.zsh
+: 1556983449:0;cd plugins
+: 1556983449:0;source ~/.zsh/oh-my-zsh
+: 1556983449:0;cp /usr/share/zsh/plugins/zsh-syntax-highlighting/.* ~/.zsh/plugins/
+: 1556983449:0;ls -al
+: 1556983449:0;rm zsh-syntax-highlighting.plugin.zsh
+: 1556983449:0;cd ~/.zsh/plugins
+: 1556983449:0;cp /usr/share/zsh/plugins/zsh-syntax-highlighting/highlighters ~/.zsh/plugins/highlighters
+: 1556983449:0;cp /usr/share/zsh/plugins/zsh-syntax-highlighting/highlighters ~/.zsh/plugins/highlighters -r
+: 1556983411:0;source ~/.zsh/plugins/OMZ_framework
+: 1556983475:0;clear && colorblocks
+: 1556983505:0;clear && source ~/.zsh/,zshrc
+: 1556983511:0;clear && source ~/.zsh/.zshrc
+: 1556983542:0;cal
+: 1556983551:0;colorbar
+: 1556983584:0;rm test.rasi
+: 1556983587:0;ranger
+: 1556983664:0;cava
+: 1556983669:0;cmus
+: 1556987265:0;scrot bspwm2.jpg
+: 1556987273:0;killall bspwm
+: 1556989048:0;kwin_x11
+: 1556989122:0;sudo pacman -S konsole latte-dock
+: 1556989189:0;Google
+: 1556989192:0;latte
+: 1556989198:0;latte-dock
+: 1556989261:0;kwin_x11 --replace
+: 1556989287:0;neofetch --config none
+: 1556989339:0;i3
+: 1557079775:0;vim ~/.rofi/wal-rofi.rasi
+: 1557079884:0;vim ~/bin/colors/themer
+: 1557080042:0;chmod +x ~/bin/misc/fetch
+: 1557080324:0;sudo vim /etc/os-release
+: 1557080363:0;env | grep XDH
+: 1557080365:0;env | grep XDG
+: 1557080432:0;echo $DESKTOP_SESSION
+: 1557080456:0;env | grep DESKTOP
+: 1557081314:0;_elinks
+: 1557081316:0;elinks
+: 1557081319:0;lynx
+: 1557081752:0;pgrep -x systemd || INIT="tsT"
+: 1557081769:0;pgrep -x openrc || INIT="tsT"
+: 1557081773:0;echo $INIT
+: 1557081931:0;pgrep -h
+: 1557081961:0;pgrep -w systemd
+: 1557082012:0;pgrep -v systemd
+: 1557082016:0;pgrep -v systemd -x
+: 1557082019:0;pgrep -xv systemd 
+: 1557082194:0;fetch\\
 
-wal -i ~/wal/11.png
-wal -i ~/wal/15.png
-cd ~/wal
-wal -i ~/wal/26.jpg 
-wal -i ~/wal/15.jpg 
-feh
-wal -i ~/wal/16.jpg 
-cd ~/git/oomox\\
+: 1557082232:0;fetch\
 
-cat gui.sh
-./gui.sh
-urxvt -name anachist
-urxvt -name \u@\h
-urxvt -name comfy@anarchist
-vim ~/.config/polybar/config
-wal -i ~/wal/28.jpg 
-wal -i ~/wal/29.jpg 
-wal -i ~/wal/29.jpg --backend colorz
-wal --backend colorz -i ~/wal/30.png 
-vim ~/.co m,
-sudo docker search alpine
-cat /tmp/error.polybar
-start_bar\\
-
-start_bar\\
-\\
-
-start_bar\\
-\\
-\\
-
-start_bar\\
-\\
-\\
-\\
-
-start_bar\\
-\\
-\\
-\\
-\\
-
-start_bar\
-
-vim ~/.config/polybar/master.conf ; start_bar
-rofi -show drun -theme ~/sidebar.rasi
-vim ~/.config/polybar/modules/memory.conf
-vim ~/.config/polybar/modules/coreuse.conf
-vim ~/.config/polybar/modules/date.conf
-vim ~/.config/polybar/master
-vim ~/.config/polybar/modules/pulseaudio.conf
-cd ~/.Xresources.d
-;s
-cd schemes
-rm 1
-vim nord
-geany nord
-cd /usr/share/themes
-cd ../rofi
-cd themes
-rofi -show run -theme onedark
-rofi -show run -theme dmenu
-rofi -show run -theme sidebar
-rofi -show drun -show-icons -theme sidebar
-cp sidebar ~/sidebar.rasi
-cp sidebar.rasi ~/sidebar.rasi
-vim sidebar.rasi
-cat ~/.Xresources.d/schemes/nord
-rofi.sh
-rofi -show drun -h
-rofi -show drun -fullscreen
-rofi -show drun -fullscreen -lines 2
-rofi -show drun -fullscreen -show-icons -display-drun bspwm
-rofi -show drun -fullscreen -show-icons -display-drun rofi
-rofi -show drun -fullscreen -lines 2 -seperator-style dash
-rebuild.st
-st
-yay -Ss compiz
-yay -Ss compiz-fusion-plugins-main compiz-fusion-plugins-extra fusion-icon ccsm menumaker-compiz compiz-boxmenu compiz-core emerald
-sudo pacman -Syu
-yay -S compiz-fusion-plugins-main compiz-fusion-plugins-extra fusion-icon ccsm menumaker-compiz compiz-boxmenu compiz-core emerald
-perl -h
-perl -m "bcop"
-pacman -Ss bcopp
-pacman -Ss bcop
-yay -S fusion-icon ccsm menumaker-compiz compiz-boxmenu compiz-core emerald
-yay -S fusion-icon ccsm menumaker-compiz compiz-boxmenu emerald
-vim /tmp/ess
-ls\\ 
-ls / / 
-cat /rootfs-pkgs.txt 
-elinks www.google.com
-lynx www.google.com
-neofetch --config none
-neofetch --config none --stdout
-tty-clock
-vim ~/.config/bspwm/bspwmrc
-init 6
-telinit 6
-. git/oomox/gui.sh
-bspc window -e left -10
-bspc
-bspc -h
-bspc node 
-bspc node -e
-bspc node -p
-bspc node -p left -10
-bspc node -p 1
-bspc node -p true
-bspc window 
-vim ~/.config/sxhkd/sxhkdrc
-bspc node -t floating
-rm Lx
-rm 'Lx\'
-wscr 12
-herbstluftwm
-bspwm -h
-bspwm -v
-acpi
-acpi --battery
-acpi 
-acpi  | lemonbar 
-acpi  | lemonbar  -p
-bspc wm -g
-bspc wm -g 
-bspc wm -g | grep -B3 f
-bspc wm -g | grep -B3 f -f
-bspc wm -g | grep -B3 f -e fI -e FX
-cat /etc/*release
-sudo nano /etc/*release
-cd /var/db/
-mkdir pkg
-sudo mkdir pkg
-cd pkg
-sudo mkdir {a,b,c,d,e,f,g}
-sudo nano /etc/os-release
-screenfetch
-tdrop
-pacman -Ss tdrop
-yay -Ss tdrop
-yay -S tdrop-git
-tdrop urxvt
-tdrop -h
-tdrop i3
-killall bspwm
-vim ~/bin/screen/i3lock-script
-cd c++
-vim 3.cpp
-vim 2.cpp
-cd ~/.config/compton.conf
-vim ~/.config/compton.conf
-vim ~/bin/bars/lemonbar/lemonbar-s
-vim ~/bin/bars/lemonbar/lemonbar-script
-vim ~/bin/rofi/rofi.sh
-vim ~/bin/misc/mon-to-fry
-vim ~/bin/misc/manage-sys
-pacman -Qu
-pacman -Quq
-pacman -Quq 
-pacman -Quq | pacman -S -
-pacman -Quq | sudo pacman -S -
-lynx www.reddit.com/r/unixporn
-ssh
-ssh localhost
-systemctl status sshd.service
-systemctl enable --now  sshd.service
-lemonbar-staty
-vim ~/bin/bars/lemonbar/lemonbar-start
-lemonbar-start
-eval lemonbar-start
-eval
-eval -h
-man eval
-$0
-init
-ls bin/colors
-brew updates
-brew help
-busybox
-sudo pacman -Sw busybox
-cmatrix
-cmatrix | lolcat
-cmatrix | lolcat -t
-cmatrix | lolcat -p 90
-v ~/.config/polybar/master.conf
-DejaVu Sans Mono
-vim ~/.Xresources.d/urxvt/blur
-exit\\
-
-vim ~/.config/polybar/modules/workspaces.conf
-crunchbang
-crunchbang-mini
-awk 'BEGIN { FS=":"; } { print $1; }' /etc/passwd
-nologin
-bin
-cd /bin
-mail
-sudo pacman -S mutt
-sudo pacman -S ncdu
-lsl
-findmnt -R /mnt
-umount /mnt/{dev,sys,proc}
-sudo umount /mnt/{dev,sys,proc}
-sudo umount /mnt/{dev/*,sys/*,proc/*}
-ranger
-clear && source .zshrc
-wscr 13
-sudo gparted /dev/sda
-rm -rf .config .urxvt .Xresources
-pacman -Qqe
-cp ~/.config .config
-cp ~/.config .config -r
-dd if=alpine-standard-3.9.3-x86_64.iso of=/dev/sdb bs=4M status=progress iflag=fullblock
-sudo dd if=alpine-standard-3.9.3-x86_64.iso of=/dev/sdb bs=4M status=progress iflag=fullblock
-sudo dd if=Pobrane/artix-lxqt-openrc-gremlins-20190222-x86_64.iso of=/dev/sdb bs=4M status=progress iflag=fullblock
-unset POWERLEVEL9K_LEFT_PROMPT_ELEMENTS
-pacman -Ss zsh
-pacman -S command-not-found zsh-theme-powerlevel9k powerline2
-sudo pacman -S command-not-found zsh-theme-powerlevel9k powerline2
-wrqr
-ls /usr/share
-ls /usr/share/vim/
-ls /usr/share/vim/vimfiles
-pip install git+git://github.com/Lokaltog/powerline
-pip install git+git://github.com/Lokaltog/powerline --user
-pip show powerline-status
-. ~/.local/lib/python3.7/site-packages
-. ~/.local/lib/python3.7/site-packages/powerline/bindings/zsh/powerline.zsh
-is this a hoke
-vim
-vim ~/.vimrc
-POWERLEVEL9K_PROMPT_ON_NEWLINE=true
-. /usr/share/zsh-theme-powerlevel9k/powerlevel9k.zsh-theme
-cd git/dotfiles
-vim ~/.zsh\rc
-geany ~/.zshrc
-. /usr/share/zsh-th*/powe*
-xrandr-hdmi
-sudo arch-chroot /mnt bash
-sudo arch-chroot /mnt useradd -m -G audio,wheel comfy && passwd comfy && passwd root
-sudo arch-chroot /mnt useradd -m -G audio,wheel comfy && passwd comfy <bartolo10 <bartolo10 && passwd root <bartolo10 <bartolo10
-sudo arch-chroot /mnt passwd comfy <bartolo10 <bartolo10 && passwd root <bartolo10 <bartolo10
-sudo arch-chroot /mnt passwd comfy <$( echo bartolo10 ) <$(echo bartolo10) && passwd root <$(echo bartolo10) <$(echo bartolo10)
-dd if=/dev/zero of=e.img bs=4M count=4 
-i3lock-script
-cd /mnt
-sudo systemd-nspawn
-cp ~/.bashrc /mnt/home/comfy/.bashrc
-sudo cp ~/.bashrc /mnt/home/comfy/.bashrc
-env HOME=/root TERM=$TERM -i /usr/bin/arch-chroot /mnt TERM=rxvt-256color bash
-env HOME=/root TERM=$TERM  /usr/bin/arch-chroot /mnt TERM=rxvt-256color bash
-env HOME=/root TERM=$TERM  /usr/bin/sudo /usr/bin/arch-chroot /mnt TERM=rxvt-256color bash
-env HOME=/root TERM=$TERM  /usr/bin/sudo /usr/bin/arch-chroot /mnt export TERM=rxvt-256color && bash
-env HOME=/root TERM=$TERM  /usr/bin/sudo /usr/bin/arch-chroot /mnt bash
-fdisk e.img
-fdisk ~/e.img
-mkdir /tmp/test && sudo mount ~/e.img /tmp/test
-mkfs.fat -F32 ~/e.img
-mkfs.fat -F16 ~/e.img
-sudo mount ~/e.img /tmp/test
-bootctl install --path=/tmp/test
-sudo bootctl install --path=/tmp/test
-ls /tmp/test
-sudo bootctl install --path=/tmp/test/
-sudo bootctl install --path=/tmp/
-sudo bootctl install --path=/boot/efi
-cd /boot/efi
-cd EFi
-sudo mv systemd /mnt/boot/systemd
-cd /mnt/boot
-sudo mv systemd boot
-mkdir EFI
-genfstab -h
-genfstab -U -p /mnt >> /mnt/etc/fstab
-sudo genfstab -U -p /mnt >> /mnt/etc/fstab
-why u anarchist
-genfstab
-pacstrap
-sudo gparted /dev/sdb
-sudo -i
-blkid
-fzf
-fzf readme
-fzf =h
-overd
-lsblk
-sudo cryptsetup open /dev/sdb3 ; sudo mount /dev/portable/root /mnt ; sudo mount /dev/sdb2 /mnt/boot
-sudo cryptsetup open /dev/sdb3 cryptlvm ; sudo mount /dev/portable/root /mnt ; sudo mount /dev/sdb2 /mnt/boot
-ls /dev/
-ls /dev/mapper
-sudo mount /dev/mapper/portable-root /mnt ; sudo mount /dev/sdb2 /mnt/boot
-sudo vim /mnt/etc/mkinitcpio.conf
-sudo arch-chroot /mnt mkinitcpio -p linux
-sudo arch-chroot /mnt mkinitcpio -p linux-zen
-sudo vim /mnt/boot/loader/entries/arch.conf
-sudo vim /mnt/etc/fstab
-sudo cp /mnt/boot/EFI/boot/systemd-bootx64.efi /mnt/boot/EFI/boot/bootx64.efi
-reboot
-vim ~/.Xresources
-vim ~/.Xresources\\
-
-xrdb ~/.Xresources
-vim ~/.config/polybar/master.conf
-cd 
-cd ~/.config/polybar/modules
-cp date.conf date-noicon
-vim date-noicon; mv date-noicon date-noicon.conf
-vim ../modules.conf
-vim ../config
-vim ../master.conf
-start_bar
-$color7
-crunch
-abcdef
-alpha
-gcal
-xdotool
-sudo pacman -S xdo
-xdo
-xdo -j
-xdo -h
-man xdo
-sudo pacman -S qutebrowser
-qutebrowser
-gdialog
-gdialog --checklist "choose:" 15 40 5 \ 
-sudo pacman -S dialog
-dialog --title "DockerAPI Runtime" --msgbox "\n Initialized IPC Socket on unix://tmp/dockerd.sockd" 6 50
-dialog --title "DockerAPI Runtime" --msgbox "\n Initialized IPC Socket on host1:ssh" 6 50
-dialog --title "DockerAPI Runtime" --msgbox "\n Initialized IPC Socket on host1:ssh" 6 500
-dialog --title "DockerAPI Runtime" --msgbox "\n Initialized IPC Socket on host1:ssh" 60 500
-dialog --title "DockerAPI Runtime" --msgbox "\n $(neofetch --stdout)" 60 500
-dialog --title "DockerAPI Runtime" --msgbox "\n $()" 60 500
-dialog --infobox "$(cal)"
-dialog --infobox "$(cal)" 3 4
-cal
-dialog --infobox "$(cat /tmp/error.polybar)" 3 4
-dialog --title "Date" --msgbox "$(cal)" 6 50
-dialog --title "Date" --msgbox "$(cal)" 20
-dialog --title "Date" --msgbox "$(cal)" 20 40
-dialog --title "Date" --msgbox "$(cal)" 20 100
-dialog --title "Date" --msgbox "$(cal)" 20 10
-dialog --title "Date" --msgbox "$(cal)" 20 20
-dialog --title "Date" --msgbox "$(cal)" 20 30
-dialog --title "Date" --msgbox "$(cal)" 20 33
-mutt
- \mail
-\start_bar
-vim ~/c++/1.cpp
-cd ~/c++
-cd 1
-rm '\'
-source ~/.zshrc
-ls /usr/share/
-ls /usr/share/include
-ls /usr/share/includes
-ls /usr/include/
-ls /usr/include/ | gre[ ;
-ls /usr/include/ | grep li
-ls /usr/include/ | grep linux
-ls /usr/include/ | grep linux | ls -
-ls /usr/include/ | grep linux | ls 
-ls /usr/include/ | grep linux 
-ls /usr/include/linux
-ls /usr/include/linux | grep lin
-ls /usr/include/linux | grep sys
-vim include.h
-vim loop.cpp
-cc loop loop.cpp
-./loop
-pacman2
-mkdir conf.d/ascii
-ls conf.d
-rm -rf conf.d
-rm e.img
-cd Scripts
-mkdir ascii
-cd ascii
-pacman2>pacman
-vim pacman
-geany pacman
-cat pacman
-cat "\
-\n pacman"
-echo
-echo -ne " "| cat pacman
-echo -e " "| cat pacman
-vim ~/.zshrc
-pacman -V
-pacman -V | awk '/-/ {print $1;}'
-pacman -V | awk '/-/ {print $1 $2;}'
-pacman -V | awk '/-/ {print $1 $2 $3;}'
-pacman -V | awk '/^-/ {print $1 $2 $3;}' 
-cd .. 
-cd bash
-vim arg0
-chmod +x arg0
-./arg0
-ln -s arg0 dev0
-./dev0
-cd /tmp/
-clear
-mkdir dev
-mknod 6 7 87 
-mknod --hep
-mknod --help
-mknod null 3 6 0
-mknod null 3 6 null
-mknod null b 3 6 0
-mknod null b 3 6 
-mknod $(pwd)/null b 3 6 
-sudo mknod $(pwd)/null b 3 6 
-chmod a+r+w null
-sudo chmod a+r+w null
-cat null
-null
-ln -s /dev/null null
-ln -s /dev/random random
-ln -s /dev/urandom urandom
-ln -s /dev/mapper mapper
-cd mapper
-cd ..
-chmod 000 dev
-cd devc
-sudo chmod a+r+w dev
-cd dev
-cat bspwm_0_0-socket
-=socket
-=docker
-socker
-_socket
-_
-_t,[
-[]
-[for i in dev]
-vim main.cpp
-cc login main.cpp
-./login
-cd ~/c++/1
-cd ~
-cd bin
-cd dmenu
-ls
-neofetch
-clock
-poweroff
-ls /usr/share/zsh/plugins
-vim ~/.zsh/aliases
-ls \\
-
-vim ~/.zsh/zshrc.d/aliases
-ls /usr/share/zsh/plugins/zsh-history-substring-search
-dialog --title "Date" --msgbox "$(cal)" 10 33
-meofetch --st
-exit
+: 1557082252:0;cat ~/bin/misc/ufetch
+: 1557082336:0;pacman -Qq 
+: 1557082339:0;pacman -Qq  | wc -l
+: 1557082413:0;lynx https://google.com
+: 1557083542:0;geany ~/bin/misc/ufetch
+: 1557083562:0;mkdir ~/bin/misc/fetch.d
+: 1557083567:0;cd ~/bin/misc/fetch.d
+: 1557083569:0;geany 1
+: 1557084056:0;geany ~/bin/misc/fetch
+: 1557084116:0;fetch
+: 1557084336:0;vim ~/.zsh/.zshrc
+: 1557084387:0;zsh --version
+: 1557084396:0;zsh --help
+: 1557084410:0;zsh --version | grep 5
+: 1557084417:0;zsh --version | grep -x
+: 1557084420:0;zsh --version | grep -x d
+: 1557084435:0;vim ~/bin/misc/fetch
+: 1557084496:0;scrot
+: 1557085788:0;vim ~/.config/polybar/master.conf ; start_bar
+: 1557085806:0;neofetch
+: 1557085829:0;vim ~/.config/polybar/modules/workspaces.conf ; start_bar
+: 1557085855:0;vim ~/.config/polybar/modules/pulseaudio.conf ; start_bar
+: 1557086519:0;sudo pacman -R lemonbar-xft
+: 1557086676:0;cd /tmp/
+: 1557086688:0;git clone https://github.com/LemonBoy/bar.git
+: 1557086691:0;cd bar
+: 1557086695:0;make -j256
+: 1557086703:0;./lemonbar
+: 1557086799:0;clear
+: 1557086801:0;cd /tmp
+: 1557086805:0;git clone https://github.com/baskerville/bspwm
+: 1557086809:0;cd bspwm
+: 1557086815:0;cd examples/panel
+: 1557086828:0;PANEL_FIFO=/tmp/lm
+: 1557086836:0;PANELFIFO=/tmp/lm
+: 1557086863:0;cat panel
+: 1557086893:0;export PANEL_FIFO='/tmp/makefifo;\
+'
+: 1557086900:0;export PANEL_FIFO='/tmp/makefifo'
+: 1557086917:0;bspc subscribe
+: 1557086925:0;bspc subscribe report
+: 1557086937:0;mkfifo $PANEL_FIFO
+: 1557086944:0;bspc subscribe report > $PANEL_FIO
+: 1557086946:0;bspc subscribe report > $PANEL_FIFO
+: 1557086972:0;bspc subscribe report > $PANEL_FIFO &
+: 1557086975:0;./panel
+: 1557086988:0;PATH=$PATH:$(pwd)
+: 1557087004:0;sudo pacman -S lemonbar ; panel
+: 1557087034:0;sudo pacman -S lemonbar 
+: 1557087047:0;sudo pacman -S lemonbar
+: 1557087071:0;sudo pacman -Ss xtitle
+: 1557087074:0;sudo pacman -S xtitle
+: 1557087079:0;xtitle
+: 1557087085:0;panel
+: 1557087095:0;ls
+: 1557087098:0;vim panel
+: 1557087132:0;vim bspwmrc
+: 1557087261:0;geany /tmp/xd
+: 1557087272:0;bash /tmp/xd
+: 1557087327:0;xset 
+: 1557087331:0;xset -dpms
+: 1557087335:0;xset +dpms
+: 1557087940:0;pacman -h
+: 1557087949:0;pacman -D
+: 1557087952:0;sudo -i
+: 1557088453:0;poweroff
+: 1557124960:0;exit
+: 1557126277:0;colorblocks
+: 1557126281:0;clear && colorblocks
+: 1557126868:0;cd ~/git/
+: 1557126869:0;ls
+: 1557126872:0;cd dotfiles
+: 1557126900:0;ls
+: 1557126920:0;ls -a
+: 1557126957:0;rm -rf .cache .config .git .icons .themes .zsh .Xresources .Xresources.d bin
+: 1557127008:0;ls
+: 1557127010:0;ls -a
+: 1557127117:0;cp ~/.zsh .zsh -r ; cp ~/.config .config -r ; cp ~/.themes .themes -r ; cp ~/.icons .icons -r ; cp ~/.rofi .rofi -r ; rm -rf .config/chromium; rm -rf wal ; cp ~/wal wal -r
+: 1557127530:0;git pusg
+: 1557127532:0;git push
+: 1557127537:0;git init
+: 1557127553:0;git remote https://github.com/ayooderp/Dotfiles
+: 1557127558:0;git remote add https://github.com/ayooderp/Dotfiles
+: 1557127576:0;git remote add --mirror=push https://github.com/ayooderp/Dotfiles
+: 1557127593:0;git push
+: 1557127605:0;git remote add origin https://github.com/ayooderp/Dotfiles
+: 1557127611:0;git push origin
+: 1557127619:0;git push --set-upstream origin master
+: 1557127631:0;git push --set-upstream master
+: 1557127634:0;git push --set-upstream origin
+: 1557127641:0;git pus
+: 1557127642:0;git push
+: 1557127649:0;git push --set-upstream origin master
+: 1557127668:0;git add . ; git commit -m 'upd'
+: 1557150597:0;cd 
+: 1557150603:0;cd ~/git/dotfiles
+: 1557150694:0;ls
+: 1557150699:0;git push --set-upstream origin master
+: 1557150732:0;git push --set-upstream origin master -f
+: 1557151155:0;cd ~/git/dotfiles
+: 1557151161:0;cd ..
+: 1557151163:0;rm -rf dotfiles
+: 1557151251:0;git clone https://github.com/ayooderp/Dotfiles 
+: 1557151486:0;ls
+: 1557151488:0;cd Dotfiles
+: 1557151488:0;ls
+: 1557151624:0;rm -rf bin wal .config .zsh .icons .themes .Xresources .Xresources.d; cp ~/.Xresources.d -r .Xresources.d ; cp ~/.Xresources .Xresources ; cp ~/.config .config -r ; rm -rf ~/.config/chromium ; cp ~/bin bin -r ; cp ~/.rofi .rofi -r ; cp ~/.zsh -r .zsh ; cp ~/wal -r wal ; cp ~/.themes .themes ; cp ~/.icons .icons 
+: 1557151664:0;cd ~/git/Dotfiles #rm -rf bin wal .config .zsh .icons .themes .Xresources .Xresources.d; cp ~/.Xresources.d -r .Xresources.d ; cp ~/.Xresources .Xresources ; cp ~/.config .config -r ; rm -rf ~/.config/chromium ; cp ~/bin bin -r ; cp ~/.rofi .rofi -r ; cp ~/.zsh -r .zsh ; cp ~/wal -r wal ; cp ~/.themes .themes ; cp ~/.icons .icons 
+: 1557151697:0;cd ~/git/Dotfiles rm -rf bin wal .config .zsh .icons .themes .Xresources .Xresources.d; cp ~/.Xresources.d -r .Xresources.d ; cp ~/.Xresources .Xresources ; cp ~/.config .config -r ; rm -rf .config/chromium ; cp ~/bin bin -r ; cp ~/.rofi .rofi -r ; cp ~/.zsh -r .zsh ; cp ~/wal -r wal ; cp ~/.themes .themes ; cp ~/.icons .icons 
+: 1557151742:0;cd ~/git/Dotfiles ; rm -rf bin wal .config .zsh .icons .themes .Xresources .Xresources.d; cp ~/.Xresources.d -r .Xresources.d ; cp ~/.Xresources .Xresources ; cp ~/.config .config -r ; rm -rf .config/chromium ; cp ~/bin bin -r ; cp ~/.rofi .rofi -r ; cp ~/.zsh -r .zsh ; cp ~/wal -r wal ; cp ~/.themes .themes ; cp ~/.icons .icons 

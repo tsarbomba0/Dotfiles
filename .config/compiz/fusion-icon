@@ -1,0 +1,5 @@
+[compiz options]
+
+[window manager]
+active wm = compiz
+

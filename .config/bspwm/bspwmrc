@@ -4,14 +4,14 @@ source /home/comfy/.cache/wal/colors.sh
 
 sxhkd &
 
-bspc monitor -d I II III IV V VI VII VIII IX X
+bspc monitor -d I II III IV V VI
 
 #################################################
 #              bspc/config                      #
 #################################################
-#bspc config normal_border_color       "#AA000000"
-#bspc config active_border_color       "#AA000000"
-#bspc config focused_border_color        "#2f343f"
+bspc config normal_border_color        "$color1"
+bspc config active_border_color        "$color7"
+bspc config focused_border_color       "$color5"
 bspc config border_width                      0
 bspc config window_gap                        8
 bspc config split_ratio                    0.50
@@ -19,7 +19,7 @@ bspc config borderless_monocle             true
 bspc config gapless_monocle                true
 bspc config borderless_tiling              true
 bspc config focus_follows_pointer          true
-bspc config border_radius                     8
+bspc config border_radius                     6
 
 ###################################
 #           bspc/Rules            #
@@ -27,14 +27,14 @@ bspc config border_radius                     8
 bspc rule -a Emacs    desktop=^5 state=floating
 bspc rule -a Feh      desktop=^4
 bspc rule -a Chromium desktop=^2
-bspc rule -a Oblogout desktop=^2 state=floating
-bspc rule -a WhatsApp desktop=^7
+bspc rule -a Oblogout            state=floating
+bspc rule -a WhatsApp desktop=^6
 
 ##############################
 #         autostart          #
 ##############################
 sxhkd &
-compton &
+/home/comfy/bin/x11/compton &
 urxvtd &
 urxvtc &
 conky &
@@ -53,3 +53,10 @@ if [ "$ONE_MONITOR" == "YES" ]; then
 else
 	bash /home/comfy/bin/screen/xrandr-hdmi
 fi
+
+##################################################
+#               Dunst + Pywal                    #
+##################################################
+
+killall dunst
+dunst -lb "$background" -nb "$background" -cf "$foreground" -lf "$background" -nf "$background" -cf "$foreground" &

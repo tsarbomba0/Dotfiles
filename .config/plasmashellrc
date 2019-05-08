@@ -1,0 +1,22 @@
+[DownloadDialog Settings]
+Height 768=494
+Width 1366=700
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_systemsettings.desktop,2 services_termite.desktop,1 shell_lxappearance,1 services_chromium.desktop
+pluginWhiteList=Dictionary,services,shell,org.kde.windowedwidgets,org.kde.datetime,baloosearch,locations,unitconverter
+
+[PlasmaTransientsConfig]
+PreloadWeight=18
+
+[PlasmaViews][Panel 2]
+panelVisibility=1
+
+[PlasmaViews][Panel 2][Horizontal1366]
+thickness=26
+
+[ScreenConnectors]
+0=eDP1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

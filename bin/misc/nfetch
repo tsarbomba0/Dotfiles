@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+neofetch --ascii_distro ArcoLinux
+

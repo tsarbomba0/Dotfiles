@@ -1,0 +1,2 @@
+#!/usr/bin/env
+toilet -f 3d $1 

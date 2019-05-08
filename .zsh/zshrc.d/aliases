@@ -22,3 +22,5 @@
 	alias grubup='sudo update-grub'
 	alias ls='ls --color=auto'
 	alias Xres='vim ~/.Xresources && xrdb ~/.Xresources'
+        alias lol='toilet -f 3d'
+alias oomox='sh ~/git/oomox/gui.sh'

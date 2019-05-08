@@ -1,6 +1,6 @@
-source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $HOME/.zsh/plugins/zsh-syntax-highlighting.zsh
+source $HOME/.zsh/plugins/zsh-autosuggestions.zsh
+source $HOME/.zsh/plugins/zsh-history-substring-search.zsh
 
 setopt correct                                                  # Auto correct mistakes
 setopt extendedglob                                             # Extended globbing. Allows using regular expressions with *
@@ -71,6 +71,9 @@ bindkey '^[[B' history-substring-search-down
 source $ZDOTDIR/zshrc.d/*
 
 promptinit
-prompt spaceship ; RPS1=`date "+%H:%M %Y"`
-cat /home/comfy/Scripts/ascii/pacman
 
+source $ZDOTDIR/plugins/OMZ_framework
+
+
+#ufetch
+fetch

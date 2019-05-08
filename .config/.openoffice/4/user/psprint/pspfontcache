@@ -1,0 +1,3536 @@
+PspFontCacheFile format 4
+EmptyFontCacheDirectory:1554634796:/home/comfy/.config/.openoffice/4/user/psprint/fontmetric
+FontCacheDirectory:1553429863:/opt/openoffice4/program/../share/psprint/fontmetric
+File:Times-Italic.afm
+3;1
+Times
+-1;Times-Italic;2;6;0;2;91;883;217;100;0;1010;653;1010;653;0;0;0;Italic
+
+File:Times-Bold.afm
+3;1
+Times
+-1;Times-Bold;0;8;0;2;91;935;218;153;0;1000;676;1000;676;0;0;0;Bold
+
+File:Palatino-Bold.afm
+3;1
+Palatino
+-1;Palatino-Bold;0;8;0;2;91;924;266;190;0;1000;681;1000;681;0;0;0;Bold
+
+File:ZapfDingbats.afm
+3;1
+ITC Zapf Dingbats
+-1;ZapfDingbats;0;6;0;2;10;820;143;-37;0;981;820;981;820;0;0;0
+
+File:Times-Roman.afm
+3;1
+Times
+-1;Times-Roman;0;6;0;2;91;898;218;116;0;1000;662;1000;662;0;0;0;Roman
+
+File:Palatino-Italic.afm
+3;1
+Palatino
+-1;Palatino-Italic;2;6;0;2;91;918;276;194;0;1010;692;1010;692;0;0;0;Italic
+
+File:NewCenturySchlbk-Italic.afm
+3;1
+New Century Schoolbook
+-1;NewCenturySchlbk-Italic;2;6;0;2;91;958;250;208;0;994;722;994;722;0;0;0;Italic
+
+File:NewCenturySchlbk-Bold.afm
+3;1
+New Century Schoolbook
+-1;NewCenturySchlbk-Bold;0;8;0;2;91;988;250;238;0;1000;722;1000;722;0;0;0;Bold
+
+File:ITCZapfChancery-MediumItalic.afm
+3;1
+ITC Zapf Chancery
+-1;ZapfChancery-MediumItalic;2;6;0;2;91;831;314;145;0;1065;708;1065;708;0;0;0;Medium Italic
+
+File:Palatino-BoldItalic.afm
+3;1
+Palatino
+-1;Palatino-BoldItalic;2;8;0;2;91;926;271;197;0;1073;681;1073;681;0;0;0;Bold Italic
+
+File:ITCBookman-DemiItalic.afm
+3;1
+ITC Bookman
+-1;Bookman-DemiItalic;2;7;0;2;91;941;250;191;0;1333;681;1333;681;0;0;0;Demi Italic
+
+File:ITCBookman-Light.afm
+3;1
+ITC Bookman
+-1;Bookman-Light;0;3;0;2;91;908;251;159;0;1266;681;1266;681;0;0;0;Light
+
+File:ITCBookman-Demi.afm
+3;1
+ITC Bookman
+-1;Bookman-Demi;0;7;0;2;91;934;250;184;0;1346;681;1346;681;0;0;0;Demi
+
+File:Times-BoldItalic.afm
+3;1
+Times
+-1;Times-BoldItalic;2;8;0;2;91;921;218;139;0;996;669;996;669;0;0;0;Bold Italic
+
+File:Symbol.afm
+3;1
+Symbol
+-1;Symbol;0;6;0;2;10;1010;293;303;0;1090;1010;1090;1010;0;0;0
+
+File:ITCAvantGarde-DemiOblique.afm
+3;1
+ITC Avant Garde Gothic
+-1;AvantGarde-DemiOblique;2;7;0;2;91;1021;251;272;0;1256;740;1256;740;0;0;0;Demi Oblique
+
+File:Helvetica.afm
+3;1
+Helvetica
+-1;Helvetica;0;6;0;2;91;931;225;156;0;1000;718;1000;718;0;0;0
+
+File:Helvetica-Oblique.afm
+3;1
+Helvetica
+-1;Helvetica-Oblique;2;6;0;2;91;931;225;156;0;1116;718;1116;718;0;0;0;Oblique
+
+File:Palatino-Roman.afm
+3;1
+Palatino
+-1;Palatino-Roman;0;6;0;2;91;927;283;210;0;1021;692;1021;692;0;0;0;Roman
+
+File:NewCenturySchlbk-Roman.afm
+3;1
+New Century Schoolbook
+-1;NewCenturySchlbk-Roman;0;6;0;2;91;965;250;215;0;1000;722;1000;722;0;0;0;Roman
+
+File:Helvetica-Bold.afm
+3;1
+Helvetica
+-1;Helvetica-Bold;0;8;0;2;91;962;228;190;0;1003;718;1003;718;0;0;0;Bold
+
+File:ITCAvantGarde-Book.afm
+3;1
+ITC Avant Garde Gothic
+-1;AvantGarde-Book;0;3;0;2;91;955;222;177;0;1148;740;1148;740;0;0;0;Book
+
+File:ITCBookman-LightItalic.afm
+3;1
+ITC Bookman
+-1;Bookman-LightItalic;2;3;0;2;91;883;250;133;0;1269;681;1269;681;0;0;0;Light Italic
+
+File:Courier-Oblique.afm
+3;1
+Courier
+-1;Courier-Oblique;2;6;0;1;91;805;250;55;0;849;562;849;562;0;0;0;Oblique
+
+File:ITCAvantGarde-Demi.afm
+3;1
+ITC Avant Garde Gothic
+-1;AvantGarde-Demi;0;7;0;2;91;1021;251;272;0;1222;740;1222;740;0;0;0;Demi
+
+File:Courier.afm
+3;1
+Courier
+-1;Courier;0;6;0;1;91;805;250;55;0;715;562;715;562;0;0;0
+
+File:NewCenturySchlbk-BoldItalic.afm
+3;1
+New Century Schoolbook
+-1;NewCenturySchlbk-BoldItalic;2;8;0;2;91;991;250;241;0;1147;722;1147;722;0;0;0;Bold Italic
+
+File:Courier-Bold.afm
+3;1
+Courier
+-1;Courier-Bold;0;8;0;1;91;801;250;51;0;749;562;749;562;0;0;0;Bold
+
+File:Courier-BoldOblique.afm
+3;1
+Courier
+-1;Courier-BoldOblique;2;8;0;1;91;801;250;51;0;869;562;869;562;0;0;0;Bold Oblique
+
+File:Helvetica-BoldOblique.afm
+3;1
+Helvetica
+-1;Helvetica-BoldOblique;2;8;0;2;91;962;228;190;0;1114;718;1114;718;0;0;0;Bold Oblique
+
+File:ITCAvantGarde-BookOblique.afm
+3;1
+ITC Avant Garde Gothic
+-1;AvantGarde-BookOblique;2;3;0;2;91;955;222;177;0;1279;740;1279;740;0;0;0;Book Oblique
+
+FontCacheDirectory:1553429862:/opt/openoffice4/share/fonts/truetype
+File:opens___.ttf
+2;1
+OpenSymbol
+-1;OpenSymbol;0;5;5;2;65535;799;200;-1;0;1262;999;1262;999;0;0;0;8;Regular
+
+File:Tinos-Regular.ttf
+2;1
+Tinos
+-1;Tinos;0;5;5;2;65535;891;216;107;0;1821;1107;1821;1107;0;0;0;8;Regular
+
+File:SymbolNeu.ttf
+2;1
+Symbol Neu
+-1;SymbolNeu;0;5;5;2;10;1005;219;224;0;1239;1224;1239;1224;0;0;0;8;Regular
+
+File:GenBkBasR.ttf
+2;1
+Gentium Book Basic
+-1;GentiumBookBasic;0;5;5;2;65535;874;283;157;0;1501;1157;1501;1157;0;0;0;0;Regular
+
+File:Tinos-Italic.ttf
+2;1
+Tinos
+-1;Tinos-Italic;2;5;5;2;65535;891;216;107;0;1829;1107;1829;1107;0;0;0;8;Italic
+
+File:GenBkBasB.ttf
+2;1
+Gentium Book Basic
+-1;GentiumBookBasic-Bold;0;8;5;2;65535;874;283;157;0;1579;1157;1579;1157;0;0;0;0;Bold
+
+File:GenBasR.ttf
+2;1
+Gentium Basic
+-1;GentiumBasic;0;5;5;2;65535;874;283;157;0;1477;1157;1477;1157;0;0;0;0;Regular
+
+File:GenBkBasBI.ttf
+2;1
+Gentium Book Basic
+-1;GentiumBookBasic-BoldItalic;2;8;5;2;65535;874;283;157;0;1445;1157;1445;1157;0;0;0;0;Bold Italic
+
+File:Tinos-Bold.ttf
+2;1
+Tinos
+-1;Tinos-Bold;0;8;5;2;65535;891;216;107;0;1887;1107;1887;1107;0;0;0;8;Bold
+
+File:GenBasI.ttf
+2;1
+Gentium Basic
+-1;GentiumBasic-Italic;2;5;5;2;65535;874;283;157;0;1292;1157;1292;1157;0;0;0;0;Italic
+
+File:GenBasBI.ttf
+2;1
+Gentium Basic
+-1;GentiumBasic-BoldItalic;2;8;5;2;65535;874;283;157;0;1407;1157;1407;1157;0;0;0;0;Bold Italic
+
+File:GenBasB.ttf
+2;1
+Gentium Basic
+-1;GentiumBasic-Bold;0;8;5;2;65535;874;283;157;0;1549;1157;1549;1157;0;0;0;0;Bold
+
+File:Cousine-Bold.ttf
+2;1
+Cousine
+-1;Cousine-Bold;0;8;5;1;65535;832;300;132;0;1177;1132;1177;1132;0;0;0;8;Bold
+
+File:GenBkBasI.ttf
+2;1
+Gentium Book Basic
+-1;GentiumBookBasic-Italic;2;5;5;2;65535;874;283;157;0;1330;1157;1330;1157;0;0;0;0;Italic
+
+File:Arimo-Regular.ttf
+2;1
+Arimo
+-1;Arimo;0;5;5;2;65535;905;211;116;0;1844;1116;1844;1116;0;0;0;8;Regular
+
+File:Cousine-BoldItalic.ttf
+2;1
+Cousine
+-1;Cousine-BoldItalic;2;8;5;1;65535;832;300;132;0;1272;1132;1272;1132;0;0;0;8;Bold Italic
+
+File:Tinos-BoldItalic.ttf
+2;1
+Tinos
+-1;Tinos-BoldItalic;2;8;5;2;65535;891;216;107;0;1850;1107;1850;1107;0;0;0;8;Bold Italic
+
+File:Arimo-Italic.ttf
+2;1
+Arimo
+-1;Arimo-Italic;2;5;5;2;65535;905;211;116;0;2024;1116;2024;1116;0;0;0;8;Italic
+
+File:Arimo-BoldItalic.ttf
+2;1
+Arimo
+-1;Arimo-BoldItalic;2;8;5;2;65535;905;211;116;0;1834;1116;1834;1116;0;0;0;8;Bold Italic
+
+File:Cousine-Regular.ttf
+2;1
+Cousine
+-1;Cousine;0;5;5;1;65535;832;300;132;0;1223;1132;1223;1132;0;0;0;8;Regular
+
+File:Arimo-Bold.ttf
+2;1
+Arimo
+-1;Arimo-Bold;0;8;5;2;65535;905;211;116;0;1785;1116;1785;1116;0;0;0;8;Bold
+
+File:Cousine-Italic.ttf
+2;1
+Cousine
+-1;Cousine-Italic;2;5;5;1;65535;832;300;132;0;1304;1132;1304;1132;0;0;0;8;Italic
+
+FontCacheDirectory:1553373667:/usr/share/fonts/noto
+File:NotoSerifTibetan-Medium.ttf
+2;1
+Noto Serif Tibetan Medium
+-1;NotoSerifTibetan-Medium;0;6;5;2;65535;1299;1349;1648;0;2411;2648;2411;2648;0;0;0;0;Medium
+
+File:NotoSerifTibetan-Light.ttf
+2;1
+Noto Serif Tibetan Light
+-1;NotoSerifTibetan-Light;0;3;5;2;65535;1299;1349;1648;0;2377;2648;2377;2648;0;0;0;0;Light
+
+File:NotoSerifThai-Regular.ttf
+2;1
+Noto Serif Thai
+-1;NotoSerifThai-Regular;0;5;5;2;65535;1064;534;598;0;1636;1598;1636;1598;0;0;0;0;Regular
+
+File:NotoSerifThai-Bold.ttf
+2;1
+Noto Serif Thai
+-1;NotoSerifThai-Bold;0;8;5;2;65535;1064;534;598;0;1715;1598;1715;1598;0;0;0;0;Bold
+
+File:NotoSerifThai-Black.ttf
+2;1
+Noto Serif Thai Blk
+-1;NotoSerifThai-Black;0;10;5;2;65535;1064;534;598;0;1784;1598;1784;1598;0;0;0;0;Black
+
+File:NotoSerifTelugu-Regular.ttf
+2;1
+Noto Serif Telugu
+-1;NotoSerifTelugu;0;5;5;2;65535;944;554;498;0;2540;1498;2540;1498;0;0;0;0;Regular
+
+File:NotoSerifTelugu-Bold.ttf
+2;1
+Noto Serif Telugu
+-1;NotoSerifTelugu-Bold;0;8;5;2;65535;944;554;498;0;2541;1498;2541;1498;0;0;0;0;Bold
+
+File:NotoSerifTamilSlanted-Regular.ttf
+2;1
+NotoSerifTamilSlanted
+-1;NotoSerifTamilSlanted-Regular;0;5;5;2;65535;1069;492;561;0;3227;1561;3227;1561;0;0;0;0;Regular
+
+File:NotoSerifTamilSlanted-Medium.ttf
+2;1
+NotoSerifTamilSlanted Medium
+-1;NotoSerifTamilSlanted-Medium;0;6;5;2;65535;1069;492;561;0;3263;1561;3263;1561;0;0;0;0;Medium
+
+File:NotoSerifTamil-Thin.ttf
+2;1
+Noto Serif Tamil Thin
+-1;NotoSerifTamil-Thin;0;1;5;2;65535;1069;492;561;0;3095;1561;3095;1561;0;0;0;0;Thin
+
+File:NotoSerifTamil-Medium.ttf
+2;1
+Noto Serif Tamil Med
+-1;NotoSerifTamil-Medium;0;6;5;2;65535;1069;492;561;0;3323;1561;3323;1561;0;0;0;0;Medium
+
+File:NotoSerifTamil-Light.ttf
+2;1
+Noto Serif Tamil Light
+-1;NotoSerifTamil-Light;0;3;5;2;65535;1069;492;561;0;3201;1561;3201;1561;0;0;0;0;Light
+
+File:NotoSerifTamil-Bold.ttf
+2;1
+Noto Serif Tamil
+-1;NotoSerifTamil-Bold;0;8;5;2;65535;1069;492;561;0;3415;1561;3415;1561;0;0;0;0;Bold
+
+File:NotoSerifSinhala-Thin.ttf
+2;1
+Noto Serif Sinhala Thin
+-1;NotoSerifSinhala-Thin;0;1;5;2;65535;997;307;304;0;2796;1304;2796;1304;0;0;0;0;Thin
+
+File:NotoSerifSinhala-Bold.ttf
+2;1
+Noto Serif Sinhala
+-1;NotoSerifSinhala-Bold;0;8;5;2;65535;997;307;304;0;2852;1304;2852;1304;0;0;0;0;Bold
+
+File:NotoSerifMyanmar-Regular.ttf
+2;1
+Noto Serif Myanmar
+-1;NotoSerifMyanmar-Regular;0;5;5;2;65535;1239;1260;1499;0;3090;2499;3090;2499;0;0;0;0;Regular
+
+File:NotoSerifMyanmar-Bold.ttf
+2;1
+Noto Serif Myanmar
+-1;NotoSerifMyanmar-Bold;0;8;5;2;65535;1239;1260;1499;0;3093;2499;3093;2499;0;0;0;0;Bold
+
+File:NotoSerifMalayalam-Regular.ttf
+2;1
+Noto Serif Malayalam
+-1;NotoSerifMalayalam;0;5;5;2;65535;864;492;356;0;3084;1356;3084;1356;0;0;0;0;Regular
+
+File:NotoSerifMalayalam-Bold.ttf
+2;1
+Noto Serif Malayalam
+-1;NotoSerifMalayalam-Bold;0;8;5;2;65535;864;492;356;0;3420;1356;3420;1356;0;0;0;0;Bold
+
+File:NotoSerifLao-Thin.ttf
+2;1
+Noto Serif Lao Thin
+-1;NotoSerifLao-Thin;0;1;5;2;65535;1174;482;656;0;1362;1656;1362;1656;0;0;0;0;Thin
+
+File:NotoSerifKhmer-Thin.ttf
+2;1
+Noto Serif Khmer Thin
+-1;NotoSerifKhmer-Thin;0;1;5;2;65535;1069;293;362;0;3166;1362;3166;1362;0;0;0;0;Thin
+
+File:NotoSerifKhmer-Medium.ttf
+2;1
+Noto Serif Khmer Medium
+-1;NotoSerifKhmer-Medium;0;6;5;2;65535;1069;293;362;0;3458;1362;3458;1362;0;0;0;0;Medium
+
+File:NotoSerifKhmer-Light.ttf
+2;1
+Noto Serif Khmer Light
+-1;NotoSerifKhmer-Light;0;3;5;2;65535;1069;293;362;0;3302;1362;3302;1362;0;0;0;0;Light
+
+File:NotoSerifKhmer-Bold.ttf
+2;1
+Noto Serif Khmer
+-1;NotoSerifKhmer-Bold;0;8;5;2;65535;1069;293;362;0;3575;1362;3575;1362;0;0;0;0;Bold
+
+File:NotoSerifKhmer-Black.ttf
+2;1
+Noto Serif Khmer Black
+-1;NotoSerifKhmer-Black;0;10;5;2;65535;1069;293;362;0;3691;1362;3691;1362;0;0;0;0;Black
+
+File:NotoSerifSinhala-Medium.ttf
+2;1
+Noto Serif Sinhala Medium
+-1;NotoSerifSinhala-Medium;0;6;5;2;65535;997;307;304;0;2831;1304;2831;1304;0;0;0;0;Medium
+
+File:NotoSerifKannada-Regular.ttf
+2;1
+Noto Serif Kannada
+-1;NotoSerifKannada-Regular;0;5;5;2;65535;1025;595;620;0;2150;1620;2150;1620;0;0;0;0;Regular
+
+File:NotoSerifLao-Regular.ttf
+2;1
+Noto Serif Lao
+-1;NotoSerifLao-Regular;0;5;5;2;65535;1174;482;656;0;1543;1656;1543;1656;0;0;0;0;Regular
+
+File:NotoSerifKannada-Light.ttf
+2;1
+Noto Serif Kannada Light
+-1;NotoSerifKannada-Light;0;3;5;2;65535;1025;595;620;0;2108;1620;2108;1620;0;0;0;0;Light
+
+File:NotoSerifHebrew-Regular.ttf
+2;1
+Noto Serif Hebrew
+-1;NotoSerifHebrew-Regular;0;5;5;2;65535;896;290;186;0;1060;1186;1060;1186;0;0;0;0;Regular
+
+File:NotoSerifHebrew-Light.ttf
+2;1
+Noto Serif Hebrew Light
+-1;NotoSerifHebrew-Light;0;3;5;2;65535;896;290;186;0;1050;1186;1050;1186;0;0;0;0;Light
+
+File:NotoSerifGurmukhi-Thin.ttf
+2;1
+Noto Serif Gurmukhi Thin
+-1;NotoSerifGurmukhi-Thin;0;1;5;2;65535;1006;428;434;0;1764;1434;1764;1434;0;0;0;0;Thin
+
+File:NotoSerifGurmukhi-Regular.ttf
+2;1
+Noto Serif Gurmukhi
+-1;NotoSerifGurmukhi-Regular;0;5;5;2;65535;1006;428;434;0;1919;1434;1919;1434;0;0;0;0;Regular
+
+File:NotoSerifGurmukhi-Medium.ttf
+2;1
+Noto Serif Gurmukhi Medium
+-1;NotoSerifGurmukhi-Medium;0;6;5;2;65535;1006;428;434;0;1959;1434;1959;1434;0;0;0;0;Medium
+
+File:NotoSerifGurmukhi-Bold.ttf
+2;1
+Noto Serif Gurmukhi
+-1;NotoSerifGurmukhi-Bold;0;8;5;2;65535;1006;428;434;0;2068;1434;2068;1434;0;0;0;0;Bold
+
+File:NotoSerifHebrew-Bold.ttf
+2;1
+Noto Serif Hebrew
+-1;NotoSerifHebrew-Bold;0;8;5;2;65535;896;290;186;0;1084;1186;1084;1186;0;0;0;0;Bold
+
+File:NotoSerifGurmukhi-Black.ttf
+2;1
+Noto Serif Gurmukhi Black
+-1;NotoSerifGurmukhi-Black;0;10;5;2;65535;1006;428;434;0;2175;1434;2175;1434;0;0;0;0;Black
+
+File:NotoSerifKannada-Black.ttf
+2;1
+Noto Serif Kannada Black
+-1;NotoSerifKannada-Black;0;10;5;2;65535;1025;595;620;0;2235;1620;2235;1620;0;0;0;0;Black
+
+File:NotoSerifGujarati-Thin.ttf
+2;1
+Noto Serif Gujarati Thin
+-1;NotoSerifGujarati-Thin;0;1;5;2;65535;997;450;447;0;1963;1447;1963;1447;0;0;0;0;Thin
+
+File:NotoSerifGujarati-Regular.ttf
+2;1
+Noto Serif Gujarati
+-1;NotoSerifGujarati-Regular;0;5;5;2;65535;997;450;447;0;1991;1447;1991;1447;0;0;0;0;Regular
+
+File:NotoSerifGujarati-Bold.ttf
+2;1
+Noto Serif Gujarati
+-1;NotoSerifGujarati-Bold;0;8;5;2;65535;997;450;447;0;2132;1447;2132;1447;0;0;0;0;Bold
+
+File:NotoSerifGujarati-Black.ttf
+2;1
+Noto Serif Gujarati Black
+-1;NotoSerifGujarati-Black;0;10;5;2;65535;997;450;447;0;2275;1447;2275;1447;0;0;0;0;Black
+
+File:NotoSerifGeorgian-Thin.ttf
+2;1
+Noto Serif Georgian Th
+-1;NotoSerifGeorgian-Thin;0;1;5;2;65535;1068;292;360;0;1119;1360;1119;1360;0;0;0;0;Thin
+
+File:NotoSerifGeorgian-Light.ttf
+2;1
+Noto Serif Georgian Lt
+-1;NotoSerifGeorgian-Light;0;3;5;2;65535;1068;292;360;0;1140;1360;1140;1360;0;0;0;0;Light
+
+File:NotoSerifGeorgian-Black.ttf
+2;1
+Noto Serif Georgian Bk
+-1;NotoSerifGeorgian-Black;0;10;5;2;65535;1068;292;360;0;1322;1360;1322;1360;0;0;0;0;Black
+
+File:NotoSerifEthiopic-Thin.ttf
+2;1
+Noto Serif Ethiopic Th
+-1;NotoSerifEthiopic-Thin;0;1;5;2;65535;1069;293;362;0;1601;1362;1601;1362;0;0;0;0;Thin
+
+File:NotoSerifEthiopic-Light.ttf
+2;1
+Noto Serif Ethiopic Lt
+-1;NotoSerifEthiopic-Light;0;3;5;2;65535;1069;293;362;0;1684;1362;1684;1362;0;0;0;0;Light
+
+File:NotoSerifKhmer-Regular.ttf
+2;1
+Noto Serif Khmer
+-1;NotoSerifKhmer-Regular;0;5;5;2;65535;1069;293;362;0;3414;1362;3414;1362;0;0;0;0;Regular
+
+File:NotoSerifDisplay-ThinItalic.ttf
+2;1
+Noto Serif Display Thin
+-1;NotoSerifDisplay-ThinItalic;2;1;5;2;65535;1069;293;362;0;3605;1362;3605;1362;0;0;0;0;Thin Italic
+
+File:NotoSerifDisplay-Thin.ttf
+2;1
+Noto Serif Display Thin
+-1;NotoSerifDisplay-Thin;0;1;5;2;65535;1069;293;362;0;3476;1362;3476;1362;0;0;0;0;Thin
+
+File:NotoSerifDisplay-Regular.ttf
+2;1
+Noto Serif Display
+-1;NotoSerifDisplay-Regular;0;5;5;2;65535;1069;293;362;0;3490;1362;3490;1362;0;0;0;0;Regular
+
+File:NotoSerifDisplay-MediumItalic.ttf
+2;1
+Noto Serif Display Medium
+-1;NotoSerifDisplay-MediumItalic;2;6;5;2;65535;1069;293;362;0;3607;1362;3607;1362;0;0;0;0;Medium Italic
+
+File:NotoSerifDisplay-LightItalic.ttf
+2;1
+Noto Serif Display Light
+-1;NotoSerifDisplay-LightItalic;2;3;5;2;65535;1069;293;362;0;3606;1362;3606;1362;0;0;0;0;Light Italic
+
+File:NotoSerifDisplay-BlackItalic.ttf
+2;1
+Noto Serif Display Black
+-1;NotoSerifDisplay-BlackItalic;2;10;5;2;65535;1069;293;362;0;3608;1362;3608;1362;0;0;0;0;Black Italic
+
+File:NotoSerifBalinese-Regular.ttf
+2;1
+Noto Serif Balinese
+-1;NotoSerifBalinese-Regular;0;5;5;2;65535;1069;726;795;0;3138;1795;3138;1795;0;0;0;0;Regular
+
+File:NotoSerifArmenian-Medium.ttf
+2;1
+Noto Serif Armenian Md
+-1;NotoSerifArmenian-Medium;0;6;5;2;65535;1068;292;360;0;1469;1360;1469;1360;0;0;0;0;Medium
+
+File:NotoSerifArmenian-Black.ttf
+2;1
+Noto Serif Armenian Bk
+-1;NotoSerifArmenian-Black;0;10;5;2;65535;1068;292;360;0;1573;1360;1573;1360;0;0;0;0;Black
+
+File:NotoSerif-Regular.ttf
+2;1
+Noto Serif
+-1;NotoSerif-Regular;0;5;5;2;65535;1069;293;362;0;3490;1362;3490;1362;0;0;0;0;Regular
+
+File:NotoSerif-MediumItalic.ttf
+2;1
+Noto Serif Medium
+-1;NotoSerif-MediumItalic;2;6;5;2;65535;1069;293;362;0;3517;1362;3517;1362;0;0;0;0;Medium Italic
+
+File:NotoSerif-Medium.ttf
+2;1
+Noto Serif Medium
+-1;NotoSerif-Medium;0;6;5;2;65535;1069;293;362;0;3496;1362;3496;1362;0;0;0;0;Medium
+
+File:NotoSerifAhom-Regular.ttf
+2;1
+Noto Serif Ahom
+-1;NotoSerifAhom-Regular;0;5;5;2;65535;980;675;655;0;2481;1655;2481;1655;0;0;0;0;Regular
+
+File:NotoSerif-LightItalic.ttf
+2;1
+Noto Serif Light
+-1;NotoSerif-LightItalic;2;3;5;2;65535;1069;293;362;0;3547;1362;3547;1362;0;0;0;0;Light Italic
+
+File:NotoSerif-Italic.ttf
+2;1
+Noto Serif
+-1;NotoSerif-Italic;2;5;5;2;65535;1069;293;362;0;3528;1362;3528;1362;0;0;0;0;Italic
+
+File:NotoSerif-Bold.ttf
+2;1
+Noto Serif
+-1;NotoSerif-Bold;0;8;5;2;65535;1069;293;362;0;3521;1362;3521;1362;0;0;0;0;Bold
+
+File:NotoSerif-BlackItalic.ttf
+2;1
+Noto Serif Black
+-1;NotoSerif-BlackItalic;2;10;5;2;65535;1069;293;362;0;3534;1362;3534;1362;0;0;0;0;Black Italic
+
+File:NotoSansYi-Regular.ttf
+2;1
+Noto Sans Yi
+-1;NotoSansYi-Regular;0;5;5;2;65535;1069;293;362;0;746;1362;746;1362;0;0;0;0;Regular
+
+File:NotoSerifGurmukhi-Light.ttf
+2;1
+Noto Serif Gurmukhi Light
+-1;NotoSerifGurmukhi-Light;0;3;5;2;65535;1006;428;434;0;1848;1434;1848;1434;0;0;0;0;Light
+
+File:NotoSansWarangCiti-Regular.ttf
+2;1
+Noto Sans WarangCiti
+-1;NotoSansWarangCiti-Regular;0;5;5;2;65535;1042;103;145;0;1237;1145;1237;1145;0;0;0;0;Regular
+
+File:NotoSansTirhuta-Regular.ttf
+2;1
+Noto Sans Tirhuta
+-1;NotoSansTirhuta-Regular;0;5;5;2;65535;1026;519;545;0;1766;1545;1766;1545;0;0;0;0;Regular
+
+File:NotoSansThaiUI-Medium.ttf
+2;1
+Noto Sans Thai UI Med
+-1;NotoSansThaiUI-Medium;0;6;5;2;65535;1069;293;362;0;1579;1362;1579;1362;0;0;0;0;Medium
+
+File:NotoSansThaiUI-Bold.ttf
+2;1
+Noto Sans Thai UI
+-1;NotoSansThaiUI-Bold;0;8;5;2;65535;1069;293;362;0;1642;1362;1642;1362;0;0;0;0;Bold
+
+File:NotoSansThaiUI-Black.ttf
+2;1
+Noto Sans Thai UI Blk
+-1;NotoSansThaiUI-Black;0;10;5;2;65535;1069;293;362;0;1691;1362;1691;1362;0;0;0;0;Black
+
+File:NotoSansThai-Regular.ttf
+2;1
+Noto Sans Thai
+-1;NotoSansThai-Regular;0;5;5;2;65535;1061;450;511;0;1553;1511;1553;1511;0;0;0;0;Regular
+
+File:NotoSansVai-Regular.ttf
+2;1
+Noto Sans Vai
+-1;NotoSansVai-Regular;0;5;5;2;65535;1069;293;362;0;1288;1362;1288;1362;0;0;0;0;Regular
+
+File:NotoSansThai-Black.ttf
+2;1
+Noto Sans Thai Blk
+-1;NotoSansThai-Black;0;10;5;2;65535;1061;450;511;0;1707;1511;1707;1511;0;0;0;0;Black
+
+File:NotoSansThaana-Medium.ttf
+2;1
+Noto Sans Thaana Medium
+-1;NotoSansThaana-Medium;0;6;5;2;65535;1069;424;493;0;2104;1493;2104;1493;0;0;0;0;Medium
+
+File:NotoSansThaana-Light.ttf
+2;1
+Noto Sans Thaana Light
+-1;NotoSansThaana-Light;0;3;5;2;65535;1069;424;493;0;2104;1493;2104;1493;0;0;0;0;Light
+
+File:NotoSansThaiUI-Light.ttf
+2;1
+Noto Sans Thai UI Light
+-1;NotoSansThaiUI-Light;0;3;5;2;65535;1069;293;362;0;1517;1362;1517;1362;0;0;0;0;Light
+
+File:NotoSansTeluguUI-Bold.ttf
+2;1
+Noto Sans Telugu UI
+-1;NotoSansTeluguUI-Bold;0;8;5;2;65535;1068;292;360;0;3173;1360;3173;1360;0;0;0;0;Bold
+
+File:NotoSansTelugu-Regular.ttf
+2;1
+Noto Sans Telugu
+-1;NotoSansTelugu;0;5;5;2;65535;869;482;351;0;3034;1351;3034;1351;0;0;0;0;Regular
+
+File:NotoSansTamilUI-Regular.ttf
+2;1
+Noto Sans Tamil UI
+-1;NotoSansTamilUI-Regular;0;5;5;2;65535;1069;293;362;0;2679;1362;2679;1362;0;0;0;0;Regular
+
+File:NotoSerifTibetan-Black.ttf
+2;1
+Noto Serif Tibetan Black
+-1;NotoSerifTibetan-Black;0;10;5;2;65535;1299;1349;1648;0;2554;2648;2554;2648;0;0;0;0;Black
+
+File:NotoSerifDisplay-Black.ttf
+2;1
+Noto Serif Display Black
+-1;NotoSerifDisplay-Black;0;10;5;2;65535;1069;293;362;0;3524;1362;3524;1362;0;0;0;0;Black
+
+File:NotoSansTamilUI-Medium.ttf
+2;1
+Noto Sans Tamil Med
+-1;NotoSansTamilUI-Medium;0;6;5;2;65535;1069;293;362;0;2761;1362;2761;1362;0;0;0;0;Medium
+
+File:NotoSansTamilUI-Black.ttf
+2;1
+Noto Sans Tamil Blk
+-1;NotoSansTamilUI-Black;0;10;5;2;65535;1069;293;362;0;3111;1362;3111;1362;0;0;0;0;Black
+
+File:NotoSerifDisplay-Italic.ttf
+2;1
+Noto Serif Display
+-1;NotoSerifDisplay-Italic;2;5;5;2;65535;1069;293;362;0;3607;1362;3607;1362;0;0;0;0;Italic
+
+File:NotoSerifDisplay-BoldItalic.ttf
+2;1
+Noto Serif Display
+-1;NotoSerifDisplay-BoldItalic;2;8;5;2;65535;1069;293;362;0;3609;1362;3609;1362;0;0;0;0;Bold Italic
+
+File:NotoSansTamil-Thin.ttf
+2;1
+Noto Sans Tamil Thin
+-1;NotoSansTamil-Thin;0;1;5;2;65535;870;370;240;0;2511;1240;2511;1240;0;0;0;0;Thin
+
+File:NotoSansTamil-Regular.ttf
+2;1
+Noto Sans Tamil
+-1;NotoSansTamil-Regular;0;5;5;2;65535;870;370;240;0;2679;1240;2679;1240;0;0;0;0;Regular
+
+File:NotoSansTamil-Light.ttf
+2;1
+Noto Sans Tamil Light
+-1;NotoSansTamil-Light;0;3;5;2;65535;870;370;240;0;2594;1240;2594;1240;0;0;0;0;Light
+
+File:NotoSansTamil-Black.ttf
+2;1
+Noto Sans Tamil Blk
+-1;NotoSansTamil-Black;0;10;5;2;65535;870;370;240;0;3111;1240;3111;1240;0;0;0;0;Black
+
+File:NotoSerifEthiopic-Regular.ttf
+2;1
+Noto Serif Ethiopic
+-1;NotoSerifEthiopic-Regular;0;5;5;2;65535;1069;293;362;0;1754;1362;1754;1362;0;0;0;0;Regular
+
+File:NotoSansTaiLe-Regular.ttf
+2;1
+Noto Sans Tai Le
+-1;NotoSansTaiLe-Regular;0;5;5;2;65535;1069;293;362;0;1408;1362;1408;1362;0;0;0;0;Regular
+
+File:NotoSerifTamilSlanted-Light.ttf
+2;1
+NotoSerifTamilSlanted Light
+-1;NotoSerifTamilSlanted-Light;0;3;5;2;65535;1069;492;561;0;3136;1561;3136;1561;0;0;0;0;Light
+
+File:NotoSerifMyanmar-Black.ttf
+2;1
+Noto Serif Myanmar Blk
+-1;NotoSerifMyanmar-Black;0;10;5;2;65535;1239;1260;1499;0;3119;2499;3119;2499;0;0;0;0;Black
+
+File:NotoSansTagbanwa-Regular.ttf
+2;1
+Noto Sans Tagbanwa
+-1;NotoSansTagbanwa-Regular;0;5;5;2;65535;1069;293;362;0;1230;1362;1230;1362;0;0;0;0;Regular
+
+File:NotoSansSyriac-Thin.ttf
+2;1
+Noto Sans Syriac Thin
+-1;NotoSansSyriac-Thin;0;1;5;2;65535;926;486;412;0;1655;1412;1655;1412;0;0;0;0;Thin
+
+File:NotoSerifBengali-Bold.ttf
+2;1
+Noto Serif Bengali
+-1;NotoSerifBengali-Bold;0;8;5;2;65535;1019;394;413;0;1881;1413;1881;1413;0;0;0;0;Bold
+
+File:NotoSansSyriac-Black.ttf
+2;1
+Noto Sans Syriac Black
+-1;NotoSansSyriac-Black;0;10;5;2;65535;926;486;412;0;2011;1412;2011;1412;0;0;0;0;Black
+
+File:NotoSansSymbols2-Regular.ttf
+2;1
+Noto Sans Symbols2
+-1;NotoSansSymbols2-Regular;0;5;1;2;65535;1069;630;699;0;2661;1699;2661;1699;0;0;0;0;Regular
+
+File:NotoSansSymbols-Regular.ttf
+2;1
+Noto Sans Symbols
+-1;NotoSansSymbols-Regular;0;5;5;2;65535;1480;570;1050;0;3044;2050;3044;2050;0;0;0;0;Regular
+
+File:NotoSansSymbols-Medium.ttf
+2;1
+Noto Sans Symbols Med
+-1;NotoSansSymbols-Medium;0;6;5;2;65535;1480;570;1050;0;3044;2050;3044;2050;0;0;0;0;Medium
+
+File:NotoSansSymbols-Light.ttf
+2;1
+Noto Sans Symbols Light
+-1;NotoSansSymbols-Light;0;3;5;2;65535;1480;570;1050;0;3044;2050;3044;2050;0;0;0;0;Light
+
+File:NotoSerifArmenian-Light.ttf
+2;1
+Noto Serif Armenian Lt
+-1;NotoSerifArmenian-Light;0;3;5;2;65535;1068;292;360;0;1380;1360;1380;1360;0;0;0;0;Light
+
+File:NotoSansSymbols-Bold.ttf
+2;1
+Noto Sans Symbols
+-1;NotoSansSymbols-Bold;0;8;5;2;65535;1480;570;1050;0;3044;2050;3044;2050;0;0;0;0;Bold
+
+File:NotoSansSymbols-Black.ttf
+2;1
+Noto Sans Symbols Blk
+-1;NotoSansSymbols-Black;0;10;5;2;65535;1480;570;1050;0;3046;2050;3046;2050;0;0;0;0;Black
+
+File:NotoSansThai-Bold.ttf
+2;1
+Noto Sans Thai
+-1;NotoSansThai-Bold;0;8;5;2;65535;1061;450;511;0;1642;1511;1642;1511;0;0;0;0;Bold
+
+File:NotoSansSinhalaUI-Thin.ttf
+2;1
+Noto Sans Sinhala Thin
+-1;NotoSansSinhalaUI-Thin;0;1;5;2;65535;1069;293;362;0;2854;1362;2854;1362;0;0;0;0;Thin
+
+File:NotoSansSinhalaUI-Medium.ttf
+2;1
+Noto Sans Sinhala Med
+-1;NotoSansSinhalaUI-Medium;0;6;5;2;65535;1069;293;362;0;2917;1362;2917;1362;0;0;0;0;Medium
+
+File:NotoSansSinhalaUI-Bold.ttf
+2;1
+Noto Sans Sinhala UI
+-1;NotoSansSinhalaUI-Bold;0;8;5;2;65535;1069;293;362;0;2959;1362;2959;1362;0;0;0;0;Bold
+
+File:NotoSansSinhala-Thin.ttf
+2;1
+Noto Sans Sinhala Thin
+-1;NotoSansSinhala-Thin;0;1;5;2;65535;1069;293;362;0;2854;1362;2854;1362;0;0;0;0;Thin
+
+File:NotoSansSinhala-Regular.ttf
+2;1
+Noto Sans Sinhala
+-1;NotoSansSinhala-Regular;0;5;5;2;65535;1069;293;362;0;2899;1362;2899;1362;0;0;0;0;Regular
+
+File:NotoSansSinhala-Medium.ttf
+2;1
+Noto Sans Sinhala Med
+-1;NotoSansSinhala-Medium;0;6;5;2;65535;1069;293;362;0;2917;1362;2917;1362;0;0;0;0;Medium
+
+File:NotoSansSinhala-Black.ttf
+2;1
+Noto Sans Sinhala Blk
+-1;NotoSansSinhala-Black;0;10;5;2;65535;1069;293;362;0;3023;1362;3023;1362;0;0;0;0;Black
+
+File:NotoSansShavian-Regular.ttf
+2;1
+Noto Sans Shavian
+-1;NotoSansShavian-Regular;0;5;5;2;65535;1069;293;362;0;682;1362;682;1362;0;0;0;0;Regular
+
+File:NotoSerifHebrew-Medium.ttf
+2;1
+Noto Serif Hebrew Med
+-1;NotoSerifHebrew-Medium;0;6;5;2;65535;896;290;186;0;1067;1186;1067;1186;0;0;0;0;Medium
+
+File:NotoSansSharada-Regular.ttf
+2;1
+Noto Sans Sharada
+-1;NotoSansSharada-Regular;0;5;5;2;65535;925;455;380;0;1676;1380;1676;1380;0;0;0;0;Regular
+
+File:NotoSerifLao-Bold.ttf
+2;1
+Noto Serif Lao
+-1;NotoSerifLao-Bold;0;8;5;2;65535;1174;482;656;0;1739;1656;1739;1656;0;0;0;0;Bold
+
+File:NotoSansRunic-Regular.ttf
+2;1
+Noto Sans Runic
+-1;NotoSansRunic-Regular;0;5;5;2;65535;1069;293;362;0;754;1362;754;1362;0;0;0;0;Regular
+
+File:NotoSansRejang-Regular.ttf
+2;1
+Noto Sans Rejang
+-1;NotoSansRejang-Regular;0;5;5;2;65535;1069;293;362;0;1014;1362;1014;1362;0;0;0;0;Regular
+
+File:NotoSansSylotiNagri-Regular.ttf
+2;1
+Noto Sans Syloti Nagri
+-1;NotoSansSylotiNagri-Regular;0;5;5;2;65535;1069;293;362;0;1777;1362;1777;1362;0;0;0;0;Regular
+
+File:NotoSansPsalterPahlavi-Regular.ttf
+2;1
+Noto Sans PsaPahlavi
+-1;NotoSansPsalterPahlavi-Regular;0;5;5;2;65535;737;554;291;0;1393;1291;1393;1291;0;0;0;0;Regular
+
+File:NotoSerifTibetan-Regular.ttf
+2;1
+Noto Serif Tibetan
+-1;NotoSerifTibetan-Regular;0;5;5;2;65535;1299;1349;1648;0;2392;2648;2392;2648;0;0;0;0;Regular
+
+File:NotoSansPhoenician-Regular.ttf
+2;1
+Noto Sans Phoenician
+-1;NotoSansPhoenician-Regular;0;5;5;2;65535;1069;293;362;0;756;1362;756;1362;0;0;0;0;Regular
+
+File:NotoSerifSinhala-Regular.ttf
+2;1
+Noto Serif Sinhala
+-1;NotoSerifSinhala-Regular;0;5;5;2;65535;997;307;304;0;2823;1304;2823;1304;0;0;0;0;Regular
+
+File:NotoSansPhagsPa-Regular.ttf
+2;1
+Noto Sans PhagsPa
+-1;NotoSansPhagsPa-Regular;0;5;5;2;65535;1069;293;362;0;1441;1362;1441;1362;0;0;0;0;Regular
+
+File:NotoSansPauCinHau-Regular.ttf
+2;1
+Noto Sans PauCinHau
+-1;NotoSansPauCinHau-Regular;0;5;5;2;65535;1069;293;362;0;852;1362;852;1362;0;0;0;0;Regular
+
+File:NotoSansPalmyrene-Regular.ttf
+2;1
+Noto Sans Palmyrene
+-1;NotoSansPalmyrene-Regular;0;5;5;2;65535;1069;293;362;0;1298;1362;1298;1362;0;0;0;0;Regular
+
+File:NotoSerifKannada-Bold.ttf
+2;1
+Noto Serif Kannada
+-1;NotoSerifKannada-Bold;0;8;5;2;65535;1025;595;620;0;2205;1620;2205;1620;0;0;0;0;Bold
+
+File:NotoSansPahawhHmong-Regular.ttf
+2;1
+Noto Sans Pahawh Hmong
+-1;NotoSansPahawhHmong-Regular;0;5;5;2;65535;1069;293;362;0;1064;1362;1064;1362;0;0;0;0;Regular
+
+File:NotoSansOriya-Regular.ttf
+2;1
+Noto Sans Oriya
+-1;NotoSansOriya;0;5;5;2;65535;916;483;399;0;1678;1399;1678;1399;0;0;0;0;Regular
+
+File:NotoSansThaana-Bold.ttf
+2;1
+Noto Sans Thaana
+-1;NotoSansThaana-Bold;0;8;5;2;65535;1069;424;493;0;2104;1493;2104;1493;0;0;0;0;Bold
+
+File:NotoSansOriya-Bold.ttf
+2;1
+Noto Sans Oriya
+-1;NotoSansOriya-Bold;0;8;5;2;65535;916;483;399;0;1847;1399;1847;1399;0;0;0;0;Bold
+
+File:NotoSansOldTurkic-Regular.ttf
+2;1
+Noto Sans Old Turkic
+-1;NotoSansOldTurkic-Regular;0;5;5;2;65535;1069;293;362;0;871;1362;871;1362;0;0;0;0;Regular
+
+File:NotoSansOldSouthArabian-Regular.ttf
+2;1
+Noto Sans OldSouArab
+-1;NotoSansOldSouthArabian-Regular;0;5;5;2;65535;1069;293;362;0;532;1362;532;1362;0;0;0;0;Regular
+
+File:NotoSerifTamilSlanted-Bold.ttf
+2;1
+NotoSerifTamilSlanted
+-1;NotoSerifTamilSlanted-Bold;0;8;5;2;65535;1069;492;561;0;3354;1561;3354;1561;0;0;0;0;Bold
+
+File:NotoSansOldPersian-Regular.ttf
+2;1
+Noto Sans OldPersian
+-1;NotoSansOldPersian-Regular;0;5;5;2;65535;1069;293;362;0;1521;1362;1521;1362;0;0;0;0;Regular
+
+File:NotoSansNewa-Regular.ttf
+2;1
+Noto Sans Newa
+-1;NotoSansNewa-Regular;0;5;5;2;65535;1036;396;432;0;2222;1432;2222;1432;0;0;0;0;Regular
+
+File:NotoSansNewTaiLue-Regular.ttf
+2;1
+Noto Sans NewTaiLue
+-1;NotoSansNewTaiLue-Regular;0;5;5;2;65535;1069;293;362;0;1358;1362;1358;1362;0;0;0;0;Regular
+
+File:NotoSansMyanmarUI-Regular.ttf
+2;1
+Noto Sans Myanmar UI
+-1;NotoSansMyanmarUI-Regular;0;5;5;2;65535;1069;293;362;0;3246;1362;3246;1362;0;0;0;0;Regular
+
+File:NotoSansSoraSompeng-Regular.ttf
+2;1
+Noto Sans SoraSomp
+-1;NotoSansSoraSompeng-Regular;0;5;5;2;65535;1069;293;362;0;578;1362;578;1362;0;0;0;0;Regular
+
+File:NotoSansMyanmarUI-Bold.ttf
+2;1
+Noto Sans Myanmar UI
+-1;NotoSansMyanmarUI-Bold;0;8;5;2;65535;1069;293;362;0;3324;1362;3324;1362;0;0;0;0;Bold
+
+File:NotoSansMyanmar-Regular.ttf
+2;1
+Noto Sans Myanmar
+-1;NotoSansMyanmar-Regular;0;5;5;2;65535;1324;860;1184;0;3246;2184;3246;2184;0;0;0;0;Regular
+
+File:NotoSansThaiUI-Thin.ttf
+2;1
+Noto Sans Thai UI Thin
+-1;NotoSansThaiUI-Thin;0;1;5;2;65535;1069;293;362;0;1484;1362;1484;1362;0;0;0;0;Thin
+
+File:NotoSansMyanmar-Medium.ttf
+2;1
+Noto Sans Myanmar Med
+-1;NotoSansMyanmar-Medium;0;6;5;2;65535;1324;860;1184;0;3266;2184;3266;2184;0;0;0;0;Medium
+
+File:NotoSansMono-Thin.ttf
+2;1
+Noto Sans Mono Thin
+-1;NotoSansMono-Thin;0;1;5;1;65535;1069;293;362;0;2416;1362;2416;1362;0;0;0;0;Thin
+
+File:NotoSerifHebrew-Thin.ttf
+2;1
+Noto Serif Hebrew Thin
+-1;NotoSerifHebrew-Thin;0;1;5;2;65535;896;290;186;0;1039;1186;1039;1186;0;0;0;0;Thin
+
+File:NotoSansMono-Medium.ttf
+2;1
+Noto Sans Mono Medium
+-1;NotoSansMono-Medium;0;6;5;1;65535;1069;293;362;0;2416;1362;2416;1362;0;0;0;0;Medium
+
+File:NotoSansMono-Light.ttf
+2;1
+Noto Sans Mono Light
+-1;NotoSansMono-Light;0;3;5;1;65535;1069;293;362;0;2416;1362;2416;1362;0;0;0;0;Light
+
+File:NotoSansMendeKikakui-Regular.ttf
+2;1
+Noto Sans Mende Kikakui
+-1;NotoSansMendeKikakui-Regular;0;5;5;2;65535;1030;237;267;0;1288;1267;1288;1267;0;0;0;0;Regular
+
+File:NotoSansMeeteiMayek-Regular.ttf
+2;1
+Noto Sans MeeteiMayek
+-1;NotoSansMeeteiMayek-Regular;0;5;5;2;65535;1069;321;390;0;2294;1390;2294;1390;0;0;0;0;Regular
+
+File:NotoSansMandaic-Regular.ttf
+2;1
+Noto Sans Mandaic
+-1;NotoSansMandaic-Regular;0;5;5;2;65535;724;423;147;0;1205;1147;1205;1147;0;0;0;0;Regular
+
+File:NotoSansMalayalamUI-Thin.ttf
+2;1
+Noto Sans Malayalam UI Thin
+-1;NotoSansMalayalamUI-Thin;0;1;5;2;65535;1069;293;362;0;2906;1362;2906;1362;0;0;0;0;Thin
+
+File:NotoSansThai-Medium.ttf
+2;1
+Noto Sans Thai Med
+-1;NotoSansThai-Medium;0;6;5;2;65535;1061;450;511;0;1579;1511;1579;1511;0;0;0;0;Medium
+
+File:NotoSansOsmanya-Regular.ttf
+2;1
+Noto Sans Osmanya
+-1;NotoSansOsmanya-Regular;0;5;5;2;65535;1069;293;362;0;969;1362;969;1362;0;0;0;0;Regular
+
+File:NotoSansMalayalam-Regular.ttf
+2;1
+Noto Sans Malayalam
+-1;NotoSansMalayalam-Regular;0;5;5;2;65535;864;383;247;0;3141;1247;3141;1247;0;0;0;0;Regular
+
+File:NotoSansSinhala-Light.ttf
+2;1
+Noto Sans Sinhala Light
+-1;NotoSansSinhala-Light;0;3;5;2;65535;1069;293;362;0;2876;1362;2876;1362;0;0;0;0;Light
+
+File:NotoSansMalayalam-Medium.ttf
+2;1
+Noto Sans Malayalam Medium
+-1;NotoSansMalayalam-Medium;0;6;5;2;65535;864;383;247;0;3248;1247;3248;1247;0;0;0;0;Medium
+
+File:NotoSansMalayalam-Bold.ttf
+2;1
+Noto Sans Malayalam
+-1;NotoSansMalayalam-Bold;0;8;5;2;65535;864;383;247;0;3503;1247;3503;1247;0;0;0;0;Bold
+
+File:NotoSansNabataean-Regular.ttf
+2;1
+Noto Sans Nabataean
+-1;NotoSansNabataean-Regular;0;5;5;2;65535;1069;293;362;0;884;1362;884;1362;0;0;0;0;Regular
+
+File:NotoSansSaurashtra-Regular.ttf
+2;1
+Noto Sans Saurashtra
+-1;NotoSansSaurashtra-Regular;0;5;5;2;65535;1069;293;362;0;1772;1362;1772;1362;0;0;0;0;Regular
+
+File:NotoSansMalayalam-Black.ttf
+2;1
+Noto Sans Malayalam Black
+-1;NotoSansMalayalam-Black;0;10;5;2;65535;864;383;247;0;3677;1247;3677;1247;0;0;0;0;Black
+
+File:NotoSansSinhalaUI-Regular.ttf
+2;1
+Noto Sans Sinhala UI
+-1;NotoSansSinhalaUI-Regular;0;5;5;2;65535;1069;293;362;0;2899;1362;2899;1362;0;0;0;0;Regular
+
+File:NotoSansMahajani-Regular.ttf
+2;1
+Noto Sans Mahajani
+-1;NotoSansMahajani-Regular;0;5;5;2;65535;757;243;150;0;1202;1000;1202;1000;0;0;0;0;Regular
+
+File:NotoSerifMyanmar-Thin.ttf
+2;1
+Noto Serif Myanmar Thin
+-1;NotoSerifMyanmar-Thin;0;1;5;2;65535;1239;1260;1499;0;3105;2499;3105;2499;0;0;0;0;Thin
+
+File:NotoSansLydian-Regular.ttf
+2;1
+Noto Sans Lydian
+-1;NotoSansLydian-Regular;0;5;5;2;65535;1069;293;362;0;909;1362;909;1362;0;0;0;0;Regular
+
+File:NotoSansLinearA-Regular.ttf
+2;1
+Noto Sans Linear A
+-1;NotoSansLinearA-Regular;0;5;5;2;65535;1069;293;362;0;1323;1362;1323;1362;0;0;0;0;Regular
+
+File:NotoSerifTamilSlanted-Thin.ttf
+2;1
+NotoSerifTamilSlanted Thin
+-1;NotoSerifTamilSlanted-Thin;0;1;5;2;65535;1069;492;561;0;3026;1561;3026;1561;0;0;0;0;Thin
+
+File:NotoSansLepcha-Regular.ttf
+2;1
+Noto Sans Lepcha
+-1;NotoSansLepcha-Regular;0;5;5;2;65535;1069;450;519;0;1639;1519;1639;1519;0;0;0;0;Regular
+
+File:NotoSerifSinhala-Light.ttf
+2;1
+Noto Serif Sinhala Light
+-1;NotoSerifSinhala-Light;0;3;5;2;65535;997;307;304;0;2811;1304;2811;1304;0;0;0;0;Light
+
+File:NotoSerifGeorgian-Regular.ttf
+2;1
+Noto Serif Georgian
+-1;NotoSerifGeorgian-Regular;0;5;5;2;65535;1068;292;360;0;1165;1360;1165;1360;0;0;0;0;Regular
+
+File:NotoSansLaoUI-Regular.ttf
+2;1
+Noto Sans Lao UI
+-1;NotoSansLaoUI-Regular;0;5;5;2;65535;1069;293;362;0;1514;1362;1514;1362;0;0;0;0;Regular
+
+File:NotoSansLaoUI-Medium.ttf
+2;1
+Noto Sans Lao UI Med
+-1;NotoSansLaoUI-Medium;0;6;5;2;65535;1069;293;362;0;1536;1362;1536;1362;0;0;0;0;Medium
+
+File:NotoSerifLao-Light.ttf
+2;1
+Noto Serif Lao Light
+-1;NotoSerifLao-Light;0;3;5;2;65535;1174;482;656;0;1461;1656;1461;1656;0;0;0;0;Light
+
+File:NotoSansLaoUI-Bold.ttf
+2;1
+Noto Sans Lao UI
+-1;NotoSansLaoUI-Bold;0;8;5;2;65535;1069;293;362;0;1586;1362;1586;1362;0;0;0;0;Bold
+
+File:NotoSansLao-Regular.ttf
+2;1
+Noto Sans Lao
+-1;NotoSansLao-Regular;0;5;5;2;65535;1183;462;645;0;1520;1645;1520;1645;0;0;0;0;Regular
+
+File:NotoSansLao-Bold.ttf
+2;1
+Noto Sans Lao
+-1;NotoSansLao-Bold;0;8;5;2;65535;1183;462;645;0;1591;1645;1591;1645;0;0;0;0;Bold
+
+File:NotoSansThai-Light.ttf
+2;1
+Noto Sans Thai Light
+-1;NotoSansThai-Light;0;3;5;2;65535;1061;450;511;0;1517;1511;1517;1511;0;0;0;0;Light
+
+File:NotoSansLao-Black.ttf
+2;1
+Noto Sans Lao Blk
+-1;NotoSansLao-Black;0;10;5;2;65535;1183;462;645;0;1637;1645;1637;1645;0;0;0;0;Black
+
+File:NotoSansMalayalamUI-Regular.ttf
+2;1
+Noto Sans Malayalam UI
+-1;NotoSansMalayalamUI-Regular;0;5;5;2;65535;1069;293;362;0;3141;1362;3141;1362;0;0;0;0;Regular
+
+File:NotoSansMyanmarUI-Thin.ttf
+2;1
+Noto Sans Myanmar UI Thin
+-1;NotoSansMyanmarUI-Thin;0;1;5;2;65535;1069;293;362;0;3139;1362;3139;1362;0;0;0;0;Thin
+
+File:NotoSansKhudawadi-Regular.ttf
+2;1
+Noto Sans Khudawadi
+-1;NotoSansKhudawadi-Regular;0;5;5;2;65535;944;373;317;0;1656;1317;1656;1317;0;0;0;0;Regular
+
+File:NotoSansMeroitic-Regular.ttf
+2;1
+Noto Sans Meroitic
+-1;NotoSansMeroitic-Regular;0;5;5;2;65535;928;415;343;0;1799;1343;1799;1343;0;0;0;0;Regular
+
+File:NotoSansKhojki-Regular.ttf
+2;1
+Noto Sans Khojki
+-1;NotoSansKhojki-Regular;0;5;5;2;65535;1409;447;856;0;2013;1856;2013;1856;0;0;0;0;Regular
+
+File:NotoSansMono-Bold.ttf
+2;1
+Noto Sans Mono
+-1;NotoSansMono-Bold;0;8;5;1;65535;1069;293;362;0;2416;1362;2416;1362;0;0;0;0;Bold
+
+File:NotoSansMultani-Regular.ttf
+2;1
+Noto Sans Multani
+-1;NotoSansMultani-Regular;0;5;5;2;65535;1069;293;362;0;968;1362;968;1362;0;0;0;0;Regular
+
+File:NotoSansKhmerUI-Regular.ttf
+2;1
+Noto Sans Khmer UI
+-1;NotoSansKhmerUI-Regular;0;5;5;2;65535;1069;293;362;0;2821;1362;2821;1362;0;0;0;0;Regular
+
+File:NotoSansMongolian-Regular.ttf
+2;1
+Noto Sans Mongolian
+-1;NotoSansMongolian;0;5;5;2;65535;1068;292;360;0;1542;1360;1542;1360;0;0;0;0;Regular
+
+File:NotoSansMalayalam-Light.ttf
+2;1
+Noto Sans Malayalam Light
+-1;NotoSansMalayalam-Light;0;3;5;2;65535;864;383;247;0;3023;1247;3023;1247;0;0;0;0;Light
+
+File:NotoSansKhmerUI-Medium.ttf
+2;1
+Noto Sans Khmer UI Medium
+-1;NotoSansKhmerUI-Medium;0;6;5;2;65535;1069;293;362;0;2886;1362;2886;1362;0;0;0;0;Medium
+
+File:NotoSansTaiViet-Regular.ttf
+2;1
+Noto Sans Tai Viet
+-1;NotoSansTaiViet-Regular;0;5;5;2;65535;1069;293;362;0;2256;1362;2256;1362;0;0;0;0;Regular
+
+File:NotoSansMalayalam-Thin.ttf
+2;1
+Noto Sans Malayalam Thin
+-1;NotoSansMalayalam-Thin;0;1;5;2;65535;864;383;247;0;2906;1247;2906;1247;0;0;0;0;Thin
+
+File:NotoSansKhmerUI-Bold.ttf
+2;1
+Noto Sans Khmer UI
+-1;NotoSansKhmerUI-Bold;0;8;5;2;65535;1069;293;362;0;3040;1362;3040;1362;0;0;0;0;Bold
+
+File:NotoSansLaoUI-Thin.ttf
+2;1
+Noto Sans Lao UI Thin
+-1;NotoSansLaoUI-Thin;0;1;5;2;65535;1069;293;362;0;1351;1362;1351;1362;0;0;0;0;Thin
+
+File:NotoSansKhmerUI-Black.ttf
+2;1
+Noto Sans Khmer UI Black
+-1;NotoSansKhmerUI-Black;0;10;5;2;65535;1069;293;362;0;3180;1362;3180;1362;0;0;0;0;Black
+
+File:NotoSansSinhalaUI-Light.ttf
+2;1
+Noto Sans Sinhala Light
+-1;NotoSansSinhalaUI-Light;0;3;5;2;65535;1069;293;362;0;2876;1362;2876;1362;0;0;0;0;Light
+
+File:NotoSansKhmer-Thin.ttf
+2;1
+Noto Sans Khmer Thin
+-1;NotoSansKhmer-Thin;0;1;5;2;65535;1069;293;362;0;2699;1362;2699;1362;0;0;0;0;Thin
+
+File:NotoSerifDisplay-Medium.ttf
+2;1
+Noto Serif Display Medium
+-1;NotoSerifDisplay-Medium;0;6;5;2;65535;1069;293;362;0;3496;1362;3496;1362;0;0;0;0;Medium
+
+File:NotoSansKhmer-Regular.ttf
+2;1
+Noto Sans Khmer
+-1;NotoSansKhmer-Regular;0;5;5;2;65535;1069;293;362;0;2821;1362;2821;1362;0;0;0;0;Regular
+
+File:NotoSerifGujarati-Medium.ttf
+2;1
+Noto Serif Gujarati Medium
+-1;NotoSerifGujarati-Medium;0;6;5;2;65535;997;450;447;0;2022;1447;2022;1447;0;0;0;0;Medium
+
+File:NotoSerifEthiopic-Medium.ttf
+2;1
+Noto Serif Ethiopic Md
+-1;NotoSerifEthiopic-Medium;0;6;5;2;65535;1069;293;362;0;1842;1362;1842;1362;0;0;0;0;Medium
+
+File:NotoSansThaiUI-Regular.ttf
+2;1
+Noto Sans Thai UI
+-1;NotoSansThaiUI-Regular;0;5;5;2;65535;1069;293;362;0;1553;1362;1553;1362;0;0;0;0;Regular
+
+File:NotoSansKhmer-Light.ttf
+2;1
+Noto Sans Khmer Light
+-1;NotoSansKhmer-Light;0;3;5;2;65535;1069;293;362;0;2760;1362;2760;1362;0;0;0;0;Light
+
+File:NotoSerifSinhala-Black.ttf
+2;1
+Noto Serif Sinhala Black
+-1;NotoSerifSinhala-Black;0;10;5;2;65535;997;307;304;0;2873;1304;2873;1304;0;0;0;0;Black
+
+File:NotoSansKhmer-Bold.ttf
+2;1
+Noto Sans Khmer
+-1;NotoSansKhmer-Bold;0;8;5;2;65535;1069;293;362;0;3040;1362;3040;1362;0;0;0;0;Bold
+
+File:NotoSansKannadaUI-Thin.ttf
+2;1
+Noto Sans Kannada UI Thin
+-1;NotoSansKannadaUI-Thin;0;1;5;2;65535;1069;293;362;0;2143;1362;2143;1362;0;0;0;0;Thin
+
+File:NotoSansMyanmar-Thin.ttf
+2;1
+Noto Sans Myanmar Thin
+-1;NotoSansMyanmar-Thin;0;1;5;2;65535;1324;860;1184;0;3149;2184;3149;2184;0;0;0;0;Thin
+
+File:NotoSansKannadaUI-Medium.ttf
+2;1
+Noto Sans Kannada UI Medium
+-1;NotoSansKannadaUI-Medium;0;6;5;2;65535;1069;293;362;0;2355;1362;2355;1362;0;0;0;0;Medium
+
+File:NotoSansKannadaUI-Light.ttf
+2;1
+Noto Sans Kannada UI Light
+-1;NotoSansKannadaUI-Light;0;3;5;2;65535;1069;293;362;0;2222;1362;2222;1362;0;0;0;0;Light
+
+File:NotoSansKannada-Thin.ttf
+2;1
+Noto Sans Kannada Thin
+-1;NotoSansKannada-Thin;0;1;5;2;65535;809;540;349;0;2143;1349;2143;1349;0;0;0;0;Thin
+
+File:NotoSansKannada-Black.ttf
+2;1
+Noto Sans Kannada Black
+-1;NotoSansKannada-Black;0;10;5;2;65535;809;540;349;0;2628;1349;2628;1349;0;0;0;0;Black
+
+File:NotoSansLao-Thin.ttf
+2;1
+Noto Sans Lao Thin
+-1;NotoSansLao-Thin;0;1;5;2;65535;1183;462;645;0;1357;1645;1357;1645;0;0;0;0;Thin
+
+File:NotoSansJavanese-Bold.ttf
+2;1
+Noto Sans Javanese
+-1;NotoSansJavanese-Bold;0;8;5;2;65535;1120;916;1036;0;4573;2036;4573;2036;0;0;0;0;Bold
+
+File:NotoSansInscriptionalParthian-Regular.ttf
+2;1
+Noto Sans InsParthi
+-1;NotoSansInscriptionalParthian-Regular;0;5;5;2;65535;1069;301;370;0;1800;1370;1800;1370;0;0;0;0;Regular
+
+File:NotoSansKannadaUI-Black.ttf
+2;1
+Noto Sans Kannada UI Black
+-1;NotoSansKannadaUI-Black;0;10;5;2;65535;1069;293;362;0;2628;1362;2628;1362;0;0;0;0;Black
+
+File:NotoSansInscriptionalPahlavi-Regular.ttf
+2;1
+Noto Sans InsPahlavi
+-1;NotoSansInscriptionalPahlavi-Regular;0;5;5;2;65535;1069;352;421;0;1576;1421;1576;1421;0;0;0;0;Regular
+
+File:NotoSansHebrew-Thin.ttf
+2;1
+Noto Sans Hebrew Thin
+-1;NotoSansHebrew-Thin;0;1;5;2;65535;1069;293;362;0;907;1362;907;1362;0;0;0;0;Thin
+
+File:NotoSerifEthiopic-Bold.ttf
+2;1
+Noto Serif Ethiopic
+-1;NotoSerifEthiopic-Bold;0;8;5;2;65535;1069;293;362;0;2072;1362;2072;1362;0;0;0;0;Bold
+
+File:NotoSansHebrew-Medium.ttf
+2;1
+Noto Sans Hebrew Med
+-1;NotoSansHebrew-Medium;0;6;5;2;65535;1069;293;362;0;948;1362;948;1362;0;0;0;0;Medium
+
+File:NotoSansKhmer-Medium.ttf
+2;1
+Noto Sans Khmer Medium
+-1;NotoSansKhmer-Medium;0;6;5;2;65535;1069;293;362;0;2886;1362;2886;1362;0;0;0;0;Medium
+
+File:NotoSansLimbu-Regular.ttf
+2;1
+Noto Sans Limbu
+-1;NotoSansLimbu-Regular;0;5;5;2;65535;1069;293;362;0;1496;1362;1496;1362;0;0;0;0;Regular
+
+File:NotoSerifArmenian-Thin.ttf
+2;1
+Noto Serif Armenian Th
+-1;NotoSerifArmenian-Thin;0;1;5;2;65535;1068;292;360;0;1289;1360;1289;1360;0;0;0;0;Thin
+
+File:NotoSansHebrew-Light.ttf
+2;1
+Noto Sans Hebrew Light
+-1;NotoSansHebrew-Light;0;3;5;2;65535;1069;293;362;0;917;1362;917;1362;0;0;0;0;Light
+
+File:NotoSansHebrew-Bold.ttf
+2;1
+Noto Sans Hebrew
+-1;NotoSansHebrew-Bold;0;8;5;2;65535;1069;293;362;0;1014;1362;1014;1362;0;0;0;0;Bold
+
+File:NotoSansModi-Regular.ttf
+2;1
+Noto Sans Modi
+-1;NotoSansModi-Regular;0;5;5;2;65535;891;463;354;0;1643;1354;1643;1354;0;0;0;0;Regular
+
+File:NotoSerifGeorgian-Bold.ttf
+2;1
+Noto Serif Georgian
+-1;NotoSerifGeorgian-Bold;0;8;5;2;65535;1068;292;360;0;1256;1360;1256;1360;0;0;0;0;Bold
+
+File:NotoSansHanunoo-Regular.ttf
+2;1
+Noto Sans Hanunoo
+-1;NotoSansHanunoo-Regular;0;5;5;2;65535;1069;293;362;0;1442;1362;1442;1362;0;0;0;0;Regular
+
+File:NotoSansGurmukhiUI-Regular.ttf
+2;1
+Noto Sans Gurmukhi UI
+-1;NotoSansGurmukhiUI;0;5;5;2;65535;1068;292;360;0;2103;1360;2103;1360;0;0;0;0;Regular
+
+File:NotoSansMono-Regular.ttf
+2;1
+Noto Sans Mono
+-1;NotoSansMono-Regular;0;5;5;1;65535;1069;293;362;0;2416;1362;2416;1362;0;0;0;0;Regular
+
+File:NotoSerifThai-Medium.ttf
+2;1
+Noto Serif Thai Med
+-1;NotoSerifThai-Medium;0;6;5;2;65535;1064;534;598;0;1658;1598;1658;1598;0;0;0;0;Medium
+
+File:NotoSansGurmukhiUI-Bold.ttf
+2;1
+Noto Sans Gurmukhi UI
+-1;NotoSansGurmukhiUI-Bold;0;8;5;2;65535;1068;292;360;0;2255;1360;2255;1360;0;0;0;0;Bold
+
+File:NotoSansTifinagh-Regular.ttf
+2;1
+Noto Sans Tifinagh
+-1;NotoSansTifinagh-Regular;0;5;5;2;65535;1069;293;362;0;1632;1362;1632;1362;0;0;0;0;Regular
+
+File:NotoSansManichaean-Regular.ttf
+2;1
+Noto Sans Manichaean
+-1;NotoSansManichaean-Regular;0;5;5;2;65535;790;340;130;0;1644;1130;1644;1130;0;0;0;0;Regular
+
+File:NotoSerifArmenian-Bold.ttf
+2;1
+Noto Serif Armenian
+-1;NotoSerifArmenian-Bold;0;8;5;2;65535;1068;292;360;0;1541;1360;1541;1360;0;0;0;0;Bold
+
+File:NotoSansGurmukhi-Regular.ttf
+2;1
+Noto Sans Gurmukhi
+-1;NotoSansGurmukhi;0;5;5;2;65535;896;408;304;0;2059;1304;2059;1304;0;0;0;0;Regular
+
+File:NotoSansGurmukhi-Bold.ttf
+2;1
+Noto Sans Gurmukhi
+-1;NotoSansGurmukhi-Bold;0;8;5;2;65535;896;408;304;0;2282;1304;2282;1304;0;0;0;0;Bold
+
+File:NotoSansGujaratiUI-Bold.ttf
+2;1
+Noto Sans Gujarati UI
+-1;NotoSansGujaratiUI-Bold;0;8;5;2;65535;1068;292;360;0;2009;1360;2009;1360;0;0;0;0;Bold
+
+File:NotoSansImperialAramaic-Regular.ttf
+2;1
+Noto Sans ImpAramaic
+-1;NotoSansImperialAramaic-Regular;0;5;5;2;65535;1069;293;362;0;906;1362;906;1362;0;0;0;0;Regular
+
+File:NotoSerifLao-Black.ttf
+2;1
+Noto Serif Lao Blk
+-1;NotoSerifLao-Black;0;10;5;2;65535;1174;482;656;0;1880;1656;1880;1656;0;0;0;0;Black
+
+File:NotoSansHatran-Regular.ttf
+2;1
+Noto Sans Hatran
+-1;NotoSansHatran-Regular;0;5;5;2;65535;1069;293;362;0;838;1362;838;1362;0;0;0;0;Regular
+
+File:NotoSansGujarati-Regular.ttf
+2;1
+Noto Sans Gujarati
+-1;NotoSansGujarati;0;5;5;2;65535;896;408;304;0;1923;1304;1923;1304;0;0;0;0;Regular
+
+File:NotoSansKannada-Bold.ttf
+2;1
+Noto Sans Kannada
+-1;NotoSansKannada-Bold;0;8;5;2;65535;809;540;349;0;2479;1349;2479;1349;0;0;0;0;Bold
+
+File:NotoSansGrantha-Regular.ttf
+2;1
+Noto Sans Grantha
+-1;NotoSansGrantha-Regular;0;5;5;2;65535;1290;534;824;0;4517;1824;4517;1824;0;0;0;0;Regular
+
+File:NotoSansGothic-Regular.ttf
+2;1
+Noto Sans Gothic
+-1;NotoSansGothic-Regular;0;5;5;2;65535;1069;293;362;0;1381;1362;1381;1362;0;0;0;0;Regular
+
+File:NotoSansHebrew-Regular.ttf
+2;1
+Noto Sans Hebrew
+-1;NotoSansHebrew-Regular;0;5;5;2;65535;1069;293;362;0;927;1362;927;1362;0;0;0;0;Regular
+
+File:NotoSansTelugu-Bold.ttf
+2;1
+Noto Sans Telugu
+-1;NotoSansTelugu-Bold;0;8;5;2;65535;869;482;351;0;3173;1351;3173;1351;0;0;0;0;Bold
+
+File:NotoSansGeorgian-Black.ttf
+2;1
+Noto Sans Georgian Blk
+-1;NotoSansGeorgian-Black;0;10;5;2;65535;1069;293;362;0;1359;1362;1359;1362;0;0;0;0;Black
+
+File:NotoSansMyanmarUI-Black.ttf
+2;1
+Noto Sans Myanmar UI Black
+-1;NotoSansMyanmarUI-Black;0;10;5;2;65535;1069;293;362;0;3446;1362;3446;1362;0;0;0;0;Black
+
+File:NotoSansEthiopic-Thin.ttf
+2;1
+Noto Sans Ethiopic Thin
+-1;NotoSansEthiopic-Thin;0;1;5;2;65535;1069;293;362;0;1591;1362;1591;1362;0;0;0;0;Thin
+
+File:NotoSansMath-Regular.ttf
+2;1
+Noto Sans Math
+-1;NotoSansMath-Regular;0;5;5;2;65535;1069;423;492;0;2049;1492;2049;1492;0;0;0;0;Regular
+
+File:NotoSansEthiopic-Medium.ttf
+2;1
+Noto Sans Ethiopic Med
+-1;NotoSansEthiopic-Medium;0;6;5;2;65535;1069;293;362;0;1694;1362;1694;1362;0;0;0;0;Medium
+
+File:NotoSansEthiopic-Light.ttf
+2;1
+Noto Sans Ethiopic Light
+-1;NotoSansEthiopic-Light;0;3;5;2;65535;1069;293;362;0;1619;1362;1619;1362;0;0;0;0;Light
+
+File:NotoSansElbasan-Regular.ttf
+2;1
+Noto Sans Elbasan
+-1;NotoSansElbasan-Regular;0;5;5;2;65535;847;270;117;0;1266;1117;1266;1117;0;0;0;0;Regular
+
+File:NotoSansOldPermic-Regular.ttf
+2;1
+Noto Sans Old Permic
+-1;NotoSansOldPermic-Regular;0;5;5;2;65535;1069;293;362;0;1093;1362;1093;1362;0;0;0;0;Regular
+
+File:NotoSerifTibetan-Bold.ttf
+2;1
+Noto Serif Tibetan
+-1;NotoSerifTibetan-Bold;0;8;5;2;65535;1299;1349;1648;0;2487;2648;2487;2648;0;0;0;0;Bold
+
+File:NotoSansDisplay-ThinItalic.ttf
+2;1
+Noto Sans Display Thin
+-1;NotoSansDisplay-ThinItalic;2;1;5;2;65535;1069;293;362;0;3006;1362;3006;1362;0;0;0;0;Thin Italic
+
+File:NotoSansDisplay-Thin.ttf
+2;1
+Noto Sans Display Thin
+-1;NotoSansDisplay-Thin;0;1;5;2;65535;1069;293;362;0;3363;1362;3363;1362;0;0;0;0;Thin
+
+File:NotoSansDisplay-MediumItalic.ttf
+2;1
+Noto Sans Display Medium
+-1;NotoSansDisplay-MediumItalic;2;6;5;2;65535;1069;293;362;0;3246;1362;3246;1362;0;0;0;0;Medium Italic
+
+File:NotoSansDisplay-Italic.ttf
+2;1
+Noto Sans Display
+-1;NotoSansDisplay-Italic;2;5;5;2;65535;1069;293;362;0;3258;1362;3258;1362;0;0;0;0;Italic
+
+File:NotoSerifTamil-Black.ttf
+2;1
+Noto Serif Tamil Blk
+-1;NotoSerifTamil-Black;0;10;5;2;65535;1069;492;561;0;3630;1561;3630;1561;0;0;0;0;Black
+
+File:NotoSansMyanmar-Light.ttf
+2;1
+Noto Sans Myanmar Light
+-1;NotoSansMyanmar-Light;0;3;5;2;65535;1324;860;1184;0;3198;2184;3198;2184;0;0;0;0;Light
+
+File:NotoSerifBengali-Regular.ttf
+2;1
+Noto Serif Bengali
+-1;NotoSerifBengali;0;5;5;2;65535;1019;394;413;0;1745;1413;1745;1413;0;0;0;0;Regular
+
+File:NotoSansDisplay-BoldItalic.ttf
+2;1
+Noto Sans Display
+-1;NotoSansDisplay-BoldItalic;2;8;5;2;65535;1069;293;362;0;3231;1362;3231;1362;0;0;0;0;Bold Italic
+
+File:NotoSansDisplay-Bold.ttf
+2;1
+Noto Sans Display
+-1;NotoSansDisplay-Bold;0;8;5;2;65535;1069;293;362;0;3387;1362;3387;1362;0;0;0;0;Bold
+
+File:NotoSansDisplay-Black.ttf
+2;1
+Noto Sans Display Black
+-1;NotoSansDisplay-Black;0;10;5;2;65535;1069;293;362;0;3488;1362;3488;1362;0;0;0;0;Black
+
+File:NotoSansDevanagariUI-Light.ttf
+2;1
+Noto Sans Devanagari Lt
+-1;NotoSansDevanagariUI-Light;0;3;5;2;65535;1069;293;362;0;1908;1362;1908;1362;0;0;0;0;Light
+
+File:NotoSansSundanese-Regular.ttf
+2;1
+Noto Sans Sundanese
+-1;NotoSansSundanese-Regular;0;5;5;2;65535;1069;368;437;0;2403;1437;2403;1437;0;0;0;0;Regular
+
+File:NotoSansDevanagariUI-Bold.ttf
+2;1
+Noto Sans Devanagari UI
+-1;NotoSansDevanagariUI-Bold;0;8;5;2;65535;1069;293;362;0;2231;1362;2231;1362;0;0;0;0;Bold
+
+File:NotoSansOldHungarian-Regular.ttf
+2;1
+Noto Sans OldHung
+-1;NotoSansOldHungarian-Regular;0;5;5;2;65535;859;177;36;0;1101;1036;1101;1036;0;0;0;0;Regular
+
+File:NotoSerif-ThinItalic.ttf
+2;1
+Noto Serif Thin
+-1;NotoSerif-ThinItalic;2;1;5;2;65535;1069;293;362;0;3569;1362;3569;1362;0;0;0;0;Thin Italic
+
+File:NotoSansDevanagariUI-Black.ttf
+2;1
+Noto Sans Devanagari Bk
+-1;NotoSansDevanagariUI-Black;0;10;5;2;65535;1069;293;362;0;2345;1362;2345;1362;0;0;0;0;Black
+
+File:NotoSansDevanagari-Regular.ttf
+2;1
+Noto Sans Devanagari
+-1;NotoSansDevanagari-Regular;0;5;5;2;65535;896;408;304;0;2013;1304;2013;1304;0;0;0;0;Regular
+
+File:NotoSansEthiopic-Bold.ttf
+2;1
+Noto Sans Ethiopic
+-1;NotoSansEthiopic-Bold;0;8;5;2;65535;1069;293;362;0;1809;1362;1809;1362;0;0;0;0;Bold
+
+File:NotoSansCuneiform-Regular.ttf
+2;1
+Noto Sans Cuneiform
+-1;NotoSansCuneiform-Regular;0;5;5;2;65535;1596;690;1286;0;4457;2286;4457;2286;0;0;0;0;Regular
+
+File:NotoSansEgyptianHieroglyphs-Regular.ttf
+2;1
+Noto Sans EgyptHiero
+-1;NotoSansEgyptianHieroglyphs-Regular;0;5;5;2;65535;1324;326;650;0;2315;1650;2315;1650;0;0;0;0;Regular
+
+File:NotoSansGeorgian-Bold.ttf
+2;1
+Noto Sans Georgian
+-1;NotoSansGeorgian-Bold;0;8;5;2;65535;1069;293;362;0;1307;1362;1307;1362;0;0;0;0;Bold
+
+File:NotoSerifDevanagari-Regular.ttf
+2;1
+Noto Serif Devanagari
+-1;NotoSerifDevanagari;0;5;5;2;65535;1046;625;671;0;1816;1671;1816;1671;0;0;0;0;Regular
+
+File:NotoSansOldNorthArabian-Regular.ttf
+2;1
+Noto Sans OldNorArab
+-1;NotoSansOldNorthArabian-Regular;0;5;5;2;65535;1069;293;362;0;743;1362;743;1362;0;0;0;0;Regular
+
+File:NotoSansCherokee-Thin.ttf
+2;1
+Noto Sans Cherokee Thin
+-1;NotoSansCherokee-Thin;0;1;5;2;65535;1069;293;362;0;1669;1362;1669;1362;0;0;0;0;Thin
+
+File:NotoSerifDisplay-Light.ttf
+2;1
+Noto Serif Display Light
+-1;NotoSerifDisplay-Light;0;3;5;2;65535;1069;293;362;0;3484;1362;3484;1362;0;0;0;0;Light
+
+File:NotoSansDisplay-Medium.ttf
+2;1
+Noto Sans Display Medium
+-1;NotoSansDisplay-Medium;0;6;5;2;65535;1069;293;362;0;3368;1362;3368;1362;0;0;0;0;Medium
+
+File:NotoSansCherokee-Regular.ttf
+2;1
+Noto Sans Cherokee
+-1;NotoSansCherokee-Regular;0;5;5;2;65535;1069;293;362;0;1770;1362;1770;1362;0;0;0;0;Regular
+
+File:NotoSansCherokee-Medium.ttf
+2;1
+Noto Sans Cherokee Med
+-1;NotoSansCherokee-Medium;0;6;5;2;65535;1069;293;362;0;1798;1362;1798;1362;0;0;0;0;Medium
+
+File:NotoSansGujaratiUI-Regular.ttf
+2;1
+Noto Sans Gujarati UI
+-1;NotoSansGujaratiUI;0;5;5;2;65535;1068;292;360;0;1849;1360;1849;1360;0;0;0;0;Regular
+
+File:NotoSansGeorgian-Regular.ttf
+2;1
+Noto Sans Georgian
+-1;NotoSansGeorgian-Regular;0;5;5;2;65535;1069;293;362;0;1203;1362;1203;1362;0;0;0;0;Regular
+
+File:NotoSansSymbols-Thin.ttf
+2;1
+Noto Sans Symbols Thin
+-1;NotoSansSymbols-Thin;0;1;5;2;65535;1480;570;1050;0;3044;2050;3044;2050;0;0;0;0;Thin
+
+File:NotoSansCherokee-Bold.ttf
+2;1
+Noto Sans Cherokee
+-1;NotoSansCherokee-Bold;0;8;5;2;65535;1069;293;362;0;1863;1362;1863;1362;0;0;0;0;Bold
+
+File:NotoSansCham-Regular.ttf
+2;1
+Noto Sans Cham
+-1;NotoSansCham-Regular;0;5;5;2;65535;1117;351;468;0;1977;1468;1977;1468;0;0;0;0;Regular
+
+File:NotoSansTamil-Bold.ttf
+2;1
+Noto Sans Tamil
+-1;NotoSansTamil-Bold;0;8;5;2;65535;870;370;240;0;3010;1240;3010;1240;0;0;0;0;Bold
+
+File:NotoSansOriyaUI-Regular.ttf
+2;1
+Noto Sans Oriya UI
+-1;NotoSansOriyaUI;0;5;5;2;65535;1068;292;360;0;1678;1360;1678;1360;0;0;0;0;Regular
+
+File:NotoSansCham-Medium.ttf
+2;1
+Noto Sans Cham Med
+-1;NotoSansCham-Medium;0;6;5;2;65535;1117;351;468;0;2019;1468;2019;1468;0;0;0;0;Medium
+
+File:NotoSansEthiopic-Black.ttf
+2;1
+Noto Sans Ethiopic Blk
+-1;NotoSansEthiopic-Black;0;10;5;2;65535;1069;293;362;0;1914;1362;1914;1362;0;0;0;0;Black
+
+File:NotoSansCham-Light.ttf
+2;1
+Noto Sans Cham Light
+-1;NotoSansCham-Light;0;3;5;2;65535;1117;351;468;0;1897;1468;1897;1468;0;0;0;0;Light
+
+File:NotoSansThai-Thin.ttf
+2;1
+Noto Sans Thai Thin
+-1;NotoSansThai-Thin;0;1;5;2;65535;1061;450;511;0;1484;1511;1484;1511;0;0;0;0;Thin
+
+File:NotoSansTagalog-Regular.ttf
+2;1
+Noto Sans Tagalog
+-1;NotoSansTagalog-Regular;0;5;5;2;65535;1069;293;362;0;1394;1362;1394;1362;0;0;0;0;Regular
+
+File:NotoSansCham-Black.ttf
+2;1
+Noto Sans Cham Blk
+-1;NotoSansCham-Black;0;10;5;2;65535;1117;351;468;0;2243;1468;2243;1468;0;0;0;0;Black
+
+File:NotoSansLao-Medium.ttf
+2;1
+Noto Sans Lao Med
+-1;NotoSansLao-Medium;0;6;5;2;65535;1183;462;645;0;1541;1645;1541;1645;0;0;0;0;Medium
+
+File:NotoSansChakma-Regular.ttf
+2;1
+Noto Sans Chakma
+-1;NotoSansChakma-Regular;0;5;5;2;65535;1140;320;460;0;2365;1460;2365;1460;0;0;0;0;Regular
+
+File:NotoSansDisplay-Light.ttf
+2;1
+Noto Sans Display Light
+-1;NotoSansDisplay-Light;0;3;5;2;65535;1069;293;362;0;3364;1362;3364;1362;0;0;0;0;Light
+
+File:NotoSansOldItalic-Regular.ttf
+2;1
+Noto Sans Old Italic
+-1;NotoSansOldItalic-Regular;0;5;5;2;65535;1069;293;362;0;793;1362;793;1362;0;0;0;0;Regular
+
+File:NotoSansCarian-Regular.ttf
+2;1
+Noto Sans Carian
+-1;NotoSansCarian-Regular;0;5;5;2;65535;1069;293;362;0;919;1362;919;1362;0;0;0;0;Regular
+
+File:NotoSansThaana-Regular.ttf
+2;1
+Noto Sans Thaana
+-1;NotoSansThaana-Regular;0;5;5;2;65535;1069;424;493;0;2104;1493;2104;1493;0;0;0;0;Regular
+
+File:NotoSansCanadianAboriginal-Thin.ttf
+2;1
+Noto Sans CanAborig Th
+-1;NotoSansCanadianAboriginal-Thin;0;1;5;2;65535;1069;293;362;0;1280;1362;1280;1362;0;0;0;0;Thin
+
+File:NotoSansGlagolitic-Regular.ttf
+2;1
+Noto Sans Glagolitic
+-1;NotoSansGlagolitic-Regular;0;5;5;2;65535;1069;293;362;0;1520;1362;1520;1362;0;0;0;0;Regular
+
+File:NotoSansCanadianAboriginal-Regular.ttf
+2;1
+Noto Sans CanAborig
+-1;NotoSansCanadianAboriginal-Regular;0;5;5;2;65535;1069;293;362;0;1385;1362;1385;1362;0;0;0;0;Regular
+
+File:NotoSansMalayalamUI-Black.ttf
+2;1
+Noto Sans Malayalam UI Black
+-1;NotoSansMalayalamUI-Black;0;10;5;2;65535;1069;293;362;0;3677;1362;3677;1362;0;0;0;0;Black
+
+File:NotoSansCoptic-Regular.ttf
+2;1
+Noto Sans Coptic
+-1;NotoSansCoptic-Regular;0;5;5;2;65535;1069;293;362;0;1870;1362;1870;1362;0;0;0;0;Regular
+
+File:NotoSansBengaliUI-Bold.ttf
+2;1
+Noto Sans Bengali UI
+-1;NotoSansBengaliUI-Bold;0;8;5;2;65535;1069;293;362;0;2393;1362;2393;1362;0;0;0;0;Bold
+
+File:NotoSansMalayalamUI-Medium.ttf
+2;1
+Noto Sans Malayalam UI Medium
+-1;NotoSansMalayalamUI-Medium;0;6;5;2;65535;1069;293;362;0;3248;1362;3248;1362;0;0;0;0;Medium
+
+File:NotoSansMono-Black.ttf
+2;1
+Noto Sans Mono Black
+-1;NotoSansMono-Black;0;10;5;1;65535;1069;293;362;0;2416;1362;2416;1362;0;0;0;0;Black
+
+File:NotoSansDevanagari-Medium.ttf
+2;1
+Noto Sans Devanagari Md
+-1;NotoSansDevanagari-Medium;0;6;5;2;65535;896;408;304;0;2076;1304;2076;1304;0;0;0;0;Medium
+
+File:NotoSansThaana-Thin.ttf
+2;1
+Noto Sans Thaana Thin
+-1;NotoSansThaana-Thin;0;1;5;2;65535;1069;424;493;0;2104;1493;2104;1493;0;0;0;0;Thin
+
+File:NotoSansBengaliUI-Black.ttf
+2;1
+Noto Sans Bengali Blk
+-1;NotoSansBengaliUI-Black;0;10;5;2;65535;1069;293;362;0;2550;1362;2550;1362;0;0;0;0;Black
+
+File:NotoSansMiao-Regular.ttf
+2;1
+Noto Sans Miao
+-1;NotoSansMiao-Regular;0;5;5;2;65535;1142;350;492;0;1081;1492;1081;1492;0;0;0;0;Regular
+
+File:NotoSerif-Thin.ttf
+2;1
+Noto Serif Thin
+-1;NotoSerif-Thin;0;1;5;2;65535;1069;293;362;0;3476;1362;3476;1362;0;0;0;0;Thin
+
+File:NotoSansBengali-Regular.ttf
+2;1
+Noto Sans Bengali
+-1;NotoSansBengali-Regular;0;5;5;2;65535;917;408;325;0;2221;1325;2221;1325;0;0;0;0;Regular
+
+File:NotoSansBengali-Light.ttf
+2;1
+Noto Sans Bengali Light
+-1;NotoSansBengali-Light;0;3;5;2;65535;917;408;325;0;2159;1325;2159;1325;0;0;0;0;Light
+
+File:NotoSansKannadaUI-Regular.ttf
+2;1
+Noto Sans Kannada UI
+-1;NotoSansKannadaUI-Regular;0;5;5;2;65535;1069;293;362;0;2309;1362;2309;1362;0;0;0;0;Regular
+
+File:NotoSansKhmer-Black.ttf
+2;1
+Noto Sans Khmer Black
+-1;NotoSansKhmer-Black;0;10;5;2;65535;1069;293;362;0;3180;1362;3180;1362;0;0;0;0;Black
+
+File:NotoSansGujarati-Bold.ttf
+2;1
+Noto Sans Gujarati
+-1;NotoSansGujarati-Bold;0;8;5;2;65535;896;408;304;0;2072;1304;2072;1304;0;0;0;0;Bold
+
+File:NotoSansBengali-Bold.ttf
+2;1
+Noto Sans Bengali
+-1;NotoSansBengali-Bold;0;8;5;2;65535;917;408;325;0;2393;1325;2393;1325;0;0;0;0;Bold
+
+File:NotoSansBatak-Regular.ttf
+2;1
+Noto Sans Batak
+-1;NotoSansBatak-Regular;0;5;5;2;65535;1069;293;362;0;1671;1362;1671;1362;0;0;0;0;Regular
+
+File:NotoSansJavanese-Regular.ttf
+2;1
+Noto Sans Javanese
+-1;NotoSansJavanese-Regular;0;5;5;2;65535;1120;916;1036;0;3776;2036;3776;2036;0;0;0;0;Regular
+
+File:NotoSansLinearB-Regular.ttf
+2;1
+Noto Sans Linear B
+-1;NotoSansLinearB-Regular;0;5;5;2;65535;1069;293;362;0;1882;1362;1882;1362;0;0;0;0;Regular
+
+File:NotoSerifKannada-Medium.ttf
+2;1
+Noto Serif Kannada Medium
+-1;NotoSerifKannada-Medium;0;6;5;2;65535;1025;595;620;0;2165;1620;2165;1620;0;0;0;0;Medium
+
+File:NotoSansOsage-Regular.ttf
+2;1
+Noto Sans Osage
+-1;NotoSansOsage-Regular;0;5;5;2;65535;1069;293;362;0;1150;1362;1150;1362;0;0;0;0;Regular
+
+File:NotoSansBassaVah-Regular.ttf
+2;1
+Noto Sans Bassa Vah
+-1;NotoSansBassaVah-Regular;0;5;5;2;65535;1069;293;362;0;937;1362;937;1362;0;0;0;0;Regular
+
+File:NotoSansKannada-Light.ttf
+2;1
+Noto Sans Kannada Light
+-1;NotoSansKannada-Light;0;3;5;2;65535;809;540;349;0;2222;1349;2222;1349;0;0;0;0;Light
+
+File:NotoSansGeorgian-Light.ttf
+2;1
+Noto Sans Georgian Light
+-1;NotoSansGeorgian-Light;0;3;5;2;65535;1069;293;362;0;1154;1362;1154;1362;0;0;0;0;Light
+
+File:NotoSansLycian-Regular.ttf
+2;1
+Noto Sans Lycian
+-1;NotoSansLycian-Regular;0;5;5;2;65535;1069;293;362;0;828;1362;828;1362;0;0;0;0;Regular
+
+File:NotoSansMyanmar-Black.ttf
+2;1
+Noto Sans Myanmar Blk
+-1;NotoSansMyanmar-Black;0;10;5;2;65535;1324;860;1184;0;3427;2184;3427;2184;0;0;0;0;Black
+
+File:NotoSansBuginese-Regular.ttf
+2;1
+Noto Sans Buginese
+-1;NotoSansBuginese-Regular;0;5;5;2;65535;1069;293;362;0;2192;1362;2192;1362;0;0;0;0;Regular
+
+File:NotoSansBamum-Regular.ttf
+2;1
+Noto Sans Bamum
+-1;NotoSansBamum-Regular;0;5;5;2;65535;1069;293;362;0;1390;1362;1390;1362;0;0;0;0;Regular
+
+File:NotoSansArmenian-Thin.ttf
+2;1
+Noto Sans Armenian Thin
+-1;NotoSansArmenian-Thin;0;1;5;2;65535;1069;293;362;0;1324;1362;1324;1362;0;0;0;0;Thin
+
+File:NotoSansMro-Regular.ttf
+2;1
+Noto Sans Mro
+-1;NotoSansMro-Regular;0;5;5;2;65535;1069;293;362;0;846;1362;846;1362;0;0;0;0;Regular
+
+File:NotoSansCherokee-Light.ttf
+2;1
+Noto Sans Cherokee Light
+-1;NotoSansCherokee-Light;0;3;5;2;65535;1069;293;362;0;1720;1362;1720;1362;0;0;0;0;Light
+
+File:NotoSansBengaliUI-Medium.ttf
+2;1
+Noto Sans Bengali Med
+-1;NotoSansBengaliUI-Medium;0;6;5;2;65535;1069;293;362;0;2272;1362;2272;1362;0;0;0;0;Medium
+
+File:NotoSansArmenian-Regular.ttf
+2;1
+Noto Sans Armenian
+-1;NotoSansArmenian-Regular;0;5;5;2;65535;1069;293;362;0;1464;1362;1464;1362;0;0;0;0;Regular
+
+File:NotoSansBengali-Thin.ttf
+2;1
+Noto Sans Bengali Thin
+-1;NotoSansBengali-Thin;0;1;5;2;65535;917;408;325;0;2097;1325;2097;1325;0;0;0;0;Thin
+
+File:NotoSansCherokee-Black.ttf
+2;1
+Noto Sans Cherokee Blk
+-1;NotoSansCherokee-Black;0;10;5;2;65535;1069;293;362;0;1923;1362;1923;1362;0;0;0;0;Black
+
+File:NotoSansArmenian-Medium.ttf
+2;1
+Noto Sans Armenian Med
+-1;NotoSansArmenian-Medium;0;6;5;2;65535;1069;293;362;0;1490;1362;1490;1362;0;0;0;0;Medium
+
+File:NotoSerifMyanmar-Light.ttf
+2;1
+Noto Serif Myanmar Light
+-1;NotoSerifMyanmar-Light;0;3;5;2;65535;1239;1260;1499;0;3096;2499;3096;2499;0;0;0;0;Light
+
+File:NotoSansArmenian-Bold.ttf
+2;1
+Noto Sans Armenian
+-1;NotoSansArmenian-Bold;0;8;5;2;65535;1069;293;362;0;1549;1362;1549;1362;0;0;0;0;Bold
+
+File:NotoSansGeorgian-Medium.ttf
+2;1
+Noto Sans Georgian Med
+-1;NotoSansGeorgian-Medium;0;6;5;2;65535;1069;293;362;0;1234;1362;1234;1362;0;0;0;0;Medium
+
+File:NotoSansBengaliUI-Light.ttf
+2;1
+Noto Sans Bengali Light
+-1;NotoSansBengaliUI-Light;0;3;5;2;65535;1069;293;362;0;2159;1362;2159;1362;0;0;0;0;Light
+
+File:NotoSansTeluguUI-Regular.ttf
+2;1
+Noto Sans Telugu UI
+-1;NotoSansTeluguUI;0;5;5;2;65535;1068;292;360;0;3034;1360;3034;1360;0;0;0;0;Regular
+
+File:NotoSansArmenian-Black.ttf
+2;1
+Noto Sans Armenian Blk
+-1;NotoSansArmenian-Black;0;10;5;2;65535;1069;293;362;0;1612;1362;1612;1362;0;0;0;0;Black
+
+File:NotoSansCanadianAboriginal-Medium.ttf
+2;1
+Noto Sans CanAborig Md
+-1;NotoSansCanadianAboriginal-Medium;0;6;5;2;65535;1069;293;362;0;1392;1362;1392;1362;0;0;0;0;Medium
+
+File:NotoSansCypriot-Regular.ttf
+2;1
+Noto Sans Cypriot
+-1;NotoSansCypriot-Regular;0;5;5;2;65535;1069;293;362;0;919;1362;919;1362;0;0;0;0;Regular
+
+File:NotoSansArabicUI-Regular.ttf
+2;1
+Noto Sans Arabic UI
+-1;NotoSansArabicUI-Regular;0;5;5;2;65535;1069;293;362;0;2650;1362;2650;1362;0;0;0;0;Regular
+
+File:NotoSansKayahLi-Regular.ttf
+2;1
+Noto Sans Kayah Li
+-1;NotoSansKayahLi-Regular;0;5;5;2;65535;1069;293;362;0;1418;1362;1418;1362;0;0;0;0;Regular
+
+File:NotoSansArmenian-Light.ttf
+2;1
+Noto Sans Armenian Light
+-1;NotoSansArmenian-Light;0;3;5;2;65535;1069;293;362;0;1394;1362;1394;1362;0;0;0;0;Light
+
+File:NotoSansArabicUI-Medium.ttf
+2;1
+Noto Sans Arabic UI Md
+-1;NotoSansArabicUI-Medium;0;6;5;2;65535;1069;293;362;0;2699;1362;2699;1362;0;0;0;0;Medium
+
+File:NotoSansLaoUI-Light.ttf
+2;1
+Noto Sans Lao UI Light
+-1;NotoSansLaoUI-Light;0;3;5;2;65535;1069;293;362;0;1433;1362;1433;1362;0;0;0;0;Light
+
+File:NotoSansBuhid-Regular.ttf
+2;1
+Noto Sans Buhid
+-1;NotoSansBuhid-Regular;0;5;5;2;65535;1069;293;362;0;1556;1362;1556;1362;0;0;0;0;Regular
+
+File:NotoSansAvestan-Regular.ttf
+2;1
+Noto Sans Avestan
+-1;NotoSansAvestan-Regular;0;5;5;2;65535;1069;293;362;0;2180;1362;2180;1362;0;0;0;0;Regular
+
+File:NotoSansDuployan-Regular.ttf
+2;1
+Noto Sans Duployan
+-1;NotoSansDuployan-Regular;0;5;5;2;65535;1069;293;362;0;1248;1362;1248;1362;0;0;0;0;Regular
+
+File:NotoSansLao-Light.ttf
+2;1
+Noto Sans Lao Light
+-1;NotoSansLao-Light;0;3;5;2;65535;1183;462;645;0;1439;1645;1439;1645;0;0;0;0;Light
+
+File:NotoSerifLao-Medium.ttf
+2;1
+Noto Serif Lao Med
+-1;NotoSerifLao-Medium;0;6;5;2;65535;1174;482;656;0;1597;1656;1597;1656;0;0;0;0;Medium
+
+File:NotoSansDisplay-LightItalic.ttf
+2;1
+Noto Sans Display Light
+-1;NotoSansDisplay-LightItalic;2;3;5;2;65535;1069;293;362;0;3122;1362;3122;1362;0;0;0;0;Light Italic
+
+File:NotoSansArabicUI-Light.ttf
+2;1
+Noto Sans Arabic UI Lt
+-1;NotoSansArabicUI-Light;0;3;5;2;65535;1069;293;362;0;2632;1362;2632;1362;0;0;0;0;Light
+
+File:NotoSansMarchen-Regular.ttf
+2;1
+Noto Sans Marchen
+-1;NotoSansMarchen-Regular;0;5;5;2;65535;1107;534;641;0;1603;1641;1603;1641;0;0;0;0;Regular
+
+File:NotoSansArabic-Medium.ttf
+2;1
+Noto Sans Arabic Med
+-1;NotoSansArabic-Medium;0;6;5;2;65535;1374;738;1112;0;2641;2112;2641;2112;0;0;0;0;Medium
+
+File:NotoSansMalayalamUI-Bold.ttf
+2;1
+Noto Sans Malayalam UI
+-1;NotoSansMalayalamUI-Bold;0;8;5;2;65535;1069;293;362;0;3503;1362;3503;1362;0;0;0;0;Bold
+
+File:NotoSerifTamilSlanted-Black.ttf
+2;1
+NotoSerifTamilSlanted Black
+-1;NotoSerifTamilSlanted-Black;0;10;5;2;65535;1069;492;561;0;3558;1561;3558;1561;0;0;0;0;Black
+
+File:NotoSerifArmenian-Regular.ttf
+2;1
+Noto Serif Armenian
+-1;NotoSerifArmenian-Regular;0;5;5;2;65535;1068;292;360;0;1441;1360;1441;1360;0;0;0;0;Regular
+
+File:NotoSansDisplay-BlackItalic.ttf
+2;1
+Noto Sans Display Black
+-1;NotoSansDisplay-BlackItalic;2;10;5;2;65535;1069;293;362;0;3329;1362;3329;1362;0;0;0;0;Black Italic
+
+File:NotoSansKhmerUI-Light.ttf
+2;1
+Noto Sans Khmer UI Light
+-1;NotoSansKhmerUI-Light;0;3;5;2;65535;1069;293;362;0;2760;1362;2760;1362;0;0;0;0;Light
+
+File:NotoSansBengaliUI-Regular.ttf
+2;1
+Noto Sans Bengali UI
+-1;NotoSansBengaliUI-Regular;0;5;5;2;65535;1069;293;362;0;2221;1362;2221;1362;0;0;0;0;Regular
+
+File:NotoSerifDevanagari-Bold.ttf
+2;1
+Noto Serif Devanagari
+-1;NotoSerifDevanagari-Bold;0;8;5;2;65535;1046;625;671;0;1999;1671;1999;1671;0;0;0;0;Bold
+
+File:NotoSansArabic-Light.ttf
+2;1
+Noto Sans Arabic Light
+-1;NotoSansArabic-Light;0;3;5;2;65535;1374;738;1112;0;2566;2112;2566;2112;0;0;0;0;Light
+
+File:NotoSansAnatolianHieroglyphs-Regular.ttf
+2;1
+Noto Sans AnatoHiero
+-1;NotoSansAnatolianHieroglyphs-Regular;0;5;5;2;65535;1153;253;406;0;1537;1406;1537;1406;0;0;0;0;Regular
+
+File:NotoSerifTibetan-Thin.ttf
+2;1
+Noto Serif Tibetan Thin
+-1;NotoSerifTibetan-Thin;0;1;5;2;65535;1299;1349;1648;0;2360;2648;2360;2648;0;0;0;0;Thin
+
+File:NotoSansTamilUI-Light.ttf
+2;1
+Noto Sans Tamil Light
+-1;NotoSansTamilUI-Light;0;3;5;2;65535;1069;293;362;0;2594;1362;2594;1362;0;0;0;0;Light
+
+File:NotoSans-Thin.ttf
+2;1
+Noto Sans Thin
+-1;NotoSans-Thin;0;1;5;2;65535;1069;293;362;0;3417;1362;3417;1362;0;0;0;0;Thin
+
+File:NotoSerif-Light.ttf
+2;1
+Noto Serif Light
+-1;NotoSerif-Light;0;3;5;2;65535;1069;293;362;0;3484;1362;3484;1362;0;0;0;0;Light
+
+File:NotoSans-Regular.ttf
+2;1
+Noto Sans
+-1;NotoSans-Regular;0;5;5;2;65535;1069;293;362;0;3421;1362;3421;1362;0;0;0;0;Regular
+
+File:NotoSansLisu-Regular.ttf
+2;1
+Noto Sans Lisu
+-1;NotoSansLisu-Regular;0;5;5;2;65535;1069;293;362;0;917;1362;917;1362;0;0;0;0;Regular
+
+File:NotoSans-MediumItalic.ttf
+2;1
+Noto Sans Medium
+-1;NotoSans-MediumItalic;2;6;5;2;65535;1069;293;362;0;3412;1362;3412;1362;0;0;0;0;Medium Italic
+
+File:NotoSansMyanmarUI-Medium.ttf
+2;1
+Noto Sans Myanmar UI Medium
+-1;NotoSansMyanmarUI-Medium;0;6;5;2;65535;1069;293;362;0;3269;1362;3269;1362;0;0;0;0;Medium
+
+File:NotoSansDevanagariUI-Regular.ttf
+2;1
+Noto Sans Devanagari UI
+-1;NotoSansDevanagariUI-Regular;0;5;5;2;65535;1069;293;362;0;2013;1362;2013;1362;0;0;0;0;Regular
+
+File:NotoSansSyriac-Regular.ttf
+2;1
+Noto Sans Syriac
+-1;NotoSansSyriac-Regular;0;5;5;2;65535;926;486;412;0;1746;1412;1746;1412;0;0;0;0;Regular
+
+File:NotoSansBrahmi-Regular.ttf
+2;1
+Noto Sans Brahmi
+-1;NotoSansBrahmi-Regular;0;5;5;2;65535;1069;306;375;0;1653;1375;1653;1375;0;0;0;0;Regular
+
+File:NotoSansCanadianAboriginal-Light.ttf
+2;1
+Noto Sans CanAborig Lt
+-1;NotoSansCanadianAboriginal-Light;0;3;5;2;65535;1069;293;362;0;1332;1362;1332;1362;0;0;0;0;Light
+
+File:NotoSansOgham-Regular.ttf
+2;1
+Noto Sans Ogham
+-1;NotoSansOgham-Regular;0;5;5;2;65535;1069;293;362;0;911;1362;911;1362;0;0;0;0;Regular
+
+File:NotoSans-Medium.ttf
+2;1
+Noto Sans Medium
+-1;NotoSans-Medium;0;6;5;2;65535;1069;293;362;0;3422;1362;3422;1362;0;0;0;0;Medium
+
+File:NotoSans-Light.ttf
+2;1
+Noto Sans Light
+-1;NotoSans-Light;0;3;5;2;65535;1069;293;362;0;3419;1362;3419;1362;0;0;0;0;Light
+
+File:NotoSansEthiopic-Regular.ttf
+2;1
+Noto Sans Ethiopic
+-1;NotoSansEthiopic-Regular;0;5;5;2;65535;1069;293;362;0;1646;1362;1646;1362;0;0;0;0;Regular
+
+File:NotoSans-Italic.ttf
+2;1
+Noto Sans
+-1;NotoSans-Italic;2;5;5;2;65535;1069;293;362;0;3432;1362;3432;1362;0;0;0;0;Italic
+
+File:NotoSerifHebrew-Black.ttf
+2;1
+Noto Serif Hebrew Blk
+-1;NotoSerifHebrew-Black;0;10;5;2;65535;896;290;186;0;1102;1186;1102;1186;0;0;0;0;Black
+
+File:NotoSansCham-Thin.ttf
+2;1
+Noto Sans Cham Thin
+-1;NotoSansCham-Thin;0;1;5;2;65535;1117;351;468;0;1817;1468;1817;1468;0;0;0;0;Thin
+
+File:NotoSansTibetan-Regular.ttf
+2;1
+Noto Sans Tibetan
+-1;NotoSansTibetan;0;5;5;2;65535;1214;918;1132;0;2433;2132;2433;2132;0;0;0;0;Regular
+
+File:NotoSansKhmerUI-Thin.ttf
+2;1
+Noto Sans Khmer UI Thin
+-1;NotoSansKhmerUI-Thin;0;1;5;2;65535;1069;293;362;0;2699;1362;2699;1362;0;0;0;0;Thin
+
+File:NotoSansDevanagari-Black.ttf
+2;1
+Noto Sans Devanagari Bk
+-1;NotoSansDevanagari-Black;0;10;5;2;65535;896;408;304;0;2339;1304;2339;1304;0;0;0;0;Black
+
+File:NotoSerifMyanmar-Medium.ttf
+2;1
+Noto Serif Myanmar Med
+-1;NotoSerifMyanmar-Medium;0;6;5;2;65535;1239;1260;1499;0;3085;2499;3085;2499;0;0;0;0;Medium
+
+File:NotoSans-Bold.ttf
+2;1
+Noto Sans
+-1;NotoSans-Bold;0;8;5;2;65535;1069;293;362;0;3431;1362;3431;1362;0;0;0;0;Bold
+
+File:NotoSansBengaliUI-Thin.ttf
+2;1
+Noto Sans Bengali Thin
+-1;NotoSansBengaliUI-Thin;0;1;5;2;65535;1069;293;362;0;2097;1362;2097;1362;0;0;0;0;Thin
+
+File:NotoSansArabicUI-Black.ttf
+2;1
+Noto Sans Arabic UI Bk
+-1;NotoSansArabicUI-Black;0;10;5;2;65535;1069;293;362;0;3045;1362;3045;1362;0;0;0;0;Black
+
+File:NotoSans-BlackItalic.ttf
+2;1
+Noto Sans Black
+-1;NotoSans-BlackItalic;2;10;5;2;65535;1069;293;362;0;3496;1362;3496;1362;0;0;0;0;Black Italic
+
+File:NotoSansSinhala-Bold.ttf
+2;1
+Noto Sans Sinhala
+-1;NotoSansSinhala-Bold;0;8;5;2;65535;1069;293;362;0;2959;1362;2959;1362;0;0;0;0;Bold
+
+File:NotoSansAdlam-Regular.ttf
+2;1
+Noto Sans Adlam
+-1;NotoSansAdlam-Regular;0;5;5;2;65535;935;200;135;0;975;1135;975;1135;0;0;0;0;Regular
+
+File:NotoSansSamaritan-Regular.ttf
+2;1
+Noto Sans Samaritan
+-1;NotoSansSamaritan-Regular;0;5;5;2;65535;1069;293;362;0;1625;1362;1625;1362;0;0;0;0;Regular
+
+File:NotoSans-ThinItalic.ttf
+2;1
+Noto Sans Thin
+-1;NotoSans-ThinItalic;2;1;5;2;65535;1069;293;362;0;3152;1362;3152;1362;0;0;0;0;Thin Italic
+
+File:NotoNastaliqUrdu-Regular.ttf
+2;1
+Noto Nastaliq Urdu
+-1;NotoNastaliqUrdu-Regular;0;5;5;2;65535;1904;596;1500;0;4910;2500;4910;2500;0;0;0;0;Regular
+
+File:NotoSansSinhalaUI-Black.ttf
+2;1
+Noto Sans Sinhala Blk
+-1;NotoSansSinhalaUI-Black;0;10;5;2;65535;1069;293;362;0;3023;1362;3023;1362;0;0;0;0;Black
+
+File:NotoSansMyanmarUI-Light.ttf
+2;1
+Noto Sans Myanmar UI Light
+-1;NotoSansMyanmarUI-Light;0;3;5;2;65535;1069;293;362;0;3193;1362;3193;1362;0;0;0;0;Light
+
+File:NotoSansDevanagari-Thin.ttf
+2;1
+Noto Sans Devanagari Th
+-1;NotoSansDevanagari-Thin;0;1;5;2;65535;896;408;304;0;1820;1304;1820;1304;0;0;0;0;Thin
+
+File:NotoSerifGeorgian-Medium.ttf
+2;1
+Noto Serif Georgian Md
+-1;NotoSerifGeorgian-Medium;0;6;5;2;65535;1068;292;360;0;1191;1360;1191;1360;0;0;0;0;Medium
+
+File:NotoNastaliqUrdu-Bold.ttf
+2;1
+Noto Nastaliq Urdu
+-1;NotoNastaliqUrdu-Bold;0;5;5;2;65535;1904;596;1500;0;5416;2500;5416;2500;0;0;0;0;Bold
+
+File:NotoSansArabicUI-Thin.ttf
+2;1
+Noto Sans Arabic UI Th
+-1;NotoSansArabicUI-Thin;0;1;5;2;65535;1069;293;362;0;2614;1362;2614;1362;0;0;0;0;Thin
+
+File:NotoSansOriyaUI-Bold.ttf
+2;1
+Noto Sans Oriya UI
+-1;NotoSansOriyaUI-Bold;0;8;5;2;65535;1068;292;360;0;1847;1360;1847;1360;0;0;0;0;Bold
+
+File:NotoSansOlChiki-Regular.ttf
+2;1
+Noto Sans Ol Chiki
+-1;NotoSansOlChiki-Regular;0;5;5;2;65535;1069;293;362;0;699;1362;699;1362;0;0;0;0;Regular
+
+File:NotoSansDevanagari-Light.ttf
+2;1
+Noto Sans Devanagari Lt
+-1;NotoSansDevanagari-Light;0;3;5;2;65535;896;408;304;0;1908;1304;1908;1304;0;0;0;0;Light
+
+File:NotoSansKannadaUI-Bold.ttf
+2;1
+Noto Sans Kannada UI
+-1;NotoSansKannadaUI-Bold;0;8;5;2;65535;1069;293;362;0;2479;1362;2479;1362;0;0;0;0;Bold
+
+File:NotoSerifKannada-Thin.ttf
+2;1
+Noto Serif Kannada Thin
+-1;NotoSerifKannada-Thin;0;1;5;2;65535;1025;595;620;0;2058;1620;2058;1620;0;0;0;0;Thin
+
+File:NotoSansHebrew-Black.ttf
+2;1
+Noto Sans Hebrew Blk
+-1;NotoSansHebrew-Black;0;10;5;2;65535;1069;293;362;0;1075;1362;1075;1362;0;0;0;0;Black
+
+File:NotoSerifThai-Light.ttf
+2;1
+Noto Serif Thai Light
+-1;NotoSerifThai-Light;0;3;5;2;65535;1064;534;598;0;1603;1598;1603;1598;0;0;0;0;Light
+
+File:NotoSansDeseret-Regular.ttf
+2;1
+Noto Sans Deseret
+-1;NotoSansDeseret-Regular;0;5;5;2;65535;1069;293;362;0;814;1362;814;1362;0;0;0;0;Regular
+
+File:NotoSans-BoldItalic.ttf
+2;1
+Noto Sans
+-1;NotoSans-BoldItalic;2;8;5;2;65535;1069;293;362;0;3376;1362;3376;1362;0;0;0;0;Bold Italic
+
+File:NotoSansArabic-Thin.ttf
+2;1
+Noto Sans Arabic Thin
+-1;NotoSansArabic-Thin;0;1;5;2;65535;1374;738;1112;0;2540;2112;2540;2112;0;0;0;0;Thin
+
+File:NotoNaskhArabicUI-Regular.ttf
+2;1
+Noto Naskh Arabic UI
+-1;NotoNaskhArabicUI;0;5;5;2;65535;1068;292;360;0;2396;1360;2396;1360;0;0;0;0;Regular
+
+File:NotoSansArabicUI-Bold.ttf
+2;1
+Noto Sans Arabic UI
+-1;NotoSansArabicUI-Bold;0;8;5;2;65535;1069;293;362;0;2832;1362;2832;1362;0;0;0;0;Bold
+
+File:NotoSansArabic-Black.ttf
+2;1
+Noto Sans Arabic Blk
+-1;NotoSansArabic-Black;0;10;5;2;65535;1374;738;1112;0;3005;2112;3005;2112;0;0;0;0;Black
+
+File:NotoSansTamil-Medium.ttf
+2;1
+Noto Sans Tamil Med
+-1;NotoSansTamil-Medium;0;6;5;2;65535;870;370;240;0;2761;1240;2761;1240;0;0;0;0;Medium
+
+File:NotoNaskhArabicUI-Bold.ttf
+2;1
+Noto Naskh Arabic UI
+-1;NotoNaskhArabicUI-Bold;0;8;5;2;65535;1068;292;360;0;2493;1360;2493;1360;0;0;0;0;Bold
+
+File:NotoSansKannada-Regular.ttf
+2;1
+Noto Sans Kannada
+-1;NotoSansKannada-Regular;0;5;5;2;65535;809;540;349;0;2309;1349;2309;1349;0;0;0;0;Regular
+
+File:NotoSansDevanagari-Bold.ttf
+2;1
+Noto Sans Devanagari
+-1;NotoSansDevanagari-Bold;0;8;5;2;65535;896;408;304;0;2231;1304;2231;1304;0;0;0;0;Bold
+
+File:NotoSans-Black.ttf
+2;1
+Noto Sans Black
+-1;NotoSans-Black;0;10;5;2;65535;1069;293;362;0;3530;1362;3530;1362;0;0;0;0;Black
+
+File:NotoSansMalayalamUI-Light.ttf
+2;1
+Noto Sans Malayalam UI Light
+-1;NotoSansMalayalamUI-Light;0;3;5;2;65535;1069;293;362;0;3023;1362;3023;1362;0;0;0;0;Light
+
+File:NotoSerif-Black.ttf
+2;1
+Noto Serif Black
+-1;NotoSerif-Black;0;10;5;2;65535;1069;293;362;0;3524;1362;3524;1362;0;0;0;0;Black
+
+File:NotoSansBengali-Medium.ttf
+2;1
+Noto Sans Bengali Med
+-1;NotoSansBengali-Medium;0;6;5;2;65535;917;408;325;0;2272;1325;2272;1325;0;0;0;0;Medium
+
+File:NotoSerifThai-Thin.ttf
+2;1
+Noto Serif Thai Thin
+-1;NotoSerifThai-Thin;0;1;5;2;65535;1064;534;598;0;1584;1598;1584;1598;0;0;0;0;Thin
+
+File:NotoSansTamilUI-Thin.ttf
+2;1
+Noto Sans Tamil Thin
+-1;NotoSansTamilUI-Thin;0;1;5;2;65535;1069;293;362;0;2511;1362;2511;1362;0;0;0;0;Thin
+
+File:NotoSansArabic-Bold.ttf
+2;1
+Noto Sans Arabic
+-1;NotoSansArabic-Bold;0;8;5;2;65535;1374;738;1112;0;2784;2112;2784;2112;0;0;0;0;Bold
+
+File:NotoNaskhArabic-Bold.ttf
+2;1
+Noto Naskh Arabic
+-1;NotoNaskhArabic-Bold;0;8;5;2;65535;1068;633;701;0;2493;1701;2493;1701;0;0;0;0;Bold
+
+File:NotoSansBengali-Black.ttf
+2;1
+Noto Sans Bengali Blk
+-1;NotoSansBengali-Black;0;10;5;2;65535;917;408;325;0;2550;1325;2550;1325;0;0;0;0;Black
+
+File:NotoSansTamilUI-Bold.ttf
+2;1
+Noto Sans Tamil UI
+-1;NotoSansTamilUI-Bold;0;8;5;2;65535;1069;293;362;0;3010;1362;3010;1362;0;0;0;0;Bold
+
+File:NotoSansAdlamUnjoined-Regular.ttf
+2;1
+Noto Sans Adlam Unjoined
+-1;NotoSansAdlamUnjoined-Regular;0;5;5;2;65535;935;200;135;0;852;1135;852;1135;0;0;0;0;Regular
+
+File:NotoSansKannada-Medium.ttf
+2;1
+Noto Sans Kannada Medium
+-1;NotoSansKannada-Medium;0;6;5;2;65535;809;540;349;0;2355;1349;2355;1349;0;0;0;0;Medium
+
+File:NotoSansCaucasianAlbanian-Regular.ttf
+2;1
+Noto Sans CaucAlban
+-1;NotoSansCaucasianAlbanian-Regular;0;5;5;2;65535;976;274;250;0;1160;1250;1160;1250;0;0;0;0;Regular
+
+File:NotoSansBhaiksuki-Regular.ttf
+2;1
+Noto Sans Bhaiksuki
+-1;NotoSansBhaiksuki-Regular;0;5;5;2;65535;960;460;420;0;2623;1420;2623;1420;0;0;0;0;Regular
+
+File:NotoSansKharoshthi-Regular.ttf
+2;1
+Noto Sans Kharoshthi
+-1;NotoSansKharoshthi-Regular;0;5;5;2;65535;1069;301;370;0;1068;1370;1068;1370;0;0;0;0;Regular
+
+File:NotoSansMyanmar-Bold.ttf
+2;1
+Noto Sans Myanmar
+-1;NotoSansMyanmar-Bold;0;8;5;2;65535;1324;860;1184;0;3314;2184;3314;2184;0;0;0;0;Bold
+
+File:NotoMusic-Regular.ttf
+2;1
+Noto Music
+-1;NotoMusic-Regular;0;5;5;2;65535;1389;398;787;0;2022;1787;2022;1787;0;0;0;0;Regular
+
+File:NotoSansDisplay-Regular.ttf
+2;1
+Noto Sans Display
+-1;NotoSansDisplay-Regular;0;5;5;2;65535;1069;293;362;0;3366;1362;3366;1362;0;0;0;0;Regular
+
+File:NotoSansThaana-Black.ttf
+2;1
+Noto Sans Thaana Black
+-1;NotoSansThaana-Black;0;10;5;2;65535;1069;424;493;0;2104;1493;2104;1493;0;0;0;0;Black
+
+File:NotoSansTakri-Regular.ttf
+2;1
+Noto Sans Takri
+-1;NotoSansTakri-Regular;0;5;5;2;65535;955;307;262;0;1073;1262;1073;1262;0;0;0;0;Regular
+
+File:NotoSansArabic-Regular.ttf
+2;1
+Noto Sans Arabic
+-1;NotoSansArabic-Regular;0;5;5;2;65535;1374;738;1112;0;2592;2112;2592;2112;0;0;0;0;Regular
+
+File:NotoSansTibetan-Bold.ttf
+2;1
+Noto Sans Tibetan
+-1;NotoSansTibetan-Bold;0;8;5;2;65535;1270;1106;1376;0;2513;2376;2513;2376;0;0;0;0;Bold
+
+File:NotoSansDevanagariUI-Medium.ttf
+2;1
+Noto Sans Devanagari Md
+-1;NotoSansDevanagariUI-Medium;0;6;5;2;65535;1069;293;362;0;2076;1362;2076;1362;0;0;0;0;Medium
+
+File:NotoSansTaiTham-Regular.ttf
+2;1
+Noto Sans Tai Tham
+-1;NotoSansTaiTham;0;5;5;2;65535;1068;488;556;0;2034;1556;2034;1556;0;0;0;0;Regular
+
+File:NotoSansNKo-Regular.ttf
+2;1
+Noto Sans N'Ko
+-1;NotoSansNKo-Regular;0;5;5;2;65535;1069;293;362;0;1127;1362;1127;1362;0;0;0;0;Regular
+
+File:NotoSansCham-Bold.ttf
+2;1
+Noto Sans Cham
+-1;NotoSansCham-Bold;0;8;5;2;65535;1117;351;468;0;2135;1468;2135;1468;0;0;0;0;Bold
+
+File:NotoSerifEthiopic-Black.ttf
+2;1
+Noto Serif Ethiopic Bk
+-1;NotoSerifEthiopic-Black;0;10;5;2;65535;1069;293;362;0;2302;1362;2302;1362;0;0;0;0;Black
+
+File:NotoSansCanadianAboriginal-Black.ttf
+2;1
+Noto Sans CanAborig Bk
+-1;NotoSansCanadianAboriginal-Black;0;10;5;2;65535;1069;293;362;0;1469;1362;1469;1362;0;0;0;0;Black
+
+File:NotoSerifGujarati-Light.ttf
+2;1
+Noto Serif Gujarati Light
+-1;NotoSerifGujarati-Light;0;3;5;2;65535;997;450;447;0;1978;1447;1978;1447;0;0;0;0;Light
+
+File:NotoSerif-BoldItalic.ttf
+2;1
+Noto Serif
+-1;NotoSerif-BoldItalic;2;8;5;2;65535;1069;293;362;0;3494;1362;3494;1362;0;0;0;0;Bold Italic
+
+File:NotoSansDevanagariUI-Thin.ttf
+2;1
+Noto Sans Devanagari Th
+-1;NotoSansDevanagariUI-Thin;0;1;5;2;65535;1069;293;362;0;1802;1362;1802;1362;0;0;0;0;Thin
+
+File:NotoSansLaoUI-Black.ttf
+2;1
+Noto Sans Lao UI Blk
+-1;NotoSansLaoUI-Black;0;10;5;2;65535;1069;293;362;0;1632;1362;1632;1362;0;0;0;0;Black
+
+File:NotoSerifTamil-Regular.ttf
+2;1
+Noto Serif Tamil
+-1;NotoSerifTamil-Regular;0;5;5;2;65535;1069;492;561;0;3289;1561;3289;1561;0;0;0;0;Regular
+
+File:NotoKufiArabic-Regular.ttf
+2;1
+Noto Kufi Arabic
+-1;NotoKufiArabic;0;5;5;2;65535;1281;615;896;0;1752;1896;1752;1896;0;0;0;0;Regular
+
+File:NotoSansGeorgian-Thin.ttf
+2;1
+Noto Sans Georgian Thin
+-1;NotoSansGeorgian-Thin;0;1;5;2;65535;1069;293;362;0;1104;1362;1104;1362;0;0;0;0;Thin
+
+File:NotoKufiArabic-Bold.ttf
+2;1
+Noto Kufi Arabic
+-1;NotoKufiArabic-Bold;0;8;5;2;65535;1281;615;896;0;2070;1896;2070;1896;0;0;0;0;Bold
+
+File:NotoSerifDisplay-Bold.ttf
+2;1
+Noto Serif Display
+-1;NotoSerifDisplay-Bold;0;8;5;2;65535;1069;293;362;0;3521;1362;3521;1362;0;0;0;0;Bold
+
+File:NotoSansUgaritic-Regular.ttf
+2;1
+Noto Sans Ugaritic
+-1;NotoSansUgaritic-Regular;0;5;5;2;65535;743;381;124;0;1185;1124;1185;1124;0;0;0;0;Regular
+
+File:NotoSans-LightItalic.ttf
+2;1
+Noto Sans Light
+-1;NotoSans-LightItalic;2;3;5;2;65535;1069;293;362;0;3282;1362;3282;1362;0;0;0;0;Light Italic
+
+File:NotoSansKaithi-Regular.ttf
+2;1
+Noto Sans Kaithi
+-1;NotoSansKaithi-Regular;0;5;5;2;65535;1077;425;502;0;2742;1502;2742;1502;0;0;0;0;Regular
+
+File:NotoSansCanadianAboriginal-Bold.ttf
+2;1
+Noto Sans CanAborig
+-1;NotoSansCanadianAboriginal-Bold;0;8;5;2;65535;1069;293;362;0;1425;1362;1425;1362;0;0;0;0;Bold
+
+File:NotoNaskhArabic-Regular.ttf
+2;1
+Noto Naskh Arabic
+-1;NotoNaskhArabic;0;5;5;2;65535;1068;633;701;0;2396;1701;2396;1701;0;0;0;0;Regular
+
+FontCacheDirectory:1553373703:/usr/share/fonts/gsfonts
+File:Z003-MediumItalic.otf
+2;1
+Z003
+-1;Z003-MediumItalic;2;6;5;2;65535;947;300;247;0;1293;1247;1293;1247;0;0;0;65540;Medium Italic
+
+File:URWGothic-Book.otf
+2;1
+URW Gothic
+-1;URWGothic-Book;0;5;5;2;65535;1019;260;279;0;1295;1279;1295;1279;0;0;0;65540;Book
+
+File:URWBookman-LightItalic.otf
+2;1
+URW Bookman
+-1;URWBookman-LightItalic;2;3;5;2;65535;1003;281;284;0;1497;1284;1497;1284;0;0;0;65540;Light Italic
+
+File:URWBookman-Light.otf
+2;1
+URW Bookman
+-1;URWBookman-Light;0;3;5;2;65535;1034;290;324;0;1454;1324;1454;1324;0;0;0;65540;Light
+
+File:URWGothic-DemiOblique.otf
+2;1
+URW Gothic
+-1;URWGothic-DemiOblique;1;7;5;2;65535;1099;292;391;0;1425;1391;1425;1391;0;0;0;65540;Demi Oblique
+
+File:URWBookman-DemiItalic.otf
+2;1
+URW Bookman
+-1;URWBookman-DemiItalic;2;7;5;2;65535;1074;335;409;0;1564;1409;1564;1409;0;0;0;65540;Demi Italic
+
+File:URWBookman-Demi.otf
+2;1
+URW Bookman
+-1;URWBookman-Demi;0;7;5;2;65535;1093;306;399;0;1540;1399;1540;1399;0;0;0;65540;Demi
+
+File:P052-BoldItalic.otf
+2;1
+P052
+-1;P052-BoldItalic;2;8;5;2;65535;1107;314;421;0;1304;1421;1304;1421;0;0;0;65540;Bold Italic
+
+File:NimbusSansNarrow-Oblique.otf
+2;1
+Nimbus Sans Narrow
+-1;NimbusSansNarrow-Oblique;1;5;4;2;65535;1056;286;342;0;1144;1342;1144;1342;0;0;0;65540;Oblique
+
+File:URWGothic-Demi.otf
+2;1
+URW Gothic
+-1;URWGothic-Demi;0;7;5;2;65535;1083;279;362;0;1392;1362;1392;1362;0;0;0;65540;Demi
+
+File:NimbusSansNarrow-BoldOblique.otf
+2;1
+Nimbus Sans Narrow
+-1;NimbusSansNarrow-BoldOblique;1;8;4;2;65535;1088;298;386;0;1144;1386;1144;1386;0;0;0;65540;Bold Oblique
+
+File:NimbusSansNarrow-Bold.otf
+2;1
+Nimbus Sans Narrow
+-1;NimbusSansNarrow-Bold;0;8;4;2;65535;1094;307;401;0;1144;1401;1144;1401;0;0;0;65540;Bold
+
+File:URWGothic-BookOblique.otf
+2;1
+URW Gothic
+-1;URWGothic-BookOblique;1;5;5;2;65535;1023;260;283;0;1419;1283;1419;1283;0;0;0;65540;Book Oblique
+
+File:NimbusSans-Regular.otf
+2;1
+Nimbus Sans
+-1;NimbusSans-Regular;0;5;5;2;65535;1075;299;374;0;1242;1374;1242;1374;0;0;0;65540;Regular
+
+File:P052-Bold.otf
+2;1
+P052
+-1;P052-Bold;0;8;5;2;65535;1120;301;421;0;1267;1421;1267;1421;0;0;0;65540;Bold
+
+File:NimbusRoman-Regular.otf
+2;1
+Nimbus Roman
+-1;NimbusRoman-Regular;0;5;5;2;65535;1053;281;334;0;1168;1334;1168;1334;0;0;0;65540;Regular
+
+File:NimbusRoman-Italic.otf
+2;1
+Nimbus Roman
+-1;NimbusRoman-Italic;2;5;5;2;65535;951;270;221;0;1254;1221;1254;1221;0;0;0;65540;Italic
+
+File:StandardSymbolsPS.otf
+2;1
+Standard Symbols PS
+-1;StandardSymbolsPS;0;5;5;2;65535;750;250;150;0;1270;1000;1270;1000;0;0;0;65540;Regular
+
+File:NimbusSans-Italic.otf
+2;1
+Nimbus Sans
+-1;NimbusSans-Italic;2;5;5;2;65535;1070;284;354;0;1298;1354;1298;1354;0;0;0;65540;Italic
+
+File:P052-Roman.otf
+2;1
+P052
+-1;P052-Roman;0;5;5;2;65535;1109;283;392;0;1246;1392;1246;1392;0;0;0;65540;Roman
+
+File:NimbusMonoPS-Regular.otf
+2;1
+Nimbus Mono PS
+-1;NimbusMonoPS-Regular;0;5;5;1;65535;933;317;250;0;922;1250;922;1250;0;0;0;65540;Regular
+
+File:NimbusRoman-BoldItalic.otf
+2;1
+Nimbus Roman
+-1;NimbusRoman-BoldItalic;2;8;5;2;65535;972;324;296;0;1354;1296;1354;1296;0;0;0;65540;Bold Italic
+
+File:NimbusMonoPS-Italic.otf
+2;1
+Nimbus Mono PS
+-1;NimbusMonoPS-Italic;2;5;5;1;65535;933;317;250;0;953;1250;953;1250;0;0;0;65540;Italic
+
+File:NimbusSans-Bold.otf
+2;1
+Nimbus Sans
+-1;NimbusSans-Bold;0;8;5;2;65535;1070;307;377;0;1257;1377;1257;1377;0;0;0;65540;Bold
+
+File:NimbusSansNarrow-Regular.otf
+2;1
+Nimbus Sans Narrow
+-1;NimbusSansNarrow-Regular;0;5;4;2;65535;1072;282;354;0;1144;1354;1144;1354;0;0;0;65540;Regular
+
+File:NimbusSans-BoldItalic.otf
+2;1
+Nimbus Sans
+-1;NimbusSans-BoldItalic;2;8;5;2;65535;1073;309;382;0;1340;1382;1340;1382;0;0;0;65540;Bold Italic
+
+File:NimbusMonoPS-BoldItalic.otf
+2;1
+Nimbus Mono PS
+-1;NimbusMonoPS-BoldItalic;2;8;5;1;65535;997;393;390;0;1005;1390;1005;1390;0;0;0;65540;Bold Italic
+
+File:NimbusMonoPS-Bold.otf
+2;1
+Nimbus Mono PS
+-1;NimbusMonoPS-Bold;0;8;5;1;65535;1007;393;400;0;922;1400;922;1400;0;0;0;65540;Bold
+
+File:D050000L.otf
+2;1
+D050000L
+-1;D050000L;0;5;5;2;65535;750;250;150;0;982;1000;982;1000;0;0;0;65536;Regular
+
+File:C059-Italic.otf
+2;1
+C059
+-1;C059-Italic;2;5;5;2;65535;1090;329;419;0;1366;1419;1366;1419;0;0;0;65540;Italic
+
+File:P052-Italic.otf
+2;1
+P052
+-1;P052-Italic;2;5;5;2;65535;1098;305;403;0;1272;1403;1272;1403;0;0;0;65540;Italic
+
+File:NimbusRoman-Bold.otf
+2;1
+Nimbus Roman
+-1;NimbusRoman-Bold;0;8;5;2;65535;1044;341;385;0;1247;1385;1247;1385;0;0;0;65540;Bold
+
+File:C059-Bold.otf
+2;1
+C059
+-1;C059-Bold;0;8;5;2;65535;1170;372;542;0;1396;1542;1396;1542;0;0;0;65540;Bold
+
+File:C059-BdIta.otf
+2;1
+C059
+-1;C059-BdIta;2;8;5;2;65535;1140;371;511;0;1447;1511;1447;1511;0;0;0;65540;Bold Italic
+
+File:C059-Roman.otf
+2;1
+C059
+-1;C059-Roman;0;5;5;2;65535;1116;302;418;0;1335;1418;1335;1418;0;0;0;65540;Roman
+
+FontCacheDirectory:1546186373:/usr/share/fonts/cantarell
+File:Cantarell-Thin.otf
+2;1
+Cantarell Thin
+-1;Cantarell-Thin;0;1;5;2;65535;983;217;200;0;1413;1200;1413;1200;0;0;0;65544;Thin
+
+File:Cantarell-Regular.otf
+2;1
+Cantarell
+-1;Cantarell-Regular;0;5;5;2;65535;983;217;200;0;1592;1200;1592;1200;0;0;0;65544;Regular
+
+File:Cantarell-Light.otf
+2;1
+Cantarell Light
+-1;Cantarell-Light;0;3;5;2;65535;983;217;200;0;1457;1200;1457;1200;0;0;0;65544;Light
+
+File:Cantarell-ExtraBold.otf
+2;1
+Cantarell Extra Bold
+-1;Cantarell-ExtraBold;0;9;5;2;65535;983;217;200;0;1794;1200;1794;1200;0;0;0;65544;Extra Bold
+
+File:Cantarell-Bold.otf
+2;1
+Cantarell
+-1;Cantarell-Bold;0;8;5;2;65535;983;217;200;0;1695;1200;1695;1200;0;0;0;65544;Bold
+
+FontCacheDirectory:1553630592:/usr/share/fonts/adobe-source-code-pro
+File:SourceCodePro-SemiboldIt.otf
+2;1
+Source Code Pro Semibold
+-1;SourceCodePro-SemiboldIt;2;7;5;1;65535;984;273;257;0;1103;1257;1103;1257;0;0;0;65536;Semibold Italic
+
+File:SourceCodePro-MediumIt.otf
+2;1
+Source Code Pro Medium
+-1;SourceCodePro-MediumIt;2;6;5;1;65535;984;273;257;0;1100;1257;1100;1257;0;0;0;65536;Medium Italic
+
+File:SourceCodePro-Medium.otf
+2;1
+Source Code Pro Medium
+-1;SourceCodePro-Medium;0;6;5;1;65535;984;273;257;0;994;1257;994;1257;0;0;0;65536;Medium
+
+File:SourceCodePro-LightIt.otf
+2;1
+Source Code Pro Light
+-1;SourceCodePro-LightIt;2;3;5;1;65535;984;273;257;0;1088;1257;1088;1257;0;0;0;65536;Light Italic
+
+File:SourceCodePro-Light.otf
+2;1
+Source Code Pro Light
+-1;SourceCodePro-Light;0;3;5;1;65535;984;273;257;0;966;1257;966;1257;0;0;0;65536;Light
+
+File:SourceCodePro-It.otf
+2;1
+Source Code Pro
+-1;SourceCodePro-It;2;5;5;1;65535;984;273;257;0;1096;1257;1096;1257;0;0;0;65536;Italic
+
+File:SourceCodePro-ExtraLightIt.otf
+2;1
+Source Code Pro ExtraLight
+-1;SourceCodePro-ExtraLightIt;2;2;5;1;65535;984;273;257;0;1085;1257;1085;1257;0;0;0;65536;ExtraLight Italic
+
+File:SourceCodePro-ExtraLight.otf
+2;1
+Source Code Pro ExtraLight
+-1;SourceCodePro-ExtraLight;0;2;5;1;65535;984;273;257;0;960;1257;960;1257;0;0;0;65536;ExtraLight
+
+File:SourceCodePro-BoldIt.otf
+2;1
+Source Code Pro
+-1;SourceCodePro-BoldIt;2;8;5;1;65535;984;273;257;0;1110;1257;1110;1257;0;0;0;65536;Bold Italic
+
+File:SourceCodePro-Bold.otf
+2;1
+Source Code Pro
+-1;SourceCodePro-Bold;0;8;5;1;65535;984;273;257;0;1016;1257;1016;1257;0;0;0;65536;Bold
+
+File:SourceCodePro-Regular.otf
+2;1
+Source Code Pro
+-1;SourceCodePro-Regular;0;5;5;1;65535;984;273;257;0;986;1257;986;1257;0;0;0;65536;Regular
+
+File:SourceCodePro-BlackIt.otf
+2;1
+Source Code Pro Black
+-1;SourceCodePro-BlackIt;2;10;5;1;65535;984;273;257;0;1116;1257;1116;1257;0;0;0;65536;Black Italic
+
+File:SourceCodePro-Semibold.otf
+2;1
+Source Code Pro Semibold
+-1;SourceCodePro-Semibold;0;7;5;1;65535;984;273;257;0;1000;1257;1000;1257;0;0;0;65536;Semibold
+
+File:SourceCodePro-Black.otf
+2;1
+Source Code Pro Black
+-1;SourceCodePro-Black;0;10;5;1;65535;984;273;257;0;1028;1257;1028;1257;0;0;0;65536;Black
+
+FontCacheDirectory:1546186407:/usr/share/fonts/Type1
+File:l049036t.pfa
+1;1
+Luxi Serif
+-1;LuxiSerif-BoldOblique;1;8;0;2;65535;1012;211;223;0;1139;723;1139;723;0;0;0;l049036t.afm;Bold Oblique
+
+File:l049016t.pfa
+1;1
+Luxi Serif
+-1;LuxiSerif-Bold;0;8;0;2;65535;1012;211;223;0;994;723;994;723;0;0;0;l049016t.afm;Bold
+
+File:l048016t.pfa
+1;1
+Luxi Sans
+-1;LuxiSans-Bold;0;8;0;2;65535;1012;211;223;0;989;723;989;723;0;0;0;l048016t.afm;Bold
+
+File:l048013t.pfa
+1;1
+Luxi Sans
+-1;LuxiSans;0;5;0;2;65535;993;211;204;0;988;723;988;723;0;0;0;l048013t.afm;Regular
+
+File:l047036t.pfa
+1;1
+Luxi Mono
+-1;LuxiMono-BoldOblique;1;8;0;1;65535;1012;211;223;0;755;723;755;723;0;0;0;l047036t.afm;Bold Oblique
+
+File:l047033t.pfa
+1;1
+Luxi Mono
+-1;LuxiMono-Oblique;1;5;0;1;65535;993;211;204;0;757;723;757;723;0;0;0;l047033t.afm;Oblique
+
+File:l049013t.pfa
+1;1
+Luxi Serif
+-1;LuxiSerif;0;5;0;2;65535;993;211;204;0;984;723;984;723;0;0;0;l049013t.afm;Regular
+
+File:l047016t.pfa
+1;1
+Luxi Mono
+-1;LuxiMono-Bold;0;8;0;1;65535;1012;211;223;0;714;723;714;723;0;0;0;l047016t.afm;Bold
+
+File:l047013t.pfa
+1;1
+Luxi Mono
+-1;LuxiMono;0;5;0;1;65535;993;211;204;0;600;723;600;723;0;0;0;l047013t.afm;Regular
+
+File:cour.pfa
+1;1
+Courier
+-1;Courier;0;5;0;1;91;841;288;129;0;684;563;684;563;0;0;0;cour.afm;Regular
+
+File:c0648bt_.pfb
+1;1
+Bitstream Charter
+-1;CharterBT-Roman;0;5;0;2;91;963;237;200;0;1194;672;1194;672;0;0;0;c0648bt_.afm;Regular
+
+File:c0632bt_.pfb
+1;1
+Bitstream Charter
+-1;CharterBT-Bold;0;8;0;2;91;963;237;200;0;1263;672;1263;672;0;0;0;c0632bt_.afm;Bold
+
+File:courbi.pfa
+1;1
+Courier
+-1;Courier-BoldItalic;2;8;0;1;91;839;288;127;0;860;583;860;583;0;0;0;courbi.afm;Bold Italic
+
+File:courb.pfa
+1;1
+Courier
+-1;Courier-Bold;0;8;0;1;91;847;288;135;0;746;583;746;583;0;0;0;courb.afm;Bold
+
+File:c0611bt_.pfb
+1;1
+Courier 10 Pitch
+-1;Courier10PitchBT-BoldItalic;2;8;0;1;91;875;310;185;0;665;579;665;579;0;0;0;c0611bt_.afm;Bold Italic
+
+File:c0633bt_.pfb
+1;1
+Bitstream Charter
+-1;CharterBT-BoldItalic;2;8;0;2;91;972;237;209;0;1243;672;1243;672;0;0;0;c0633bt_.afm;Bold Italic
+
+File:c0419bt_.pfb
+1;1
+Courier 10 Pitch
+-1;Courier10PitchBT-Roman;0;5;0;1;91;858;299;157;0;664;579;664;579;0;0;0;c0419bt_.afm;Regular
+
+File:l049033t.pfa
+1;1
+Luxi Serif
+-1;LuxiSerif-Oblique;1;5;0;2;65535;993;211;204;0;1089;723;1089;723;0;0;0;l049033t.afm;Oblique
+
+File:couri.pfa
+1;1
+Courier
+-1;Courier-Italic;2;5;0;1;91;841;288;129;0;800;563;800;563;0;0;0;couri.afm;Italic
+
+File:UTI_____.pfa
+1;1
+Utopia
+-1;Utopia-Italic;2;5;0;2;91;890;250;140;0;1205;692;1205;692;0;0;0;UTI_____.afm;Italic
+
+File:c0649bt_.pfb
+1;1
+Bitstream Charter
+-1;CharterBT-Italic;2;5;0;2;91;980;237;217;0;1175;672;1175;672;0;0;0;c0649bt_.afm;Italic
+
+File:l048036t.pfa
+1;1
+Luxi Sans
+-1;LuxiSans-BoldOblique;1;8;0;2;65535;1012;211;223;0;1098;723;1098;723;0;0;0;l048036t.afm;Bold Oblique
+
+File:l048033t.pfa
+1;1
+Luxi Sans
+-1;LuxiSans-Oblique;1;5;0;2;65535;993;211;204;0;1100;723;1100;723;0;0;0;l048033t.afm;Oblique
+
+File:UTB_____.pfa
+1;1
+Utopia
+-1;Utopia-Bold;0;8;0;2;91;916;250;166;0;1249;692;1249;692;0;0;0;UTB_____.afm;Bold
+
+File:UTRG____.pfa
+1;1
+Utopia
+-1;Utopia-Regular;0;5;0;2;91;890;250;140;0;1158;692;1158;692;0;0;0;UTRG____.afm;Regular
+
+File:c0582bt_.pfb
+1;1
+Courier 10 Pitch
+-1;Courier10PitchBT-Italic;2;5;0;1;91;858;299;157;0;664;579;664;579;0;0;0;c0582bt_.afm;Italic
+
+File:c0583bt_.pfb
+1;1
+Courier 10 Pitch
+-1;Courier10PitchBT-Bold;0;8;0;1;91;875;310;185;0;665;579;665;579;0;0;0;c0583bt_.afm;Bold
+
+File:UTBI____.pfa
+1;1
+Utopia
+-1;Utopia-BoldItalic;2;8;0;2;91;916;250;166;0;1297;692;1297;692;0;0;0;UTBI____.afm;Bold Italic
+
+FontCacheDirectory:1554563309:/usr/share/fonts/TTF
+File:icons.ttf
+2;1
+Icons
+-1;Icons;0;5;5;2;65535;857;162;19;0;1071;1019;1071;1019;0;0;0;4;Regular
+
+File:fa-solid-900.ttf
+2;1
+Font Awesome 5 Free Solid
+-1;FontAwesome5Free-Solid;0;10;5;2;65535;898;164;62;0;1330;1062;1330;1062;0;0;0;0;Solid
+
+File:fa-regular-400.ttf
+2;1
+Font Awesome 5 Free Regular
+-1;FontAwesome5Free-Regular;0;5;5;2;65535;898;164;62;0;1302;1062;1302;1062;0;0;0;0;Regular
+
+File:fa-brands-400.ttf
+2;1
+Font Awesome 5 Brands Regular
+-1;FontAwesome5Brands-Regular;0;5;5;2;65535;898;164;62;0;1294;1062;1294;1062;0;0;0;0;Regular
+
+File:RobotoCondensed-Regular.ttf
+2;1
+Roboto Condensed
+-1;RobotoCondensed-Regular;0;5;5;2;65535;1047;270;317;0;2486;1317;2486;1317;0;0;0;0;Regular
+
+File:RobotoCondensed-LightItalic.ttf
+2;1
+Roboto Condensed
+-1;RobotoCondensed-LightItalic;2;3;5;2;65535;1047;270;317;0;2428;1317;2428;1317;0;0;0;0;Light Italic
+
+File:RobotoCondensed-Light.ttf
+2;1
+Roboto Condensed
+-1;RobotoCondensed-Light;0;3;5;2;65535;1047;270;317;0;2466;1317;2466;1317;0;0;0;0;Light
+
+File:RobotoCondensed-BoldItalic.ttf
+2;1
+Roboto Condensed
+-1;RobotoCondensed-BoldItalic;2;8;5;2;65535;1047;270;317;0;2513;1317;2513;1317;0;0;0;0;Bold Italic
+
+File:Roboto-Thin.ttf
+2;1
+Roboto
+-1;Roboto-Thin;0;3;5;2;65535;1047;270;317;0;2851;1317;2851;1317;0;0;0;0;Thin
+
+File:Roboto-Regular.ttf
+2;1
+Roboto
+-1;Roboto-Regular;0;5;5;2;65535;1047;270;317;0;2935;1317;2935;1317;0;0;0;0;Regular
+
+File:Roboto-MediumItalic.ttf
+2;1
+Roboto
+-1;Roboto-MediumItalic;2;6;5;2;65535;1047;270;317;0;2932;1317;2932;1317;0;0;0;0;Medium Italic
+
+File:Roboto-Medium.ttf
+2;1
+Roboto
+-1;Roboto-Medium;0;6;5;2;65535;1047;270;317;0;2957;1317;2957;1317;0;0;0;0;Medium
+
+File:Roboto-LightItalic.ttf
+2;1
+Roboto
+-1;Roboto-LightItalic;2;3;5;2;65535;1047;270;317;0;2863;1317;2863;1317;0;0;0;0;Light Italic
+
+File:Roboto-Light.ttf
+2;1
+Roboto
+-1;Roboto-Light;0;3;5;2;65535;1047;270;317;0;2888;1317;2888;1317;0;0;0;0;Light
+
+File:Roboto-Italic.ttf
+2;1
+Roboto
+-1;Roboto-Italic;2;5;5;2;65535;1047;270;317;0;2908;1317;2908;1317;0;0;0;0;Italic
+
+File:Roboto-BoldItalic.ttf
+2;1
+Roboto
+-1;Roboto-BoldItalic;2;8;5;2;65535;1047;270;317;0;2948;1317;2948;1317;0;0;0;0;Bold Italic
+
+File:Roboto-Bold.ttf
+2;1
+Roboto
+-1;Roboto-Bold;0;8;5;2;65535;1047;270;317;0;2972;1317;2972;1317;0;0;0;0;Bold
+
+File:Roboto-Black.ttf
+2;1
+Roboto
+-1;Roboto-Black;0;10;5;2;65535;1047;270;317;0;2986;1317;2986;1317;0;0;0;0;Black
+
+File:MaterialIcons-Regular.ttf
+2;1
+Material Icons
+-1;MaterialIcons-Regular;0;5;5;1;65535;1000;3;150;0;1000;1003;1000;1003;0;0;0;0;Regular
+
+File:Iosevka Medium Nerd Font Complete.ttf
+2;1
+Iosevka Nerd Font
+-1;IosevkaNerdFontComplete-Medium;0;6;5;2;65535;977;272;249;0;2293;1249;2293;1249;0;0;0;0;Medium
+
+File:Hack-Regular.ttf
+2;1
+Hack
+-1;Hack-Regular;0;5;5;1;65535;928;235;163;0;1126;1163;1126;1163;0;0;0;0;Regular
+
+File:font-logos.ttf
+2;1
+font-logos
+-1;font-logos;0;5;5;2;65535;878;134;12;0;1014;1012;1014;1012;0;0;0;0;logos
+
+File:Hack-Italic.ttf
+2;1
+Hack
+-1;Hack-Italic;2;5;5;1;65535;928;235;163;0;1475;1163;1475;1163;0;0;0;0;Italic
+
+File:RobotoCondensed-Italic.ttf
+2;1
+Roboto Condensed
+-1;RobotoCondensed-Italic;2;5;5;2;65535;1047;270;317;0;2473;1317;2473;1317;0;0;0;0;Italic
+
+File:FiraCode-Regular.ttf
+2;1
+Fira Code
+-1;FiraCode-Regular;0;5;5;1;65535;935;265;200;0;2969;1200;2969;1200;0;0;0;0;Regular
+
+File:FiraCode-Bold.ttf
+2;1
+Fira Code
+-1;FiraCode-Bold;0;8;5;1;65535;935;265;200;0;2993;1200;2993;1200;0;0;0;0;Bold
+
+File:Fantom-SansMono-Regular.ttf
+2;1
+Fantasque Sans Mono
+-1;FantasqueSansMono-Regular;0;5;5;1;65535;854;194;48;0;636;1048;636;1048;0;0;0;8;Regular
+
+File:Fantom-SansMono-BoldItalic.ttf
+2;1
+Fantasque Sans Mono
+-1;FantasqueSansMono-BoldItalic;2;8;5;1;65535;854;194;48;0;890;1048;890;1048;0;0;0;8;Bold Italic
+
+File:Fantom-SansMono-Bold.ttf
+2;1
+Fantasque Sans Mono
+-1;FantasqueSansMono-Bold;0;8;5;1;65535;854;194;48;0;652;1048;652;1048;0;0;0;8;Bold
+
+File:Fantom-NerdFont-UbuntuMono.ttf
+2;1
+UbuntuMono Nerd Font
+-1;UbuntuMonoNerdFontC-Regular;0;5;5;2;65535;830;170;150;0;2503;1000;2503;1000;0;0;0;0;Regular
+
+File:Fantom-NerdFont-UbuntuBook.ttf
+2;1
+Ubuntu Nerd Font
+-1;UbuntuNerdFontC-;0;5;5;2;65535;932;189;121;0;2155;1121;2155;1121;0;0;0;0;Book
+
+File:DroidSerif-BoldItalic.ttf
+2;1
+Droid Serif
+-1;DroidSerif-BoldItalic;2;8;5;2;65535;928;235;163;0;1829;1163;1829;1163;0;0;0;8;Bold Italic
+
+File:DroidSansThai.ttf
+2;1
+Droid Sans Thai
+-1;DroidSansThai;0;5;5;2;65535;1116;255;371;0;1443;1371;1443;1371;0;0;0;8;Regular
+
+File:DroidSerif-Regular.ttf
+2;1
+Droid Serif
+-1;DroidSerif;0;5;5;2;65535;928;235;163;0;1804;1163;1804;1163;0;0;0;8;Regular
+
+File:DroidSansTamil-Regular.ttf
+2;1
+Droid Sans Tamil
+-1;DroidSansTamil;0;5;5;2;65535;870;370;240;0;2617;1240;2617;1240;0;0;0;8;Regular
+
+File:Fantom-SansMono-Italic.ttf
+2;1
+Fantasque Sans Mono
+-1;FantasqueSansMono-Italic;2;5;5;1;65535;854;194;48;0;689;1048;689;1048;0;0;0;8;Italic
+
+File:Fantom-icomoon.ttf
+2;1
+icomoon
+-1;icomoon;0;5;5;2;65535;937;62;-1;0;1374;999;1374;999;0;0;0;0;Regular
+
+File:DroidSansMono.ttf
+2;1
+Droid Sans Mono
+-1;DroidSansMono;0;5;5;1;65535;928;235;163;0;794;1163;794;1163;0;0;0;8;Regular
+
+File:DroidSansHebrew-Bold.ttf
+2;1
+Droid Sans Hebrew
+-1;DroidSansHebrew-Bold;0;7;5;2;65535;979;203;182;0;1086;1182;1086;1182;0;0;0;8;Bold
+
+File:DroidSansGeorgian.ttf
+2;1
+Droid Sans Georgian
+-1;DroidSansGeorgian;0;5;5;2;65535;912;243;155;0;1059;1155;1059;1155;0;0;0;8;Regular
+
+File:DroidSansTamil-Bold.ttf
+2;1
+Droid Sans Tamil
+-1;DroidSansTamil-Bold;0;8;5;2;65535;870;370;240;0;3001;1240;3001;1240;0;0;0;8;Bold
+
+File:DroidSansFallback.ttf
+2;1
+Droid Sans Fallback
+-1;DroidSansFallback;0;5;5;2;65535;1042;265;307;1;1425;1307;1425;1307;0;0;0;8;Regular
+
+File:RobotoCondensed-Bold.ttf
+2;1
+Roboto Condensed
+-1;RobotoCondensed-Bold;0;8;5;2;65535;1047;270;317;0;2523;1317;2523;1317;0;0;0;0;Bold
+
+File:DroidSansEthiopic-Regular.ttf
+2;1
+Droid Sans Ethiopic
+-1;DroidSansEthiopic;0;5;5;2;65535;963;240;203;0;1671;1203;1671;1203;0;0;0;8;Regular
+
+File:DroidSansEthiopic-Bold.ttf
+2;1
+Droid Sans Ethiopic
+-1;DroidSansEthiopic-Bold;0;8;5;2;65535;963;240;203;0;1816;1203;1816;1203;0;0;0;8;Bold
+
+File:DroidSerif-Italic.ttf
+2;1
+Droid Serif
+-1;DroidSerif-Italic;2;5;5;2;65535;928;235;163;0;1736;1163;1736;1163;0;0;0;8;Italic
+
+File:DroidSansDevanagari-Regular.ttf
+2;1
+Droid Sans Devanagari
+-1;DroidSansDevanagari;0;5;5;2;65535;896;408;304;0;1893;1304;1893;1304;0;0;0;8;Regular
+
+File:DroidSansArabic.ttf
+2;1
+Droid Sans Arabic
+-1;DroidSansArabic;0;5;5;2;65535;1030;387;417;0;1392;1417;1392;1417;0;0;0;8;Regular
+
+File:Fantom-NerdFont-UbuntuMono-Bold.ttf
+2;1
+UbuntuMono Nerd Font Mono
+-1;UbuntuMonoNerdFontCM-Bold;0;8;5;1;65535;830;170;150;0;954;1000;954;1000;0;0;0;0;Bold
+
+File:DroidSans.ttf
+2;1
+Droid Sans
+-1;DroidSans;0;5;5;2;65535;928;235;163;0;1726;1163;1726;1163;0;0;0;8;Regular
+
+File:DroidNaskh-Regular.ttf
+2;1
+Droid Arabic Naskh
+-1;DroidArabicNaskh;0;5;5;2;65535;1208;701;909;0;2205;1909;2205;1909;0;0;0;8;Regular
+
+File:DroidKufi-Bold.ttf
+2;1
+Droid Arabic Kufi
+-1;DroidArabicKufi-Bold;0;8;5;2;65535;1281;615;896;0;2070;1896;2070;1896;0;0;0;8;Bold
+
+File:Hack-Bold.ttf
+2;1
+Hack
+-1;Hack-Bold;0;8;5;1;65535;928;235;163;0;1434;1163;1434;1163;0;0;0;0;Bold
+
+File:FiraCode-Retina.ttf
+2;1
+Fira Code Retina
+-1;FiraCode-Retina;0;6;5;1;65535;935;265;200;0;2973;1200;2973;1200;0;0;0;0;Retina
+
+File:DejaVuSerif.ttf
+2;1
+DejaVu Serif
+-1;DejaVuSerif;0;5;5;2;65535;928;235;163;0;2874;1163;2874;1163;0;0;0;0;Book
+
+File:Roboto-ThinItalic.ttf
+2;1
+Roboto
+-1;Roboto-ThinItalic;2;3;5;2;65535;1047;270;317;0;2820;1317;2820;1317;0;0;0;0;Thin Italic
+
+File:DejaVuSerifCondensed-Bold.ttf
+2;1
+DejaVu Serif Condensed
+-1;DejaVuSerifCondensed-Bold;0;8;4;2;65535;938;235;173;0;2420;1173;2420;1173;0;0;0;0;Condensed Bold
+
+File:DejaVuSerif-Italic.ttf
+2;1
+DejaVu Serif
+-1;DejaVuSerif-Italic;2;5;5;2;65535;928;235;163;0;2483;1163;2483;1163;0;0;0;0;Italic
+
+File:DejaVuSansMono-BoldOblique.ttf
+2;1
+DejaVu Sans Mono
+-1;DejaVuSansMono-BoldOblique;1;8;5;1;65535;928;235;163;0;1232;1163;1232;1163;0;0;0;0;Bold Oblique
+
+File:DroidSansArmenian.ttf
+2;1
+Droid Sans Armenian
+-1;DroidSansArmenian;0;5;5;2;65535;770;240;10;0;1406;1010;1406;1010;0;0;0;8;Regular
+
+File:Roboto-BlackItalic.ttf
+2;1
+Roboto
+-1;Roboto-BlackItalic;2;10;5;2;65535;1047;270;317;0;2963;1317;2963;1317;0;0;0;0;Black Italic
+
+File:DejaVuSerifCondensed-BoldItalic.ttf
+2;1
+DejaVu Serif Condensed
+-1;DejaVuSerifCondensed-BoldItalic;2;8;4;2;65535;938;235;173;0;2547;1173;2547;1173;0;0;0;0;Condensed Bold Italic
+
+File:DroidSerif-Bold.ttf
+2;1
+Droid Serif
+-1;DroidSerif-Bold;0;8;5;2;65535;928;235;163;0;1865;1163;1865;1163;0;0;0;8;Bold
+
+File:DejaVuSansMono-Oblique.ttf
+2;1
+DejaVu Sans Mono
+-1;DejaVuSansMono-Oblique;1;5;5;1;65535;928;235;163;0;1148;1163;1148;1163;0;0;0;0;Oblique
+
+File:DroidSansHebrew-Regular.ttf
+2;1
+Droid Sans Hebrew
+-1;DroidSansHebrew;0;5;5;2;65535;979;203;182;0;1052;1182;1052;1182;0;0;0;8;Regular
+
+File:DejaVuSerifCondensed-Italic.ttf
+2;1
+DejaVu Serif Condensed
+-1;DejaVuSerifCondensed-Italic;2;5;4;2;65535;928;235;163;0;2235;1163;2235;1163;0;0;0;0;Condensed Italic
+
+File:DejaVuSansMono-Bold.ttf
+2;1
+DejaVu Sans Mono
+-1;DejaVuSansMono-Bold;0;8;5;1;65535;928;235;163;0;1176;1163;1176;1163;0;0;0;0;Bold
+
+File:DroidNaskh-Regular-SystemUI.ttf
+2;1
+Droid Naskh Shift Alt
+-1;DroidNaskhShiftAlt;0;5;5;2;65535;1047;270;317;0;2205;1317;2205;1317;0;0;0;8;Regular
+
+File:DroidNaskh-Bold.ttf
+2;1
+Droid Arabic Naskh
+-1;DroidArabicNaskh-Bold;0;8;5;2;65535;1208;701;909;0;2256;1909;2256;1909;0;0;0;8;Bold
+
+File:DejaVuSansCondensed-Oblique.ttf
+2;1
+DejaVu Sans Condensed
+-1;DejaVuSansCondensed-Oblique;1;5;4;2;65535;928;235;163;0;2407;1163;2407;1163;0;0;0;0;Condensed Oblique
+
+File:DejaVuSansCondensed-BoldOblique.ttf
+2;1
+DejaVu Sans Condensed
+-1;DejaVuSansCondensed-BoldOblique;1;8;4;2;65535;928;235;163;0;2758;1163;2758;1163;0;0;0;0;Condensed Bold Oblique
+
+File:DejaVuSansCondensed.ttf
+2;1
+DejaVu Sans Condensed
+-1;DejaVuSansCondensed;0;5;4;2;65535;928;235;163;1;2532;1163;2532;1163;0;0;0;0;Condensed
+
+File:DejaVuSerif-BoldItalic.ttf
+2;1
+DejaVu Serif
+-1;DejaVuSerif-BoldItalic;2;8;5;2;65535;938;235;173;0;2829;1173;2829;1173;0;0;0;0;Bold Italic
+
+File:DejaVuSansCondensed-Bold.ttf
+2;1
+DejaVu Sans Condensed
+-1;DejaVuSansCondensed-Bold;0;8;4;2;65535;928;235;163;0;2739;1163;2739;1163;0;0;0;0;Condensed Bold
+
+File:DejaVuSerif-Bold.ttf
+2;1
+DejaVu Serif
+-1;DejaVuSerif-Bold;0;8;5;2;65535;938;235;173;0;2689;1173;2689;1173;0;0;0;0;Bold
+
+File:DroidSansJapanese.ttf
+2;1
+Droid Sans Japanese
+-1;DroidSansJapanese;0;5;5;2;65535;1042;265;307;0;996;1307;996;1307;0;0;0;8;Regular
+
+File:FiraCode-Light.ttf
+2;1
+Fira Code Light
+-1;FiraCode-Light;0;3;5;1;65535;935;265;200;0;2962;1200;2962;1200;0;0;0;0;Light
+
+File:DroidSans-Bold.ttf
+2;1
+Droid Sans
+-1;DroidSans-Bold;0;8;5;2;65535;928;235;163;0;1877;1163;1877;1163;0;0;0;8;Bold
+
+File:DroidKufi-Regular.ttf
+2;1
+Droid Arabic Kufi
+-1;DroidArabicKufi;0;5;5;2;65535;1281;615;896;0;1752;1896;1752;1896;0;0;0;8;Regular
+
+File:DejaVuSans-Oblique.ttf
+2;1
+DejaVu Sans
+-1;DejaVuSans-Oblique;1;5;5;2;65535;928;235;163;0;2674;1163;2674;1163;0;0;0;0;Oblique
+
+File:DejaVuSans-ExtraLight.ttf
+2;1
+DejaVu Sans Light
+-1;DejaVuSans-ExtraLight;0;2;5;2;65535;928;235;163;0;2391;1163;2391;1163;0;0;0;0;ExtraLight
+
+File:DejaVuSans-BoldOblique.ttf
+2;1
+DejaVu Sans
+-1;DejaVuSans-BoldOblique;1;8;5;2;65535;928;235;163;0;3064;1163;3064;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSans.ttf
+2;1
+DejaVu Sans
+-1;DejaVuSans;0;5;5;2;65535;928;235;163;1;2813;1163;2813;1163;0;0;0;0;Book
+
+File:Hack-BoldItalic.ttf
+2;1
+Hack
+-1;Hack-BoldItalic;2;8;5;1;65535;928;235;163;0;1562;1163;1562;1163;0;0;0;0;Bold Italic
+
+File:DejaVuSansMono.ttf
+2;1
+DejaVu Sans Mono
+-1;DejaVuSansMono;0;5;5;1;65535;928;235;163;0;1274;1163;1274;1163;0;0;0;0;Book
+
+File:Fantom-NerdFont-Symbols.ttf
+2;1
+Symbols Nerd Font
+-1;SymbolsNerdFontC-2048-em;0;5;5;2;65535;1069;286;355;0;1782;1355;1782;1355;0;0;0;0;2048-em
+
+File:DejaVuSans-Bold.ttf
+2;1
+DejaVu Sans
+-1;DejaVuSans-Bold;0;8;5;2;65535;928;235;163;0;3044;1163;3044;1163;0;0;0;0;Bold
+
+File:FiraCode-Medium.ttf
+2;1
+Fira Code Medium
+-1;FiraCode-Medium;0;6;5;1;65535;935;265;200;0;2978;1200;2978;1200;0;0;0;0;Medium
+
+File:DejaVuSerifCondensed.ttf
+2;1
+DejaVu Serif Condensed
+-1;DejaVuSerifCondensed;0;5;4;2;65535;928;235;163;0;2587;1163;2587;1163;0;0;0;0;Condensed
+
+File:DejaVuMathTeXGyre.ttf
+2;1
+DejaVu Math TeX Gyre
+-1;DejaVuMathTeXGyre-Regular;0;5;5;2;65535;2408;1858;3266;0;4501;4266;4501;4266;0;0;0;12;Regular
+
+FontCacheDirectory:1554213349:/usr/share/fonts/OTF
+File:Fantom-SauceCodePowerline-Semibold.otf
+2;1
+Source Code Pro Semibold
+-1;SauceCodePowerline-Semibold;0;7;5;1;65535;1041;273;314;0;797;1314;797;1314;0;0;0;65536;Semibold
+
+File:Fantom-SauceCodePowerline-Regular.otf
+2;1
+Sauce Code Powerline
+-1;SauceCodePowerline-Regular;0;5;5;1;65535;1041;273;314;0;782;1314;782;1314;0;0;0;65536;Regular
+
+File:Fantom-SauceCodePowerline-Medium.otf
+2;1
+Source Code Pro Medium
+-1;SauceCodePowerline-Medium;0;6;5;1;65535;1041;273;314;0;790;1314;790;1314;0;0;0;65536;Medium
+
+File:Fantom-SauceCodePowerline-ExtraLight.otf
+2;1
+Source Code Pro ExtraLight
+-1;SauceCodePowerline-ExtraLight;0;2;5;1;65535;1041;273;314;0;755;1314;755;1314;0;0;0;65536;ExtraLight
+
+File:Fantom-SauceCodePowerline-Bold.otf
+2;1
+Sauce Code Powerline
+-1;SauceCodePowerline-Bold;0;8;5;1;65535;1041;273;314;0;818;1314;818;1314;0;0;0;65536;Bold
+
+File:Fantom-SauceCodePowerline-Black.otf
+2;1
+Source Code Pro Black
+-1;SauceCodePowerline-Black;0;10;5;1;65535;1041;273;314;0;842;1314;842;1314;0;0;0;65536;Black
+
+File:Fantom-SauceCodePowerline-Light.otf
+2;1
+Source Code Pro Light
+-1;SauceCodePowerline-Light;0;3;5;1;65535;1041;273;314;0;763;1314;763;1314;0;0;0;65536;Light
+
+File:Fantom-SansMono-Italic.otf
+2;1
+Fantasque Sans Mono
+-1;FantasqueSansMono-Italic;2;5;5;1;65535;854;194;48;0;688;1048;688;1048;0;0;0;65544;Italic
+
+File:Fantom-SansMono-Regular.otf
+2;1
+Fantasque Sans Mono
+-1;FantasqueSansMono-Regular;0;5;5;1;65535;854;194;48;0;636;1048;636;1048;0;0;0;65544;Regular
+
+File:Fantom-SansMono-BoldItalic.otf
+2;1
+Fantasque Sans Mono
+-1;FantasqueSansMono-BoldItalic;2;8;5;1;65535;854;194;48;0;890;1048;890;1048;0;0;0;65544;Bold Italic
+
+File:Fantom-SansMono-Bold.otf
+2;1
+Fantasque Sans Mono
+-1;FantasqueSansMono-Bold;0;8;5;1;65535;854;194;48;0;652;1048;652;1048;0;0;0;65544;Bold
+

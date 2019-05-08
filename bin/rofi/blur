@@ -1,0 +1,7 @@
+#!/bin/bash
+# Create a blur background for rofi
+ 
+scrot -d0 /tmp/scr.png
+convert /tmp/scr.png -blur 0x3 /tmp/scrb.png
+ 
+i3lock -i /tmp/scrb.jpg
